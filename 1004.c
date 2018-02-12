@@ -20,3 +20,41 @@
 	*	각 테스트 케이스에 대해 어린 왕자가 거쳐야 할 최소의 행성계 진입/이탈 회수를 출력한다.
 	*
 */
+
+#include <stdio.h>
+#define TRUE 1
+#define FALSE 0
+
+int main()
+{
+	int t_case;
+	scanf("%d", &t_case);
+
+	for (int i = 0; i < t_case; i++)
+	{
+		int x1, y1, x2, y2;
+		scanf("%d %d %d %d", &x1, &y1, &x2, &y2);
+
+		int Ast_num;
+		scanf("%d", &Ast_num);
+
+		int count = 0;
+
+		for (int j = 0; j < Ast_num; j++)
+		{
+			int Ast_x, Ast_y, Ast_r, distance;
+			int in1, in2;
+
+			scanf("%d %d %d", &Ast_x, &Ast_y, &Ast_r);
+			distance = (Ast_x - x1) * (Ast_x - x1) + (Ast_y - y1) * (Ast_y - y1);
+			in1 = distance > Ast_r * Ast_r ? FALSE : TRUE;
+			distance = (Ast_x - x2) * (Ast_x - x2) + (Ast_y - y2) * (Ast_y - y2);
+			in2 = distance > Ast_r * Ast_r ? FALSE : TRUE;
+			if (in1 != in2)
+				count++;
+		}
+		printf("%d\n", count);
+	}
+
+	return 0;
+}
