@@ -48,4 +48,6 @@ int main()
 		sum = 0;
 		stack_O = 0;
 	}
+
+	return 0;
 }

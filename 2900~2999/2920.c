@@ -43,4 +43,5 @@ int main()
 	else
 		printf("mixed");
 
+	return 0;	
 }
