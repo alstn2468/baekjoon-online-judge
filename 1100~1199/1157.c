@@ -15,7 +15,8 @@
 */
 
 #include <stdio.h>
-int main(void)
+
+int main()
 {
 	char input[1000000] = { 0 };
 	int alp_count[26] = { 0 };
