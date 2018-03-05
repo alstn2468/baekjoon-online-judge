@@ -26,8 +26,73 @@
 
 #include <stdio.h>
 
+int get_LCM(int M, int N);
+int get_GCD(int M, int N);
+
 int main()
 {
+	int test_case;
+	int M, N, x, y;
+
+	scanf("%d", &test_case);
+
+	for (int i = 0; i < test_case; i++)
+	{
+		scanf("%d %d %d %d", &M, &N, &x, &y);
+
+		int now_M = 1, now_N = 1;
+		int lcm = get_LCM(M, N);
+
+		while (1)
+		{
+			if (x % N == y % N)
+			{
+				printf("%d\n", x);
+				break;
+			}
+
+			x += M;
+
+			if (x > lcm)
+			{
+				printf("-1\n");
+				break;
+			}
+		}
+	}
 
 	return 0;
-}																				
+}
+
+int get_LCM(int M, int N)
+{
+	int lcm = 0;
+
+	lcm = (M * N) / get_GCD(M, N);
+
+	return lcm;
+}
+
+int get_GCD(int M, int N)
+{
+	int gcd = 0;
+
+	int tmp = 0;
+
+	while (1)
+	{
+		tmp = M % N;
+
+		if (tmp == 0)
+		{
+			gcd = N;
+
+			break;
+		}
+
+		M = N;
+		N = tmp;
+	}
+
+	return gcd;
+}
