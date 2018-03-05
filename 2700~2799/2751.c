@@ -26,9 +26,7 @@ int main()
 	arr = (int *)malloc(sizeof(int) * test_case);
 
 	for (int i = 0; i < test_case; i++)
-	{
 		scanf("%d", &arr[i]);
-	}
 
 	MergeSort(arr, test_case);
 
@@ -57,19 +55,14 @@ int MergeSort(int *arr, int len)
 	int buf_index = 0;
 
 	while (left < mid && right < len)
-	{
 		buf[buf_index++] = (arr[left] < arr[right]) ? arr[left++] : arr[right++];
-	}
+
 	while (left < mid)
-	{
 		buf[buf_index++] = arr[left++];
-	}
+
 	while (right < len)
-	{
 		buf[buf_index++] = arr[right++];
-	}
+
 	for (left = 0; left < len; left++)
-	{
 		arr[left] = buf[left];
-	}
 }
