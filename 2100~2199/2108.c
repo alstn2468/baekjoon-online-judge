@@ -21,7 +21,127 @@
 	*
 */
 
+#include <stdio.h>
+#include <stdlib.h>
+
+int Get_Arithmetic_mean(int arr[], int n);
+int Get_Mid_Num(int arr[], int n);
+int Get_Mode(int arr[], int n);
+int Get_Range(int arr[], int n);
+
 int main()
 {
+	int test_case;
+	int *arr;
 
+	scanf("%d", &test_case);
+
+	arr = (int *)malloc(sizeof(int) * test_case);
+
+	for (int i = 0; i < test_case; i++)
+	{
+		scanf("%d", &arr[i]);
+	}
+
+	printf("%d\n", Get_Arithmetic_mean(arr, test_case));
+	printf("%d\n", Get_Mid_Num(arr, test_case));
+	printf("%d\n", Get_Mode(arr, test_case));
+	printf("%d\n", Get_Range(arr, test_case));
+
+	return 0;
+}
+
+int Get_Arithmetic_mean(int arr[], int n)
+{
+	int sum = 0;
+	double mean;
+
+	for (int i = 0; i < n; i++)
+		sum += arr[i];
+
+	mean = (double)sum / n;
+
+	if (mean > 0)
+	{
+		if (mean - (int)mean < 0.5)
+			mean = (int)mean;
+		else
+			mean = (int)mean + 1;
+	}
+	else if (mean < 0)
+	{
+		if (mean - (int)mean > -0.5)
+			mean = (int)mean;
+		else
+			mean = (int)mean - 1;
+	}
+
+	return (int)mean;
+}
+
+int func_compare(const void * first, const void * second)
+{
+	if (*(int*)first > *(int *)second)
+		return 1;
+	else if (*(int*)first < *(int *)second)
+		return -1;
+	else
+		return 0;
+}
+
+int Get_Mid_Num(int arr[], int n)
+{
+	qsort((int *)arr, n, sizeof(int), func_compare);
+
+	return arr[n / 2];
+}
+
+int Get_Mode(int arr[], int n)
+{
+	int num_count[10000] = { 0 };
+	int Mode_List[10000];
+	int check = 0;
+	int max_count = 0;
+
+	for (int i = 0; i < n; i++)
+	{
+		num_count[arr[i] + 4000]++;
+
+		if (num_count[arr[i] + 4000] > max_count)
+			max_count = num_count[arr[i] + 4000];
+	}
+
+	for (int i = 0; i < 10000; i++)
+	{
+		if (num_count[i] == max_count)
+			Mode_List[check++] = i - 4000;
+	}
+
+	if (check > 1)
+	{
+		qsort((void *)Mode_List, check, sizeof(int), func_compare);
+
+		return Mode_List[1];
+	}
+	else
+		return Mode_List[0];
+}
+
+int Get_Range(int arr[], int n)
+{
+	int max = -4000;
+	int min = 4000;
+	int range;
+
+	for (int i = 0; i < n; i++)
+	{
+		if (arr[i] > max)
+			max = arr[i];
+		if (arr[i] < min)
+			min = arr[i];
+	}
+
+	range = max - min;
+
+	return range;
 }
