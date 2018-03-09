@@ -34,43 +34,42 @@
 */
 #include <stdio.h>
 
-int fib_count_0 = 0;
-int fib_count_1 = 0;
+int test_case, input;
+int fib[2] = { 1, 0 };
+int fib2[2] = { 0, 1 };
 
-int fib(int n)
+void Sol(int num)
 {
-	if (n == 0)
+	for (int i = 2; i <= num; i++)
 	{
-		fib_count_0++;
-		return 0;
+		if (i % 2 == 0)
+		{
+			fib[0] = fib[0] + fib2[0];
+			fib[1] = fib[1] + fib2[1];
+		}
+		else
+		{
+			fib2[0] = fib[0] + fib2[0];
+			fib2[1] = fib[1] + fib2[1];
+		}
 	}
-	else if (n == 1)
-	{
-		fib_count_1++;
-		return 1;
-	}
+
+	if (input % 2 == 0)
+		printf("%d %d\n", fib[0], fib[1]);
 	else
-	{
-		return fib(n - 1) + fib(n - 2);
-	}
+		printf("%d %d\n", fib2[0], fib2[1]);
 }
 
 int main()
 {
-	int	t_case;
+	scanf("%d", &test_case);
 
-	scanf("%d", &t_case);
-
-	for(int i = 0; i < t_case; i++)
+	for (int i = 0; i < test_case; i++)
 	{
-		int t_input;
-		scanf("%d", &t_input);
-
-		fib_count_0 = 0;
-		fib_count_1 = 0;
-		fib(t_input);
-
-		printf("%d %d\n", fib_count_0, fib_count_1);
+		fib[0] = 1, fib[1] = 0;
+		fib2[0] = 0, fib2[1] = 1;
+		scanf("%d", &input);
+		Sol(input);
 	}
 
 	return 0;
