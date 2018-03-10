@@ -16,8 +16,49 @@
 */
 
 #include <stdio.h>
+#include <string.h>
+
+struct word_
+{
+	char word[51];
+	int str_len;
+};
+
+struct word_ Word[20001];
+
+int compare(struct word_ *a, struct word_ *b);
 
 int main()
 {
+	int test_case;
 
+	//struct word_ Word[20001];
+
+	scanf("%d", &test_case);
+
+	for (int i = 0; i < test_case; i++)
+	{
+		scanf("%s", Word[i].word);
+		Word[i].str_len = strlen(Word[i].word);
+	}
+
+	qsort(Word, test_case, sizeof(struct word_), compare);
+
+	int temp = 0;
+
+	for (int i = 1; i <= test_case; i++)
+	{
+		if (strcmp(Word[temp].word, Word[i].word))
+		{
+			printf("%s\n", Word[temp].word);
+			temp = i;
+		}
+	}
+
+	return 0;
+}
+
+int compare(struct word_ *a, struct word_ *b)
+{
+	return a->str_len > b->str_len ? 1 : a->str_len < b->str_len ? -1 : strcmp(a->word, b->word);
 }
