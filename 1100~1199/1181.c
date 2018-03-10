@@ -24,15 +24,13 @@ struct word_
 	int str_len;
 };
 
-struct word_ Word[20001];
-
 int compare(struct word_ *a, struct word_ *b);
 
 int main()
 {
 	int test_case;
 
-	//struct word_ Word[20001];
+	struct word_ Word[20001];
 
 	scanf("%d", &test_case);
 
