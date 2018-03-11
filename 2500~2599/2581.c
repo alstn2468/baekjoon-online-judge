@@ -58,7 +58,7 @@ int main()
 		printf("%d", -1);
 	else
 	{
-		printf("\n%d\n", sum);
+		printf("%d\n", sum);
 		printf("%d\n", min_val);
 	}
 
