@@ -30,7 +30,7 @@ int main()
 			continue;
 		else
 		{
-			for (int j = 2; j*j <= arr[i]; j++)
+			for (int j = 2; j * j <= arr[i]; j++)
 			{
 				if (arr[i] % j == 0)
 				{
