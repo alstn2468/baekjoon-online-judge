@@ -50,7 +50,7 @@ int main()
 			sum += i;
 
 			if (count == 1)
-				min_val == i;
+				min_val = i;
 		}
 	}
 
@@ -58,7 +58,7 @@ int main()
 		printf("%d", -1);
 	else
 	{
-		printf("%d\n", sum);
+		printf("\n%d\n", sum);
 		printf("%d\n", min_val);
 	}
 
