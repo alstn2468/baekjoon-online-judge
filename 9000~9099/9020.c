@@ -38,7 +38,7 @@ void Eratosthenes(int *arr)
 
 void GoldBach(int n, int *arr)
 {
-	int i, j, mid  = n >> 1;
+	int i, j, mid  = n / 2;
 
 	for (i = j = mid; i <= n; i--, j++)
 	{
@@ -62,6 +62,12 @@ int main()
 	for (int i = 0; i < test_case; i++)
 	{
 		scanf("%d", &input);
+
+		if (input % 2 != 0)
+		{
+			printf("Input Error!\n");
+			return 0;
+		}
 
 		GoldBach(input, arr);
 	}
