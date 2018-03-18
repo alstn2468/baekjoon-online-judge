@@ -20,3 +20,47 @@
     *   입력된 수열을 만들기 위해 필요한 연산을 한 줄에 한 개씩 출력한다.
     *   push연산은 +로, pop 연산은 -로 표현하도록 한다. 불가능한 경우 NO를 출력한다.
 */
+
+#include <stdio.h>
+
+int main()
+{
+    int stacinput[100000];
+    char result[200000];
+
+    int test_case, input;
+    int stacinput_Idx = 0, result_Idx = 0, max = 0;
+
+    scanf("%d", &test_case);
+
+    while(test_case--)
+    {
+        scanf("%d", &input);
+
+        if(input > max)
+        {
+            for(int i = max; i < input; i++)
+            {
+                stacinput[stacinput_Idx++] = i + 1;
+                result[result_Idx++] = '+';
+            }
+        }
+        else
+        {
+            if(stacinput[stacinput_Idx - 1] != input)
+            {
+                printf("NO\n");
+                return 0;
+            }
+            stacinput_Idx--;
+            result[result_Idx++] = '-';
+
+            if(max < input)
+                max = input;
+        }
+    }
+    for(int i = 0; i < result_Idx; i++)
+        printf("%c\n", result[i]);
+
+    return 0;
+}
