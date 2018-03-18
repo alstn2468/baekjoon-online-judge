@@ -25,11 +25,11 @@
 
 int main()
 {
-    int stacinput[100000];
+    int stack[100000];
     char result[200000];
 
     int test_case, input;
-    int stacinput_Idx = 0, result_Idx = 0, max = 0;
+    int stack_Idx = 0, result_Idx = 0, max = 0;
 
     scanf("%d", &test_case);
 
@@ -41,18 +41,18 @@ int main()
         {
             for(int i = max; i < input; i++)
             {
-                stacinput[stacinput_Idx++] = i + 1;
+                stack[stack_Idx++] = i + 1;
                 result[result_Idx++] = '+';
             }
         }
         else
         {
-            if(stacinput[stacinput_Idx - 1] != input)
+            if(stack[stack_Idx - 1] != input)
             {
                 printf("NO\n");
                 return 0;
             }
-            stacinput_Idx--;
+            stack_Idx--;
             result[result_Idx++] = '-';
 
             if(max < input)
