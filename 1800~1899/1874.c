@@ -38,7 +38,7 @@ int main()
 		{
 			for (int j = now; j < input; j++)
 			{
-				stack[stack_Idx++] = j + 1,
+				stack[stack_Idx++] = j + 1;
 				result[result_Idx++] = '+';
 			}
 			now = input;
