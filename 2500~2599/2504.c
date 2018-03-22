@@ -51,9 +51,7 @@ int main()
 			mul *= 2;
 
 			if (check(list[i + 1]) == 2)
-			{
 				result += mul;
-			}
 		}
 		else if (check(list[i]) == 3)
 		{
@@ -61,9 +59,7 @@ int main()
 			mul *= 3;
 
 			if (check(list[i + 1]) == 4)
-			{
 				result += mul;
-			}
 		}
 		else if (check(list[i]) == 2)
 		{
@@ -85,9 +81,7 @@ int main()
 				mul /= 3;
 			}
 			else
-			{
 				stack[idx++] = list[i];
-			}
 		}
 	}
 	if (idx == 0)
