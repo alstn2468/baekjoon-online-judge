@@ -41,19 +41,19 @@ typedef struct _queue
 	Data Q_Arr[QUEUE_LEN];
 } cQueue;
 
-typedef cQueue Q;
+typedef cQueue Queue;
 
-void Queue_Init(Q * pq);
+void Queue_Init(Queue * pq);
 void Set_Next_Idx(int * idx);
-void Queue_Push(Q * pq, Data data);
+void Queue_Push(Queue * pq, Data data);
 
 int Get_Next_Idx(int idx);
-int Queue_Is_Empty(Q * pq);
-int Queue_Is_Full(Q * pq);
+int Queue_Is_Empty(Queue * pq);
+int Queue_Is_Full(Queue * pq);
 
-Data Queue_Front(Q * pq);
-Data Queue_Back(Q * pq);
-Data Queue_Pop(Q * pq);
+Data Queue_Front(Queue * pq);
+Data Queue_Back(Queue * pq);
+Data Queue_Pop(Queue * pq);
 
 int main()
 {
@@ -62,10 +62,10 @@ int main()
 
 	scanf("%d", &test_case);
 
-	Q Queue;
+	Queue Q;
 	Data data;
 
-	Queue_Init(&Queue);
+	Queue_Init(&Q);
 
 	for (int i = 0; i < test_case; i++)
 	{
@@ -74,18 +74,18 @@ int main()
 		if (!strcmp(input, "push"))
 		{
 			scanf("%d", &data);
-			Queue_Push(&Queue, data);
+			Queue_Push(&Q, data);
 		}
 		else if (!strcmp(input, "pop"))
-			printf("%d\n", Queue_Pop(&Queue));
+			printf("%d\n", Queue_Pop(&Q));
 		else if (!strcmp(input, "size"))
-			printf("%d\n", Queue.numOfData);
+			printf("%d\n", Q.numOfData);
 		else if (!strcmp(input, "empty"))
-			printf("%d\n", Queue_Is_Empty(&Queue));
+			printf("%d\n", Queue_Is_Empty(&Q));
 		else if (!strcmp(input, "front"))
-			printf("%d\n", Queue_Front(&Queue));
+			printf("%d\n", Queue_Front(&Q));
 		else if (!strcmp(input, "back"))
-			printf("%d\n", Queue_Back(&Queue));
+			printf("%d\n", Queue_Back(&Q));
 		else
 			printf("INPUT ERROR!\n");
 	}
@@ -93,7 +93,7 @@ int main()
 	return 0;
 }
 
-void Queue_Init(Q * pq)
+void Queue_Init(Queue * pq)
 {
 	pq->head = NULL;
 	pq->numOfData = 0;
@@ -108,7 +108,7 @@ void Set_Next_Idx(int * idx)
 		(*idx)++;
 }
 
-void Queue_Push(Q * pq, Data data)
+void Queue_Push(Queue * pq, Data data)
 {
 	if (Queue_Is_Full(pq) == TRUE)
 		return;
@@ -126,7 +126,7 @@ int Get_Next_Idx(int idx)
 		return idx + 1;
 }
 
-int Queue_Is_Empty(Q * pq)
+int Queue_Is_Empty(Queue * pq)
 {
 	if (pq->head == pq->tail)
 		return TRUE;
@@ -134,7 +134,7 @@ int Queue_Is_Empty(Q * pq)
 		return FALSE;
 }
 
-int Queue_Is_Full(Q * pq)
+int Queue_Is_Full(Queue * pq)
 {
 	if (Get_Next_Idx(pq->tail) == pq->head)
 		return TRUE;
@@ -142,7 +142,7 @@ int Queue_Is_Full(Q * pq)
 		return FALSE;
 }
 
-Data Queue_Front(Q * pq)
+Data Queue_Front(Queue * pq)
 {
 	if (Queue_Is_Empty(pq) == TRUE)
 		return -1;
@@ -150,7 +150,7 @@ Data Queue_Front(Q * pq)
 		return pq->Q_Arr[pq->head];
 }
 
-Data Queue_Back(Q * pq)
+Data Queue_Back(Queue * pq)
 {
 	if (Queue_Is_Empty(pq) == TRUE)
 		return -1;
@@ -158,7 +158,7 @@ Data Queue_Back(Q * pq)
 		return pq->Q_Arr[pq->tail - 1];
 }
 
-Data Queue_Pop(Q * pq)
+Data Queue_Pop(Queue * pq)
 {
 	if (Queue_Is_Empty(pq) == TRUE)
 		return -1;
