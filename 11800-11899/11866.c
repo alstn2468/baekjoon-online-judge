@@ -36,7 +36,7 @@ typedef struct _head
 	int size;
 } Head;
 
-List * Make_List(Head *ph, int num);
+List * Make_List(Head *phead, int num);
 void Remove_List(List *plist);
 
 int main()
@@ -84,24 +84,24 @@ int main()
 	return 0;
 }
 
-List * Make_List(Head *ph, int num)
+List * Make_List(Head *phead, int num)
 {
 	List *list = (List *)malloc(sizeof(List));
 	list->data = num;
 	list->next = 0;
 
-	if (ph->front == 0)
+	if (phead->front == 0)
 	{
-		ph->front = list;
-		ph->rear = list;
-		ph->size++;
+		phead->front = list;
+		phead->rear = list;
+		phead->size++;
 	}
 	else
 	{
-		list->pre = ph->rear;
-		ph->rear->next = list;
-		ph->rear = list;
-		ph->size++;
+		list->pre = phead->rear;
+		phead->rear->next = list;
+		phead->rear = list;
+		phead->size++;
 	}
 
 	return list;
