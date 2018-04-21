@@ -38,4 +38,5 @@ int main()
 
 	printf("%lld\n", arr[input]);
 
+	return 0;
 }
