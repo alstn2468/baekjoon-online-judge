@@ -30,15 +30,15 @@ N, K = map(int, input().split())
 r1 = 1
 r2 = 1
 
-for i in range(1, N+1):
+for i in range(1, N + 1):
     r1 *= i
     r1 %= m
 
-for i in range(1, K+1):
+for i in range(1, K + 1):
     r2 *= i
     r2 %= m
 
-for i in range(1, N-K+1):
+for i in range(1, N - K + 1):
     r2 *= i
     r2 %= m
 
