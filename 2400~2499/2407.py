@@ -15,6 +15,7 @@ for i in range(2, 101):
     for j in range(0, i + 1):
         if i == j or j == 0:
             fact[i][j] = 1
+
         elif fact[i][j] == 0:
             fact[i][j] = fact[i - 1][j - 1] + fact[i - 1][j]
 

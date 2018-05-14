@@ -12,14 +12,18 @@ m = 1000000007
 
 def x_y(x, y):
     xy = 1
+
     while y > 0:
+
         if(y % 2) == 1:
             xy = x
             y -= 1
             xy %= m
+
         x = x
         x %= m
         y /= 2
+
     return xy
 
 N, K = map(int, input().split())
@@ -43,4 +47,5 @@ r2 = x_y(r2, m-2)
 r2 %= m
 r1 = r2
 r1 %= m
+
 print(r1)
