@@ -14,3 +14,25 @@
 #
 # 출력
 # 각 테스트 케이스에 대해 해빈이가 알몸이 아닌 상태로 의상을 입을 수 있는 경우를 출력하시오.
+
+test_case = int(input())
+
+for i in range(test_case) :
+	items_num = int(input())
+	items = {}
+
+	for i in range(items_num) :
+		item, type = input().split()
+
+		if not type in items :
+			items[type] = []
+
+		items[type].append(item)
+
+	sum = 1
+
+	for i in items :
+		sum *= len(items[i]) + 1
+
+	sum -= 1
+	print(sum)
