@@ -18,3 +18,24 @@
 #
 # 출력
 # 첫째 줄에 합이 최대가 되는 경로에 있는 수의 합을 출력한다.
+
+N = int(input())
+tri = [0] * N
+
+for i in range(N) :
+    tri[i] = list(map(int, input().split()))
+
+for i in range(1, N) :
+
+    for j in range(len(tri[i])) :
+
+        if j == 0 :
+            tri[i][j] += tri[i - 1][0]
+
+        elif j == i :
+            tri[i][j] += tri[i - 1][j - 1]
+
+        else :
+            tri[i][j] += max(tri[i - 1][j  -1], tri[i - 1][j])
+
+print(max(tri[N-1]))
