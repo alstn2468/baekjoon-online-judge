@@ -16,13 +16,14 @@
 # 출력
 # 첫째 줄에 모든 집을 칠할 때 드는 비용의 최솟값을 출력한다.
 
-matrix=[]
-N=int(input())
+matrix = []
+N = int(input())
 
 for i in range(N) :
 	matrix.append([0, 0, 0])
 
-for i in range(N):
+for i in range(N) :
+	
 	if i == 0 :
 		matrix[0] = list(map(int, input().split()))
 
