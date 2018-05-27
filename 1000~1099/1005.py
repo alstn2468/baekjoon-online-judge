@@ -33,6 +33,10 @@
 
 import sys
 
+preBuilt = dict()
+N, D, K = -1, -1, -1
+cache = dict()
+
 def Sol(W) :
 
     if W in cache :
