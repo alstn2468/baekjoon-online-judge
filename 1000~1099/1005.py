@@ -33,6 +33,8 @@
 
 import sys
 
+sys.setrecursionlimit(10 ** 6)
+
 preBuilt = dict()
 N, D, K = -1, -1, -1
 cache = dict()
