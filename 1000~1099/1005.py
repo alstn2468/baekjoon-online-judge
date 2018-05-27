@@ -30,3 +30,49 @@
 # 건물 W를 건설완료 하는데 드는 최소 시간을 출력한다.
 # 편의상 건물을 짓는 명령을 내리는 데는 시간이 소요되지 않는다고 가정한다.
 # 모든 건물을 지을 수 없는 경우는 없다.
+
+import sys
+
+preBuilt = dict()
+N, D, K = -1, -1, -1
+cache = dict()
+
+def Sol(W) :
+
+    if W in cache :
+        return cache[W]
+
+    if W not in preBuilt :
+        return D[W - 1]
+
+    ret = 0
+
+    for preW in preBuilt[W] :
+
+        ret = max(ret, Sol(preW))
+
+    ret += D[W - 1]
+    cache[W] = ret
+
+    return ret
+
+line = lambda : sys.stdin.readline()
+
+T = int(line())
+
+for i in range(T) :
+
+    N, K = (int(x) for x in line().split(' '))
+    D = [int(x) for x in line().split(' ')]
+
+    preBuilt = dict()
+    cache = dict()
+
+    for j in range(K) :
+
+        X, Y = (int(x) for x in line().split(' '))
+        preBuilt.setdefault(Y, []).append(X)
+
+    W = int(line())
+
+    print(Sol(W))
