@@ -44,4 +44,4 @@ length = input()
 for i in range(int(length) - 1) :
     n = stair(n)
 
-print( total(n) % 1000000000 )
+print(total(n) % 1000000000)
