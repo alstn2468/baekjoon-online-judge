@@ -13,7 +13,7 @@
 # 출력
 # 첫째 줄에 경우의 수를 출력한다. 경우의 수는 2^31보다 작다.
 
-n, k = map(int,input().split())
+n, k = map(int, input().split())
 coins = [int(input()) for i in range (n)]
 
 dp = [0 for i in range (10001)]
