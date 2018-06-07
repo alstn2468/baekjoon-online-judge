@@ -18,3 +18,10 @@
 # 출력
 # 첫째 줄에 이동 가능한 경로의 수 H를 출력한다.
 # 모든 입력에 대하여 H는 10억 이하의 음이 아닌 정수이다.
+
+M, N = map(int, input().split())
+
+map = [[int(x) for x in input().split()] for i in range(M)]
+
+for i in range(M) :
+    print(map[i])
