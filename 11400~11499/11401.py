@@ -10,12 +10,12 @@
 
 m = 1000000007
 
-def x_y(x, y):
+def x_y(x, y) :
     xy = 1
 
-    while y > 0:
+    while y > 0 :
 
-        if(y % 2) == 1:
+        if(y % 2) == 1 :
             xy = x
             y -= 1
             xy %= m
@@ -31,15 +31,15 @@ N, K = map(int, input().split())
 r1 = 1
 r2 = 1
 
-for i in range(1, N + 1):
+for i in range(1, N + 1) :
     r1 = i
     r1 %= m
 
-for i in range(1, K + 1):
+for i in range(1, K + 1) :
     r2 = i
     r2 %= m
 
-for i in range(1, N - K + 1):
+for i in range(1, N - K + 1) :
     r2 = i
     r2 %= m
 
