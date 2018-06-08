@@ -10,3 +10,19 @@
 #
 # 출력
 # 첫째 줄에 입력으로 주어진 두 문자열의 LCS의 길이를 출력한다.
+
+def LCS(str1, str2, str1_len, str2_len) :
+
+    if str1_len == 0 or str2_len == 0 :
+        return 0
+
+    elif str1[str1_len - 1] == str2[str2_len - 1] :
+        return 1 + LCS(str1, str2, str1_len - 1, str2_len - 1)
+
+    else :
+        return max(LCS(str1, str2, str1_len, str2_len - 1), LCS(str1, str2, str1_len - 1, str2_len))
+
+str1 = input()
+str2 = input()        
+
+print(LCS(str1, str2, len(str1), len(str2)))
