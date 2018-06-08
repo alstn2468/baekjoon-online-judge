@@ -11,7 +11,7 @@
 # 출력
 # 첫째 줄에 입력으로 주어진 두 문자열의 LCS의 길이를 출력한다.
 
-def LCS(str1 , str2) :
+def LCS(str1, str2) :
 
     m = len(str1)
     n = len(str2)
