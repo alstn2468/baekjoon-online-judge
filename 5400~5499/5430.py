@@ -18,3 +18,39 @@
 #	각 테스트 케이스에 대해서, 입력으로 주어진 정수 배열에 함수를 수행한 결과를 출력한다.
 #	만약, 에러가 발생한 경우에는 error를 출력한다.
 #
+
+import sys
+
+for i in range(int(input())) :
+
+    reverse_check = False
+    command = str(sys.stdin.readline())
+
+    n = int(input())
+    lst = list(eval(sys.stdin.readline()))
+
+    for each in command :
+
+        if each == "R" :
+
+            reverse_check = not reverse_check
+
+        elif each == "D" :
+
+            if len(lst) == 0 :
+                print("error")
+                break
+
+            if reverse_check :
+                lst.pop(-1)
+
+            else :
+                lst.pop(0)
+
+    else :
+        
+        if reverse_check :
+            print(str(lst[::-1]).replace(" ", ""))
+
+        else :
+            print(str(lst).replace(" ", ""))
