@@ -49,10 +49,10 @@ for i in range(int(input())) :
             else :
                 lst.pop(0)
 
-    else :
-
-        if reverse_check :
-            print(str(lst[::-1]).replace(" ", ""))
-
         else :
-            print(str(lst).replace(" ", ""))
+
+            if reverse_check :
+                print(str(lst[::-1]).replace(" ", ""))
+
+            else :
+                print(str(lst).replace(" ", ""))
