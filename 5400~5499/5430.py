@@ -53,4 +53,4 @@ for _ in range(N) :
         print("error")
 
     else :
-        print("["+','.join(str(c) for c in result) + "]")
+        print("[" + ','.join(str(c) for c in result) + "]")
