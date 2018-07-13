@@ -24,7 +24,7 @@
 N = int(input())
 
 for _ in range(N) :
-    inst = [c for c in input()]
+    command = [c for c in input()]
     length = int(input())
 
     if length != 0 :
@@ -34,22 +34,22 @@ for _ in range(N) :
         input()
         nums = []
 
-    s, e, flip = 0, 0, 1
+    front, rear, reverse_check = 0, 0, 1
 
-    for cur in inst :
+    for cur in command :
         if cur == 'R' :
-            flip = -flip
+            reverse_check = -reverse_check
 
         elif cur == 'D' :
-            if flip == 1 :
-                s += 1
+            if reverse_check == 1 :
+                front += 1
 
             else :
-                e += 1
+                rear += 1
 
-    result = nums[s:len(nums) - e][::flip]
+    result = nums[front:len(nums) - rear][::reverse_check]
 
-    if s + e > length :
+    if front + rear > length :
         print("error")
 
     else :
