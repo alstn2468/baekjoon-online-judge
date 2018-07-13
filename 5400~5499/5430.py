@@ -21,7 +21,7 @@
 #	각 테스트 케이스에 대해서, 입력으로 주어진 정수 배열에 함수를 수행한 결과를 출력한다.
 #	만약, 에러가 발생한 경우에는 error를 출력한다.
 
-import sys
+import sys, collections
 
 for i in range(int(input())) :
 
@@ -29,30 +29,47 @@ for i in range(int(input())) :
     command = str(sys.stdin.readline())
 
     n = int(input())
-    lst = list(eval(sys.stdin.readline()))
+    lst = sys.stdin.readline()
+    deque = collections.deque()
+
+    for idx in lst :
+
+        if idx.isdigit() :
+            deque.append(idx)
 
     for each in command :
 
-        if each == "R" :
+        if len(deque) == 0 :
+            print("error")
+            break
 
+        if each == "R" :
             reverse_check = not reverse_check
 
         elif each == "D" :
 
-            if len(lst) == 0 :
-                print("error")
-                break
-
             if reverse_check :
-                lst.pop(-1)
+                deque.pop()
 
             else :
-                lst.pop(0)
+                deque.popleft()
 
         else :
 
             if reverse_check :
-                print(str(lst[::-1]).replace(" ", ""))
+                lst = list(reversed(deque))
 
             else :
-                print(str(lst).replace(" ", ""))
+                lst = list(deque)
+
+            print('[', end = '')
+
+            for i in range(0, len(lst)) :
+
+                if i == len(lst) - 1 :
+                    print(str(lst[i]), end = '')
+
+                else :
+                    print(str(lst[i]) + ',', end = '')
+
+            print(']')
