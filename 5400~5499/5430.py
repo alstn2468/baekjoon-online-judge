@@ -39,14 +39,14 @@ for i in range(int(input())) :
 
     for each in command :
 
-        if len(deque) == 0 :
-            print("error")
-            break
-
         if each == "R" :
             reverse_check = not reverse_check
 
         elif each == "D" :
+
+            if len(deque) == 0 :
+                print("error")
+                break
 
             if reverse_check :
                 deque.pop()
