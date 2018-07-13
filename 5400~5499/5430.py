@@ -21,55 +21,36 @@
 #	각 테스트 케이스에 대해서, 입력으로 주어진 정수 배열에 함수를 수행한 결과를 출력한다.
 #	만약, 에러가 발생한 경우에는 error를 출력한다.
 
-import sys, collections
+N = int(input())
 
-for i in range(int(input())) :
+for _ in range(N) :
+    inst = [c for c in input()]
+    length = int(input())
 
-    reverse_check = False
-    command = str(sys.stdin.readline())
+    if length != 0 :
+        nums = [int(c) for c in input().strip("[]").split(",")]
 
-    n = int(input())
-    lst = sys.stdin.readline()
-    deque = collections.deque()
+    else :
+        input()
+        nums = []
 
-    for idx in lst :
+    s, e, flip = 0, 0, 1
 
-        if idx.isdigit() :
-            deque.append(idx)
+    for cur in inst :
+        if cur == 'R' :
+            flip = -flip
 
-    for each in command :
-
-        if each == "R" :
-            reverse_check = not reverse_check
-
-        elif each == "D" :
-
-            if len(deque) == 0 :
-                print("error")
-                break
-
-            if reverse_check :
-                deque.pop()
+        elif cur == 'D' :
+            if flip == 1 :
+                s += 1
 
             else :
-                deque.popleft()
+                e += 1
 
-        else :
+    result = nums[s:len(nums) - e][::flip]
 
-            if reverse_check :
-                lst = list(reversed(deque))
+    if s + e > length :
+        print("error")
 
-            else :
-                lst = list(deque)
-
-            print('[', end = '')
-
-            for i in range(0, len(lst)) :
-
-                if i == len(lst) - 1 :
-                    print(str(lst[i]), end = '')
-
-                else :
-                    print(str(lst[i]) + ',', end = '')
-
-            print(']')
+    else :
+        print("["+','.join(str(c) for c in result) + "]")
