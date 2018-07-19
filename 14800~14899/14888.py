@@ -39,7 +39,7 @@ from functools import reduce
 
 def insert_operation(length, input_num, input_oper) :
     ops = {'0': (lambda x, y : x + y), '1': (lambda x, y : x - y),
-           '2': (lambda x, y : x * y), '3': (lambda x, y : x / y)}
+           '2': (lambda x, y : x * y), '3': (lambda x, y : int(x / y))}
 
     oper_permutation = []
     result = []
@@ -53,7 +53,6 @@ def insert_operation(length, input_num, input_oper) :
         result.append(reduce(lambda x, y : ops[i.pop()](x, y), input_num))
 
     print(str(max(result)) + '\n' + str(min(result)))
-
 
 n = int(input())
 numbers = list(map(int, input().split()))
