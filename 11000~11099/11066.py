@@ -47,6 +47,7 @@ for t in range(int(input())) :
         sum[i + 1] = sum[i] + a[i]
 
     for k in range(1, n) :
+
         for i in range(1, n - k + 1) :
             dp[i][i + k] = 1e9
 
