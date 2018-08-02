@@ -14,3 +14,16 @@
 #
 # 출력
 # 각 테스트 케이스 마다 P(N)을 출력한다.
+
+T = int(input())
+
+dp = [1, 1, 1, 2, 2]
+dp.extend([0 for _ in range(96)])
+
+for i in range(5, 100) :
+    dp[i] = dp[i - 1] + dp[i - 5]
+
+for _ in range(T) :
+    N = int(input())
+
+    print(dp[N - 1])
