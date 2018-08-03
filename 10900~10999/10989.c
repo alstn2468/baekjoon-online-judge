@@ -32,7 +32,7 @@ int main()
 	{
 		if (num[input] > 0)
 		{
-			for (int j = 0; j <num[i]; j++)
+			for (int j = 0; j < num[i]; j++)
 			{
 				printf("%d\n", i);
 			}
