@@ -9,3 +9,21 @@
 # 출력
 # 첫째 줄에는 입력으로 주어진 두 수의 최대공약수를,
 # 둘째 줄에는 입력으로 주어진 두 수의 최소 공배수를 출력한다.
+
+def get_gcd(n1, n2) :
+    if n1 < n2 :
+        n1, n2 = n2, n1
+
+    while n2 != 0 :
+        n = n1 % n2
+        n1 = n2
+        n2 = n
+    return n1
+
+def get_lcm(n1, n2, gcd) :
+    return n1 * n2 // gcd
+
+n1, n2 = map(int, input().split())
+
+print(get_gcd(n1, n2))
+print(get_lcm(n1, n2, get_gcd(n1, n2)))
