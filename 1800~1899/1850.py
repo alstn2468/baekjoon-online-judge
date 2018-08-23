@@ -10,3 +10,17 @@
 #
 # 출력
 # 첫째 줄에 A와 B의 최대공약수를 출력한다. 정답은 천만 자리를 넘지 않는다.
+
+def get_gcd(n1, n2) :
+    if n2 == 0 :
+        return n1
+
+    else :
+        return get_gcd(n2, n1 % n2)
+
+a, b = map(int, input().split())
+
+for i in range(1, get_gcd(a, b) + 1) :
+    print('1', end = '')
+
+print()
