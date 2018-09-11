@@ -29,3 +29,15 @@
 #
 # 출력
 # 첫째 줄에 최대 사람 수를 출력한다.
+
+train = [list(int(x) for x in input().split()) for i in range(4)]
+f = lambda x, y : x if x > y else y
+
+max, now = 0, 0
+
+for i in train :
+    now = now + i[1] - i[0]
+
+    max = f(now, max)
+
+print(max)
