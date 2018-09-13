@@ -26,4 +26,12 @@
 # 첫째 줄에 김지민과 임한수가 대결하는 라운드 번호를 출력한다.
 # 만약 서로 대결하지 않을 때는 -1을 출력한다.
 
-N, Kim_num, Lim_num = map(int, input().spilt())
+N, Kim, Lim = map(int, input().split())
+round = 0
+
+while Kim != Lim :
+    round += 1
+    f = lambda x: (x - (x // 2))
+    Kim, Lim = f(Kim), f(Lim)
+
+print(round)
