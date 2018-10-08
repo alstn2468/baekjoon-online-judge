@@ -39,7 +39,20 @@
 # 각 줄에는 W개의 문자가 있어야 하며, 입력에서 주어진 각 고기 덩이가 뒤집힌 채로 있어야 한다.
 # 이를 만족하는 어느 답을 출력해도 정답으로 인정한다.
 
+grill = [[0 for i in range(12)] for j in range(12)]
+
 T = int(input())
 
 for _ in range(T) :
-  
+    H, W = map(int, input().split())
+
+    for i in range(H) :
+        line = input()
+        for j in range(W) :
+            grill[i][j] = line[j]
+
+    for i in range(H) :
+        for j in range(W - 1, -1, -1) :
+            print(grill[i][j], end = "")
+
+        print()
