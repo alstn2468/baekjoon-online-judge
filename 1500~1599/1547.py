@@ -21,3 +21,10 @@
 # 출력
 # 첫째 줄에 공이 들어있는 컵의 번호를 출력한다.
 # 공이 사라져서 컵 밑에 없는 경우에는 -1을 출력한다.
+
+M = int(input())
+cup = []
+
+for _ in range(M) :
+    cup.append(list(map(int, input().split())))
+    
