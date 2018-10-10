@@ -41,6 +41,8 @@
 # 각 테스트 케이스마다, N마리 개미 중에서 k번째로 떨어지는 개미의 ID를 출력한다.
 # 개미의 ID가 양수인 경우에 +를 출력하면 안된다.
 
+import sys
+
 def solution(L, K, ants) :
     drop_left, drop_right = [], []
 
@@ -57,15 +59,15 @@ def solution(L, K, ants) :
 
     return drops[K - 1][1][1]
 
-T = int(input())
+T = int(sys.stdin.readline().strip())
 
 for _ in range(T) :
-    N, L, K = list(map(int, input().split()))
+    N, L, K = list(map(int, sys.stdin.readline().strip().split()))
 
     ants = []
 
     for _ in range(N) :
-        p, a = list(map(int, input().split()))
+        p, a = list(map(int, sys.stdin.readline().strip().split()))
         ants.append((p, a))
 
     print(solution(L, K, ants))
