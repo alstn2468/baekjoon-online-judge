@@ -9,6 +9,7 @@ Department of Computer Software Engineering
 
 
 ### 2018 / 02 / 12 시작
+- 푼 문제<br/>
 > 1000 A+B<br/>
 > 1001 A-B<br/>
 > 1002 터렛<br/>
