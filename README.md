@@ -1,9 +1,12 @@
-BaekJoon_Online_Judge
-=====================
+[백준 온라인 저지](https://www.acmicpc.net/) 문제 풀이
+==========================
+Soonchunhyang University<br/>
+Department of Computer Software Engineering
+------------------------------------------
 
-백준 온라인 저지 문제 풀이
-<https://www.acmicpc.net/>
---------------------------
+##  [김민수](https://github.com/alstn2468)
+## [ [Facebook](https://www.facebook.com/profile.php?id=100003769223078) ] [ [Github](https://github.com/alstn2468) ] [ [LinkedIn](https://www.linkedin.com/in/minsu-kim-336289160/) ] [ [Webpage](https://kimminsu.ml) ]<br/>
+
 
 ### 2018 / 02 / 12 시작
 > 1000 A+B<br/>
