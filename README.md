@@ -118,6 +118,7 @@ Department of Computer Software Engineering
 > 9375 패션왕 신해빈<br/>
 > 9461 파도반 수열<br/>
 > 9498 시험 성적<br/>
+> 9653 스타워즈 로고<br/>
 > 10039 평균 점수<br/>
 > 10171 고양이<br/>
 > 10172 개<br/>
