@@ -102,6 +102,7 @@ Department of Computer Software Engineering
 > 4673 셀프 넘버<br/>
 > 4948 베르트랑 공준<br/>
 > 5337 웰컴<br/>
+> 5338 마이크로소프트 로고<br/>
 > 5430 AC<br/>
 > 5622 다이얼<br/>
 > 6064 카잉 달력<br/>
