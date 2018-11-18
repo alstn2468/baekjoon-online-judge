@@ -96,6 +96,7 @@ Department of Computer Software Engineering
 > 3047 ABC<br/>
 > 3053 택시 기하학<br/>
 > 3163 떨어지는 개미<br/>
+> 4101 크냐?<br/>
 > 4344 평균은 넘겠지<br/>
 > 4673 셀프 넘버<br/>
 > 4948 베르트랑 공준<br/>
