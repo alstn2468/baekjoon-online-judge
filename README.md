@@ -78,6 +78,7 @@ Department of Computer Software Engineering
 > 2609 최대공약수와 최소공배수<br/>
 > 2675 문자열 반복<br/>
 > 2739 구구단<br/>
+> 2740 행렬 곱셈<br/>
 > 2741 N 찍기<br/>
 > 2742 기찍 N<br/>
 > 2747 피보나치 수<br/>
