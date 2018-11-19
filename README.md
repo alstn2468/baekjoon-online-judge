@@ -44,6 +44,7 @@ Department of Computer Software Engineering
 > 1550 16진수<br/>
 > 1676 팩토리얼 0의 개수<br/>
 > 1735 분수 합<br/>
+> 1780 종이의 개수<br/>
 > 1850 최대공약수<br/>
 > 1874 스택 수열<br/>
 > 1912 연속합<br/>
