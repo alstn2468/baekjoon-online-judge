@@ -55,6 +55,7 @@ Department of Computer Software Engineering
 > 1934 최소공배수<br/>
 > 1966 프린터 큐<br/>
 > 1978 소수 찾기<br/>
+> 1992 쿼드트리<br/>
 > 2108 통계학<br/>
 > 2156 포도주 시식<br/>
 > 2292 벌집<br/>
