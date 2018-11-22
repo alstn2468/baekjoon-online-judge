@@ -48,9 +48,9 @@ def query(array, tree, node, start, end, left, right):
         return tree[node]
 
     left_index = query(array, tree, node * 2,
-                          start, (start + end) // 2, left, right)
+                       start, (start + end) // 2, left, right)
     right_index = query(array, tree, node * 2 + 1,
-                           (start + end) // 2 + 1, end, left, right)
+                        (start + end) // 2 + 1, end, left, right)
 
     if left_index == -1 and right_index == -1:
         return -1
