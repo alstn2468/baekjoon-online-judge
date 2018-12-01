@@ -11,3 +11,9 @@
 #
 # 출력
 # 첫째 줄에 프리오더를 출력한다.
+
+import sys
+
+n = int(sys.stdin.readline())
+inorder = list(map(int, sys.stdin.readline().split(' ')))
+postorder = list(map(int, sys.stdin.readline().split(' ')))
