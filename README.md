@@ -58,7 +58,6 @@ Department of Computer Software Engineering
 > 1992 쿼드트리<br/>
 > 2108 통계학<br/>
 > 2156 포도주 시식<br/>
-> 2263 트리의 순회<br/>
 > 2292 벌집<br/>
 > 2293 동전 1<br/>
 > 2407 조합<br/>
