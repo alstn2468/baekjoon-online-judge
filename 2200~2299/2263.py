@@ -39,7 +39,7 @@ n = int(sys.stdin.readline())
 inorder = list(map(int, sys.stdin.readline().split(' ')))
 postorder = list(map(int, sys.stdin.readline().split(' ')))
 
-inposition = [0] * 100001
+inposition = [0] * max(inorder)
 
 for i, v in enumerate(inorder):
     inposition[v] = i
