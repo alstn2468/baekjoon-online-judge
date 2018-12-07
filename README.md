@@ -23,6 +23,7 @@ Department of Computer Software Engineering
 > 1024 수열의 합 1057 토너먼트<br/>
 > 1032 명령 프롬프트<br/>
 > 1065 한수 1094 막대기<br/>
+> 1074 Z<br/>
 > 1107 리모컨<br/>
 > 1110 더하기 사이클<br/>
 > 1149 RGB거리<br/>
