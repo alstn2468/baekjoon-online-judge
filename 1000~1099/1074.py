@@ -18,4 +18,22 @@
 
 import sys
 
-N, r, C = map(int , sys.stdin.readline().split())
+N, r, c = map(int , sys.stdin.readline().split())
+
+size = pow(2, N)
+result = 0
+
+while True:
+    if r < 2 and c < 2:
+        result += (r * 2 + c)
+        break
+
+    size = size // 2
+    temp_r = r // size
+    temp_c = c // size
+
+    result += ((temp_r * 2) + temp_c) * pow(size, 2)
+    r = r - (temp_r * size)
+    c = c - (temp_c * size)
+
+print(result)
