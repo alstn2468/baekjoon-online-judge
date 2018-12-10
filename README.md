@@ -56,6 +56,7 @@ Department of Computer Software Engineering
 > 1932 정수 삼각형<br/>
 > 1934 최소공배수<br/>
 > 1966 프린터 큐<br/>
+> 1977 완전제곱수<br/>
 > 1978 소수 찾기<br/>
 > 1992 쿼드트리<br/>
 > 2108 통계학<br/>
