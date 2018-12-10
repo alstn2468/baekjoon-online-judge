@@ -16,18 +16,8 @@
 
 from math import sqrt
 
-M = int(input())
-N = int(input())
+perf_squ_num = list(filter(lambda x: sqrt(x).is_integer(),
+                           [i for i in range(int(input()), int(input()) + 1)]))
 
-perf_squ_num = []
-
-for i in range(M, N + 1):
-    if sqrt(i).is_integer():
-        perf_squ_num.append(i)
-
-if len(perf_squ_num) == 0:
-    print(-1)
-
-else:
-    print(sum(perf_squ_num))
-    print(min(perf_squ_num))
+print(-1) if len(perf_squ_num) == 0 else print(str(sum(perf_squ_num)) \
+                                               + "\n" + str(min(perf_squ_num)))
