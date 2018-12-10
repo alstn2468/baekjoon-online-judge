@@ -21,7 +21,7 @@ N = int(input())
 
 perf_squ_num = []
 
-for i in range(M, N+1):
+for i in range(M, N + 1):
     if sqrt(i).is_integer():
         perf_squ_num.append(i)
 
