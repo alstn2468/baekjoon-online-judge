@@ -11,3 +11,27 @@
 #
 # 출력
 # 첫째 줄에 [min,max]구간에 제곱ㄴㄴ수가 몇 개인지 출력한다.
+
+import sys
+
+min, max = map(int, sys.stdin.readline().split())
+
+num = [True for _ in range(min, max + 1)]
+count = len(num)
+n = 2
+
+while n ** 2 <= max:
+    square = n ** 2
+    i = min // square
+
+    while square * i <= max:
+        idx = square * i - min
+
+        if idx >= 0 and num[idx]:
+            count -= 1
+            num[idx] = False
+
+        i += 1
+    n += 1
+
+print(count)
