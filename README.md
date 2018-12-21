@@ -18,6 +18,7 @@ Department of Computer Software Engineering
 > 1005 ACM Craft<br/>
 > 1008 A/B<br/>
 > 1011 Fly me to the Alpha Centauri<br/>
+> 1015 수열 정렬<br/>
 > 1016 제곱ㄴㄴ수<br/>
 > 1021 회전하는 큐<br/>
 > 1022 소용돌이 예쁘게 출력하기<br/>

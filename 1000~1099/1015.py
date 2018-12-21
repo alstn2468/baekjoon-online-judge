@@ -13,3 +13,27 @@
 #
 # 출력
 # 첫째 줄에 비내림차순으로 만드는 수열 P를 출력한다.
+
+import sys
+
+N = int(sys.stdin.readline())
+A = list(map(int, sys.stdin.readline().split()))
+result = {}
+
+for i, a in enumerate(sorted(A)):
+    if a in result:
+        if type(result[a]) is int:
+            result[a] = [result[a], i]
+
+        else:
+            result[a].append(i)
+
+    else:
+        result[a] = i
+
+for a in A:
+    if type(result[a]) is list:
+        print(result[a].pop(0), end=' ')
+
+    else:
+        print(result[a], end=' ')
