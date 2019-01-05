@@ -135,6 +135,7 @@ Department of Computer Software Engineering
 > 10172 개<br/>
 > 10212 Mystery<br/>
 > 10219 Meats On The Grill<br/>
+> 10220 Self Representing Seq<br/>
 > 10250 ACM 호텔<br/>
 > 10253 헨리<br/>
 > 10430 나머지<br/>
