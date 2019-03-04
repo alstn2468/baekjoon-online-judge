@@ -25,7 +25,7 @@ import sys
 
 class Node:
 
-    def _inorderit__(self, data):
+    def __init__(self, data):
         self.right = 0
         self.left = 0
         self.data = data
@@ -33,7 +33,7 @@ class Node:
 
 class BinaryTree:
 
-    def _inorderit__(self):
+    def __init__(self):
         self.root = Node(0)
 
     def insert(self, data):
@@ -85,7 +85,7 @@ def postoreder(node):
 bt = BinaryTree()
 
 for _ in range(int(sys.stdin.readline())):
-    bt.insert((sys.stdin.readline().split()))
+    bt.insert(sys.stdin.readline().split())
 
 preorder(bt.root)
 print()
