@@ -74,6 +74,7 @@ Department of Computer Software Engineering
 > 2441 별 찍기 - 4<br/>
 > 2442 별 찍기 - 5<br/>
 > 2443 별 찍기 - 6<br/>
+> 2444 별 찍기 - 7<br/>
 > 2447 별 찍기 - 10<br/>
 > 2448 별 찍기 - 11<br/>
 > 2455 지능형 기차<br/>
