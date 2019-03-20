@@ -82,6 +82,7 @@ Department of Computer Software Engineering
 > 2455 지능형 기차<br/>
 > 2490 윷놀이<br/>
 > 2504 괄호의 값<br/>
+> 2522 별 찍기 - 12<br/>
 > 2555 생일 출력하기<br/>
 > 2556 별 찍기 - 14<br/>
 > 2557 Hello World<br/>
