@@ -55,6 +55,7 @@ Department of Computer Software Engineering
 > 1920 수 찾기<br/>
 > 1924 2007년<br/>
 > 1929 소수 구하기<br/>
+> 1931 회의실배정<br/>
 > 1932 정수 삼각형<br/>
 > 1934 최소공배수<br/>
 > 1966 프린터 큐<br/>
