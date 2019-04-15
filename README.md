@@ -161,6 +161,7 @@ Department of Computer Software Engineering
 > 10871 X보다 작은 수<br/>
 > 10872 팩토리얼<br/>
 > 10989 수 정렬하기 3<br/>
+> 10990	별 찍기 - 15<br/>
 > 10998 A×B<br/>
 > 11004 K번째 수<br/>
 > 11047 동전 0<br/>
