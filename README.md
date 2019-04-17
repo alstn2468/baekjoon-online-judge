@@ -163,6 +163,7 @@ Department of Computer Software Engineering
 > 10989 수 정렬하기 3<br/>
 > 10990	별 찍기 - 15<br/>
 > 10991 별 찍기 - 16<br/>
+> 10992 별 찍기 - 17<br/>
 > 10998 A×B<br/>
 > 11004 K번째 수<br/>
 > 11047 동전 0<br/>
