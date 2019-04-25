@@ -173,6 +173,7 @@ Department of Computer Software Engineering
 > 11050 이항 계수 1<br/>
 > 11051 이항 계수 2<br/>
 > 11066 파일 합치기<br/>
+> 11365 !밀비 급일<br/>
 > 11399 ATM<br/>
 > 11401 이항 계수 3<br/>
 > 11654 아스키 코드<br/>
