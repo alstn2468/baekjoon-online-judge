@@ -42,6 +42,7 @@ Department of Computer Software Engineering
 > 1453 피시방 알바<br/>
 > 1463 1로 만들기<br/>
 > 1475 방 번호<br/>
+> 1476 날짜 계산<br/>
 > 1520 내리막 길<br/>
 > 1546 평균<br/>
 > 1547 공<br/>
