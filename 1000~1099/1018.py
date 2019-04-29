@@ -19,3 +19,30 @@
 #
 # 출력
 # 첫째 줄에 지민이가 8*8크기로 자른 뒤에 다시 칠해야하는 정사각형 개수의 최솟값을 출력한다.
+
+N, M = map(int, input().split())
+
+chess_board = []
+WHITE = [
+    'WBWBWBWB',
+    'BWBWBWBW',
+    'WBWBWBWB',
+    'BWBWBWBW',
+    'WBWBWBWB',
+    'BWBWBWBW',
+    'WBWBWBWB',
+    'BWBWBWBW'
+]
+BLACK = [
+    'BWBWBWBW',
+    'WBWBWBWB',
+    'BWBWBWBW',
+    'WBWBWBWB',
+    'BWBWBWBW',
+    'WBWBWBWB',
+    'BWBWBWBW',
+    'WBWBWBWB'
+]
+
+for _ in range(N):
+    chess_board.append(input())
