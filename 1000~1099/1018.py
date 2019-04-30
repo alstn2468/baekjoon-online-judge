@@ -20,6 +20,32 @@
 # 출력
 # 첫째 줄에 지민이가 8*8크기로 자른 뒤에 다시 칠해야하는 정사각형 개수의 최솟값을 출력한다.
 
+def check_board(x, y, chess_board):
+    white, black = 0, 0
+
+    for i in range(8):
+        for j in range(8):
+            color = chess_board[y + j][x + i]
+
+            if WHITE[j][i] != color:
+                white += 1
+
+            if BLACK[j][i] != color:
+                black += 1
+
+    return min(white, black)
+
+
+def solution(N, M, chess_board):
+    count = []
+
+    for y in range(N - 7):
+        for x in range(M - 7):
+            count.append(check_board(x, y, chess_board))
+
+    return min(count)
+
+
 N, M = map(int, input().split())
 
 chess_board = []
@@ -46,3 +72,5 @@ BLACK = [
 
 for _ in range(N):
     chess_board.append(input())
+
+print(solution(N, M, chess_board))
