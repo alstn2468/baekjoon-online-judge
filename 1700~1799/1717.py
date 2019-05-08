@@ -20,7 +20,6 @@
 # 1로 시작하는 입력에 대해서 한 줄에 하나씩 YES/NO로 결과를 출력한다.
 # (yes/no 를 출력해도 된다)
 
-
 def union_find(num):
     if parent[num] != num:
         parent[num] = union_find(parent[num])
