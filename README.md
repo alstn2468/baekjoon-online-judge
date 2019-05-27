@@ -166,6 +166,7 @@ Department of Computer Software Engineering
 > 10872 팩토리얼<br/>
 > 10989 수 정렬하기 3<br/>
 > 10950 A+B - 3<br/>
+> 10951 A+B - 4<br/>
 > 10952 A+B - 5<br/>
 > 10990	별 찍기 - 15<br/>
 > 10991 별 찍기 - 16<br/>
