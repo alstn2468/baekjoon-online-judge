@@ -194,6 +194,7 @@ Department of Computer Software Engineering
 > 11778 피보나치 수와 최대공약수<br/>
 > 11866 조세퍼스 문제 0<br/>
 > 13241 최소공배수<br/>
+> 14490 백대열<br/>
 > 14888 연산자 끼워넣기<br/>
 > 15552 빠른 A+B<br/>
 > 15802 타노스<br/>
