@@ -40,6 +40,7 @@ Department of Computer Software Engineering
 > 1316 그룹 단어 체커<br/>
 > 1357 뒤집힌 덧셈<br/>
 > 1427 소트인사이드<br/>
+> 1436 영화감독 숌<br/>
 > 1453 피시방 알바<br/>
 > 1463 1로 만들기<br/>
 > 1475 방 번호<br/>
