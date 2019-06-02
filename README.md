@@ -27,6 +27,7 @@ Department of Computer Software Engineering
 > 1032 명령 프롬프트<br/>
 > 1065 한수 1094 막대기<br/>
 > 1074 Z<br/>
+> 1085 직사각형에서 탈출<br/>
 > 1107 리모컨<br/>
 > 1110 더하기 사이클<br/>
 > 1149 RGB거리<br/>
