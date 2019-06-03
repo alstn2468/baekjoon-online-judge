@@ -74,6 +74,7 @@ Department of Computer Software Engineering
 > 2263 트리의 순회<br/>
 > 2292 벌집<br/>
 > 2293 동전 1<br/>
+> 2312 수 복원하기<br/>
 > 2407 조합<br/>
 > 2438 별 찍기 - 1<br/>
 > 2439 별 찍기 - 2<br/>
