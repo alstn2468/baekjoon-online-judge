@@ -161,6 +161,7 @@ Department of Computer Software Engineering
 > 10430 나머지<br/>
 > 10718 We love kriii<br/>
 > 10773 제로<br/>
+> 10799 쇠막대기<br/>
 > 10809 알파벳 찾기<br/>
 > 10817 세 수<br/>
 > 10828 스택<br/>
