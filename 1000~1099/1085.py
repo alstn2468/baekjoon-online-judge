@@ -15,14 +15,4 @@
 
 x, y, w, h = map(int, input().split())
 
-length = [x, w - x, y, h - y]
-
-for i in range(3):
-    if length[i] <= length[i + 1]:
-        min = length[i]
-        length[i + 1] = min
-        
-    else:
-        min = length[i + 1]
-
-print(min)
+print(min(x, w - x, y, h - y))
