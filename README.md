@@ -39,6 +39,7 @@ Department of Computer Software Engineering
 > 1237 정ㅋ벅ㅋ<br/>
 > 1260 DFS와 BFS<br/>
 > 1316 그룹 단어 체커<br/>
+> 1351 무한 수열<br/>
 > 1357 뒤집힌 덧셈<br/>
 > 1427 소트인사이드<br/>
 > 1436 영화감독 숌<br/>
