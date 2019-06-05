@@ -15,4 +15,18 @@
 # 0 ≤ N ≤ 1012
 # 2 ≤ P, Q ≤ 109
 
+dp = {0: 1}
+
+def solution(N, P, Q):
+    if N == 0:
+        return 1
+    
+    if N in dp:
+        return dp[N]
+    
+    dp[N] = solution(N // P, P, Q) + solution(N // Q, P, Q)
+    
+    return dp[N]
+
 N, P, Q = map(int, input().split())
+print(solution(N, P, Q))
