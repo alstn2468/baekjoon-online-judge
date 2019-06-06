@@ -38,6 +38,7 @@ Department of Computer Software Engineering
 > 1193 분수찾기<br/>
 > 1237 정ㅋ벅ㅋ<br/>
 > 1260 DFS와 BFS<br/>
+> 1309 동물원<br/>
 > 1316 그룹 단어 체커<br/>
 > 1351 무한 수열<br/>
 > 1357 뒤집힌 덧셈<br/>
