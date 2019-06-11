@@ -15,3 +15,19 @@
 # 출력
 # 첫째 줄에 사용한 동전의 최소 개수를 출력한다. 
 # 불가능한 경우에는 -1을 출력한다.
+
+n, k = map(int, input().split())
+a = [0]
+d = [0 if i == 0 else 100001 for i in range(k + 1)]
+
+for _ in range(n):
+    a.append(int(input()))
+
+for i in range(1, n + 1):
+    for j in range(a[i], k + 1):
+        d[j] = min(d[j], d[j - a[i]] + 1)
+        
+if d[k] == 100001:
+    d[k] = -1
+    
+print(d[k])
