@@ -30,6 +30,7 @@ Department of Computer Software Engineering
 > 1085 직사각형에서 탈출<br/>
 > 1107 리모컨<br/>
 > 1110 더하기 사이클<br/>
+> 1138 한 줄로 서기<br/>
 > 1149 RGB거리<br/>
 > 1152 단어의 개수<br/>
 > 1157 단어 공부<br/>
