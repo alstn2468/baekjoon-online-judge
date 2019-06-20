@@ -15,5 +15,34 @@
 # 출력
 # 첫째 줄에 최소 편집 횟수를 출력한다.
 
+import sys
+
+sys.setrecursionlimit(987654321)
+
+dist = [[0 for _ in range(1001)] for _ in range(1001)]
 A = input()
 B = input()
+
+def solution(indexA, indexB):
+    if indexA >= len(A) and indexB < len(B):
+        return len(B[indexB:])
+
+    elif indexB >= len(B):
+        return len(A[indexA:])
+
+    if dist[indexA][indexB] != 0:
+        return dist[indexA][indexB]
+    
+    if A[indexA] == B[indexB]:
+        dist[indexA][indexB] = solution(indexA + 1, indexB + 1)
+        
+    else:
+        dist[indexA][indexB] = 1 + min(
+            solution(indexA + 1, indexB),
+            solution(indexA, indexB + 1),
+            solution(indexA + 1, indexB + 1)
+        )
+        
+    return dist[indexA][indexB]
+
+print(solution(0, 0))

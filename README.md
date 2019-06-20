@@ -212,6 +212,7 @@ Department of Computer Software Engineering
 > 13241 최소공배수<br/>
 > 14490 백대열<br/>
 > 14888 연산자 끼워넣기<br/>
+> 15483 최소 편집<br/>
 > 15552 빠른 A+B<br/>
 > 15802 타노스<br/>
 > 17263 Sort 마스터 배지훈<br/>
