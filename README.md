@@ -194,6 +194,7 @@ Department of Computer Software Engineering
 > 11047 동전 0<br/>
 > 11050 이항 계수 1<br/>
 > 11051 이항 계수 2<br/>
+> 11052 카드 구매하기<br/>
 > 11066 파일 합치기<br/>
 > 11365 !밀비 급일<br/>
 > 11399 ATM<br/>
