@@ -21,3 +21,10 @@
 # 
 # 출력
 # 각 테스트 케이스에 대해서 단색 삼각형의 개수를 출력한다.
+
+for _ in range(int(input())):
+    N = int(input())
+    
+    for _ in range(N - 1):
+        
+        
