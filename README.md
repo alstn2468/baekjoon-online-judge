@@ -197,6 +197,7 @@ Department of Computer Software Engineering
 > 11050 이항 계수 1<br/>
 > 11051 이항 계수 2<br/>
 > 11052 카드 구매하기<br/>
+> 11053 가장 긴 증가하는 부분 수열<br/>
 > 11057 오르막 수<br/>
 > 11066 파일 합치기<br/>
 > 11365 !밀비 급일<br/>
