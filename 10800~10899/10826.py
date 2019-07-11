@@ -13,12 +13,51 @@
 # 출력
 # 첫째 줄에 n번째 피보나치 수를 출력한다.
 
-
 def big_num_calc(num_a, num_b):
+    A, B = list(num_a)[::-1], list(num_b)[::-1]
     
+    if len(A) > len(B):
+        max_size, min_size = len(A), len(B)
         
+    else:
+        max_size, min_size = len(B), len(A)
+        
+    result = [0 for _ in range(max_size)]
+    carry = 0
+    
+    for i in range(min_size):
+        sum = int(A[i]) + int(B[i]) + carry
+        
+        if sum >= 10:
+            result[i] = str(sum % 10)
+            carry = 1
+            
+        else:
+            result[i] = str(sum)
+            carry = 0
+            
+    for i in range(min_size, max_size):
+        if len(A) > len(B):
+            sum = int(A[i]) + carry
+            
+        else:
+            sum = int(B[i]) + carry
+            
+        if sum >= 10:
+            result[i] = str(sum % 10)
+            carry = 1
+            
+        else:
+            result[i] = str(sum)
+            carry = 0
+            
+    if carry == 1:
+        result.append('1')
+        
+    return ''.join(reversed(result))
+    
 
-dp = ['0' for _ in range(1001)]
+dp = ['0' for _ in range(10001)]
 n = int(input())
 
 dp[1] = '1'
