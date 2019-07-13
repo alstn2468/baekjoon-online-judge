@@ -9,3 +9,6 @@
 # 
 # 출력
 # 각 테스트 케이스마다 A+B를 출력한다.
+
+for _ in range(int(input())):
+    print(sum(map(int, input().split(','))))
