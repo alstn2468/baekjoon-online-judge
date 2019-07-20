@@ -9,7 +9,7 @@ Department of Computer Software Engineering
 
 
 ### 2018 / 02 / 12 시작
-- 푼 문제<br/>
+####  푼 문제
 > 1000 A+B<br/>
 > 1001 A-B<br/>
 > 1002 터렛<br/>
@@ -45,6 +45,7 @@ Department of Computer Software Engineering
 > 1237 정ㅋ벅ㅋ<br/>
 > 1252 이진수 덧셈<br/>
 > 1260 DFS와 BFS<br/>
+> 1292 쉽게 푸는 문제<br/>
 > 1302 베스트셀러<br/>
 > 1309 동물원<br/>
 > 1316 그룹 단어 체커<br/>
