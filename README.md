@@ -43,6 +43,7 @@ Department of Computer Software Engineering
 > 1212 8진수 2진수<br/>
 > 1237 정ㅋ벅ㅋ<br/>
 > 1260 DFS와 BFS<br/>
+> 1302 베스트셀러<br/>
 > 1309 동물원<br/>
 > 1316 그룹 단어 체커<br/>
 > 1330 두 수 비교하기<br/>
