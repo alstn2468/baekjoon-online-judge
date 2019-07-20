@@ -19,4 +19,4 @@ n = [0]
 for i in range(1, 1000):
     n += [i] * i
 
-print(sum(X[A-1:B]))
+print(sum(n[A-1:B]))
