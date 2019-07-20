@@ -45,6 +45,7 @@ Department of Computer Software Engineering
 > 1260 DFS와 BFS<br/>
 > 1309 동물원<br/>
 > 1316 그룹 단어 체커<br/>
+> 1330 두 수 비교하기<br/>
 > 1351 무한 수열<br/>
 > 1357 뒤집힌 덧셈<br/>
 > 1427 소트인사이드<br/>
