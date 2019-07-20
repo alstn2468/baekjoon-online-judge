@@ -49,6 +49,7 @@ Department of Computer Software Engineering
 > 1330 두 수 비교하기<br/>
 > 1351 무한 수열<br/>
 > 1357 뒤집힌 덧셈<br/>
+> 1373 2진수 8진수<br/>
 > 1427 소트인사이드<br/>
 > 1436 영화감독 숌<br/>
 > 1453 피시방 알바<br/>
