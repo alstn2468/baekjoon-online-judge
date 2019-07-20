@@ -232,6 +232,7 @@ Department of Computer Software Engineering
 > 11729 하노이 탑 이동 순서<br/>
 > 11778 피보나치 수와 최대공약수<br/>
 > 11866 조세퍼스 문제 0<br/>
+> 12096  <br/>
 > 13241 최소공배수<br/>
 > 14490 백대열<br/>
 > 14888 연산자 끼워넣기<br/>
