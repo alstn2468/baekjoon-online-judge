@@ -219,6 +219,7 @@ Department of Computer Software Engineering
 > 11365 !밀비 급일<br/>
 > 11399 ATM<br/>
 > 11401 이항 계수 3<br/>
+> 11506 占쏙옙<br/>
 > 11650 좌표 정렬하기<br/>
 > 11654 아스키 코드<br/>
 > 11718 그대로 출력하기<br/>
