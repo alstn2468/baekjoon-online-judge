@@ -121,6 +121,7 @@ Department of Computer Software Engineering
 > 2740 행렬 곱셈<br/>
 > 2741 N 찍기<br/>
 > 2742 기찍 N<br/>
+> 2744 대소문자 바꾸기<br/>
 > 2747 피보나치 수<br/>
 > 2748 피보나치 수 2<br/>
 > 2749 피보나치 수 3<br/>
