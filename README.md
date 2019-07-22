@@ -154,6 +154,7 @@ Department of Computer Software Engineering
 > 5338 마이크로소프트 로고<br/>
 > 5339 콜센터<br/>
 > 5430 AC<br/>
+> 5524 입실 관리<br/>
 > 5585 거스름돈<br/>
 > 5622 다이얼<br/>
 > 6064 카잉 달력<br/>
