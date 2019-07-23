@@ -117,6 +117,7 @@ Department of Computer Software Engineering
 > 2577 숫자의 개수<br/>
 > 2579 계단 오르기<br/>
 > 2581 소수<br/>
+> 2588 곱셈<br/>
 > 2609 최대공약수와 최소공배수<br/>
 > 2675 문자열 반복<br/>
 > 2739 구구단<br/>
