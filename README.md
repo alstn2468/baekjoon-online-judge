@@ -252,5 +252,6 @@ Department of Computer Software Engineering
 > 15649 N과 M (1)
 > 15740 A+B - 9<br/>
 > 15802 타노스<br/>
+> 15988 1, 2, 3 더하기 3<br/>
 > 17263 Sort 마스터 배지훈<br/>
 > 17264 I AM IRONMAN<br/>
