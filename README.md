@@ -247,6 +247,7 @@ Department of Computer Software Engineering
 > 11866 조세퍼스 문제 0<br/>
 > 11942 고려대는 사랑입니다<br/>
 > 11943 파일 옮기기<br/>
+> 11944 NN<br/>
 > 12096  <br/>
 > 13241 최소공배수<br/>
 > 13420 사칙연산<br/>
