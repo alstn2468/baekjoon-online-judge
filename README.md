@@ -158,6 +158,7 @@ Department of Computer Software Engineering
 > 5339 콜센터<br/>
 > 5430 AC<br/>
 > 5524 입실 관리<br/>
+> 5554 심부름 가는 길<br/>
 > 5585 거스름돈<br/>
 > 5622 다이얼<br/>
 > 6064 카잉 달력<br/>
