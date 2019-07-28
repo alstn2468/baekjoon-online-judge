@@ -245,6 +245,7 @@ Department of Computer Software Engineering
 > 11778 피보나치 수와 최대공약수<br/>
 > 11784 Hex Code<br/>
 > 11866 조세퍼스 문제 0<br/>
+> 11942 고려대는 사랑입니다<br/>
 > 12096  <br/>
 > 13241 최소공배수<br/>
 > 13420 사칙연산<br/>
