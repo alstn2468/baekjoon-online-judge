@@ -261,6 +261,7 @@ Department of Computer Software Engineering
 > 15649 N과 M (1)
 > 15740 A+B - 9<br/>
 > 15802 타노스<br/>
+> 15894 수학은 체육과목 입니다<br/>
 > 15988 1, 2, 3 더하기 3<br/>
 > 16394 홍익대학교<br/>
 > 16396 선 그리기<br/>
