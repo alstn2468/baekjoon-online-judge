@@ -147,6 +147,7 @@ Department of Computer Software Engineering
 > 3036 링<br/>
 > 3046 R2<br/>
 > 3047 ABC<br/>
+> 3052 나머지<br/>
 > 3053 택시 기하학<br/>
 > 3163 떨어지는 개미<br/>
 > 3460 이진수<br/>
