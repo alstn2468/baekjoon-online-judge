@@ -199,6 +199,7 @@ Department of Computer Software Engineering
 > 10799 쇠막대기<br/>
 > 10809 알파벳 찾기<br/>
 > 10817 세 수<br/>
+> 10818 최소, 최대<br/>
 > 10826 피보나치 수 4<br/>
 > 10828 스택<br/>
 > 10844 쉬운 계단 수<br/>
@@ -220,6 +221,7 @@ Department of Computer Software Engineering
 > 10996 별 찍기 - 21<br/>
 > 10998 A×B<br/>
 > 11004 K번째 수<br/>
+> 11006 남욱이의 닭장<br/>
 > 11021 A+B - 7<br/>
 > 11022 A+B - 8<br/>
 > 11047 동전 0<br/>
