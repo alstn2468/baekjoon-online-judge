@@ -170,6 +170,7 @@ Department of Computer Software Engineering
 > 6591 이항 쇼다운<br/>
 > 6549 히스토그램에 가장 큰 직사각형<br/>
 > 7287 등록<br/>
+> 7523 Gauß<br/>
 > 8393 합<br/>
 > 8907 네온 사인<br/>
 > 8958 OX퀴즈<br/>
