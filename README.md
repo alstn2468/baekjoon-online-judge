@@ -163,6 +163,7 @@ Department of Computer Software Engineering
 > 5524 입실 관리<br/>
 > 5554 심부름 가는 길<br/>
 > 5585 거스름돈<br/>
+> 5612 터널의 입구와 출구<br/>
 > 5622 다이얼<br/>
 > 6064 카잉 달력<br/>
 > 6591 이항 쇼다운<br/>
