@@ -270,6 +270,7 @@ Department of Computer Software Engineering
 > 14888 연산자 끼워넣기<br/>
 > 15483 최소 편집<br/>
 > 15552 빠른 A+B<br/>
+> 15596 정수 N개의 합<br/>
 > 15649 N과 M (1)
 > 15740 A+B - 9<br/>
 > 15802 타노스<br/>
