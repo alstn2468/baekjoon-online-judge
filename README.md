@@ -95,6 +95,7 @@ Department of Computer Software Engineering
 > 2294 동전 2<br/>
 > 2312 수 복원하기<br/>
 > 2407 조합<br/>
+> 2420 사파리월드<br/>
 > 2438 별 찍기 - 1<br/>
 > 2439 별 찍기 - 2<br/>
 > 2440 별 찍기 - 3<br/>
