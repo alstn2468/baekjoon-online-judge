@@ -143,6 +143,7 @@ Department of Computer Software Engineering
 > 2775 부녀회장이 될테야<br/>
 > 2839 설탕 배달<br/>
 > 2869 달팽이는 올라가고 싶다<br/>
+> 2884 알람 시계<br/>
 > 2902 KMP는 왜 KMP일까?<br/>
 > 2903 중앙 이동 알고리즘<br/>
 > 2908 상수<br/>
