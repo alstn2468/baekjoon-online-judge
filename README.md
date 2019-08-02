@@ -155,6 +155,7 @@ Department of Computer Software Engineering
 > 2920 음계<br/>
 > 2935 소음<br/>
 > 2941 크로아티아 알파벳<br/>
+> 2953 나는 요리사다<br/>
 > 2979 트럭 주차<br/>
 > 2981 검문<br/>
 > 3036 링<br/>
