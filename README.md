@@ -222,6 +222,7 @@ Department of Computer Software Engineering
 > 10809 알파벳 찾기<br/>
 > 10817 세 수<br/>
 > 10818 최소, 최대<br/>
+> 10819 차이를 최대로<br/>
 > 10826 피보나치 수 4<br/>
 > 10828 스택<br/>
 > 10844 쉬운 계단 수<br/>
