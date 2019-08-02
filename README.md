@@ -233,6 +233,7 @@ Department of Computer Software Engineering
 > 10869 사칙연산<br/>
 > 10871 X보다 작은 수<br/>
 > 10872 팩토리얼<br/>
+> 10886 0 = not cute / 1 = cute<br/>
 > 10989 수 정렬하기 3<br/>
 > 10926 ??!<br/>
 > 10950 A+B - 3<br/>
