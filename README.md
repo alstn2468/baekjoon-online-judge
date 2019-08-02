@@ -91,6 +91,7 @@ Department of Computer Software Engineering
 > 2156 포도주 시식<br/>
 > 2163 초콜릿 자르기<br/>
 > 2164 카드2<br/>
+> 2167 2차원 배열의 합<br/>
 > 2217 로프<br/>
 > 2263 트리의 순회<br/>
 > 2292 벌집<br/>
