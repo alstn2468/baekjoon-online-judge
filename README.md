@@ -64,6 +64,7 @@ Department of Computer Software Engineering
 > 1476 날짜 계산<br/>
 > 1495 기타리스트<br/>
 > 1520 내리막 길<br/>
+> 1541 잃어버린 괄호<br/>
 > 1546 평균<br/>
 > 1547 공<br/>
 > 1550 16진수<br/>
