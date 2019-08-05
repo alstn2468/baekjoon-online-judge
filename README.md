@@ -231,6 +231,7 @@ Department of Computer Software Engineering
 > 10819 차이를 최대로<br/>
 > 10826 피보나치 수 4<br/>
 > 10828 스택<br/>
+> 10833 사과<br/>
 > 10844 쉬운 계단 수<br/>
 > 10845 큐<br/>
 > 10866 덱<br/>
