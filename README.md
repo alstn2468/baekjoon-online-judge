@@ -162,6 +162,7 @@ Department of Computer Software Engineering
 > 2965 캥거루 세마리<br/>
 > 2979 트럭 주차<br/>
 > 2981 검문<br/>
+> 3003 킹, 퀸, 룩, 비숍, 나이트, 폰<br/>
 > 3036 링<br/>
 > 3046 R2<br/>
 > 3047 ABC<br/>
