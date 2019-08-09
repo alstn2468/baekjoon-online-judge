@@ -231,6 +231,7 @@ Department of Computer Software Engineering
 > 10799 쇠막대기<br/>
 > 10808 알파벳 개수<br/>
 > 10809 알파벳 찾기<br/>
+> 10814 나이순 정렬<br/>
 > 10817 세 수<br/>
 > 10818 최소, 최대<br/>
 > 10819 차이를 최대로<br/>
