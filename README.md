@@ -1,15 +1,18 @@
-[백준 온라인 저지](https://www.acmicpc.net/) 문제 풀이
-==========================
+# [백준 온라인 저지](https://www.acmicpc.net/) 문제 풀이
+
 Soonchunhyang University<br/>
 Department of Computer Software Engineering
-------------------------------------------
 
-##  [김민수](https://github.com/alstn2468)
+---
+
+## [김민수](https://github.com/alstn2468)
+
 ## [ [Facebook](https://www.facebook.com/profile.php?id=100003769223078) ] [ [Github](https://github.com/alstn2468) ] [ [LinkedIn](https://www.linkedin.com/in/minsu-kim-336289160/) ] [ [Blog](https://alstn2468.github.io/) ]<br/>
 
-
 ### 2018 / 02 / 12 시작
-####  푼 문제
+
+#### 푼 문제
+
 > 1000 A+B<br/>
 > 1001 A-B<br/>
 > 1002 터렛<br/>
@@ -188,6 +191,7 @@ Department of Computer Software Engineering
 > 5554 심부름 가는 길<br/>
 > 5565 영수증<br/>
 > 5585 거스름돈<br/>
+> 5597 과제 안 내신 분..?<br/>
 > 5612 터널의 입구와 출구<br/>
 > 5622 다이얼<br/>
 > 6064 카잉 달력<br/>
@@ -256,7 +260,7 @@ Department of Computer Software Engineering
 > 10953 A+B - 6<br/>
 > 10987 모음의 개수<br/>
 > 10988 팰린드롬인지 확인하기<br/>
-> 10990	별 찍기 - 15<br/>
+> 10990 별 찍기 - 15<br/>
 > 10991 별 찍기 - 16<br/>
 > 10992 별 찍기 - 17<br/>
 > 10994 별 찍기 - 19<br/>
@@ -301,7 +305,7 @@ Department of Computer Software Engineering
 > 11944 NN<br/>
 > 11945 뜨거운 붕어빵<br/>
 > 12101 1, 2, 3 더하기 2<br/>
-> 12096  <br/>
+> 12096 <br/>
 > 13241 최소공배수<br/>
 > 13420 사칙연산<br/>
 > 14490 백대열<br/>
