@@ -250,6 +250,7 @@ Department of Computer Software Engineering
 > 10845 큐<br/>
 > 10866 덱<br/>
 > 10869 사칙연산<br/>
+> 10870 피보나치 수 5<br/>
 > 10871 X보다 작은 수<br/>
 > 10872 팩토리얼<br/>
 > 10886 0 = not cute / 1 = cute<br/>
