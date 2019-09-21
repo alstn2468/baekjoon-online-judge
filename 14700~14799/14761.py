@@ -17,17 +17,21 @@
 # replacing the ones divisible by X with Fizz,
 # the ones divisible by Y with Buzz and ones divisible by both X and Y with FizzBuzz.
 
-X, Y, M = map(int, input().split())
 
-for i in range(1, M + 1):
-    if i % X == 0 and i % Y == 0:
-        print("FizzBuzz")
+def solution(X, Y, M):
+    if M % X == 0 and M % Y == 0:
+        return "FizzBuzz"
 
-    elif i % X == 0:
-        print("Fizz")
+    elif M % X == 0:
+        return "Fizz"
 
-    elif i % Y == 0:
-        print("Buzz")
+    elif M % Y == 0:
+        return "Buzz"
 
     else:
-        print(i)
+        return M
+
+
+if __name__ == "__main__":
+    X, Y, M = map(int, input().split())
+    print('\n'.join([str(solution(X, Y, i)) for i in range(1, M + 1)]))
