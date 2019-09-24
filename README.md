@@ -153,6 +153,7 @@ Department of Computer Software Engineering
 > 2752 세수정렬<br/>
 > 2753 윤년<br/>
 > 2775 부녀회장이 될테야<br/>
+> 2824 최대공약수<br>
 > 2839 설탕 배달<br/>
 > 2864 5와 6의 차이<br/>
 > 2869 달팽이는 올라가고 싶다<br/>
