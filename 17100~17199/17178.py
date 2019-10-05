@@ -45,12 +45,12 @@ for i in range(len(tickets)):
     if tickets[i] == sorted_tickets[passed]:
         passed += 1
 
-    else:
-        waiting.appendleft(tickets[i])
-
-    if len(waiting) != 0 and waiting[0] == sorted_tickets[passed]:
+    elif len(waiting) != 0 and waiting[0] == sorted_tickets[passed]:
         passed += 1
         waiting.popleft()
+
+    else:
+        waiting.appendleft(tickets[i])
 
 
 temp = passed
