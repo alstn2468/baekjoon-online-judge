@@ -40,23 +40,3 @@ for _ in range(N):
         tickets.append(temp)
 
 sorted_tickets = sorted(tickets, key=lambda x: (x[0], x[1]))
-
-for i in range(len(tickets)):
-    if tickets[i] == sorted_tickets[passed]:
-        passed += 1
-
-    elif len(waiting) != 0 and waiting[0] == sorted_tickets[passed]:
-        passed += 1
-        waiting.popleft()
-
-    else:
-        waiting.appendleft(tickets[i])
-
-
-temp = passed
-for i in range(temp, len(tickets)):
-    if waiting[0] == sorted_tickets[passed]:
-        waiting.popleft()
-        passed += 1
-
-print("GOOD") if len(waiting) == 0 else print("BAD")
