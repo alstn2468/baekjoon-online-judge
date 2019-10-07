@@ -28,15 +28,42 @@
 # 모든 사람이 무사히 콘서트장에 입장할 수 있다면 “GOOD”을 출력하고 그렇지 않다면 “BAD”를 출력한다.
 
 from collections import deque
+import sys
 
-N, passed = int(input()), 0
+N, passed = int(sys.stdin.readline()), 0
 tickets, waiting = [], deque()
 
+
 for _ in range(N):
-    lines = list(map(lambda x: x.split("-"), input().split()))
+    lines = list(map(lambda x: x.split("-"), sys.stdin.readline().split()))
 
     for line in lines:
         temp = [line[0], int(line[1])]
         tickets.append(temp)
 
 sorted_tickets = sorted(tickets, key=lambda x: (x[0], x[1]))
+
+for i in range(len(tickets)):
+    if len(waiting) > 0:
+        while waiting[0] == sorted_tickets[passed]:
+            waiting.popleft()
+            passed += 1
+
+            if len(waiting) == 0:
+                break
+
+    if tickets[i] == sorted_tickets[passed]:
+        passed += 1
+
+    else:
+        waiting.appendleft(tickets[i])
+
+if len(waiting) > 0:
+    while waiting[0] == sorted_tickets[passed]:
+        waiting.popleft()
+        passed += 1
+
+        if len(waiting) == 0:
+            break
+
+print("GOOD") if len(waiting) == 0 else print("BAD")
