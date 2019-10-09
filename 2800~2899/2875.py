@@ -16,3 +16,9 @@
 
 N, M, K = map(int, input().split())
 result = 0
+
+while (N >= 2) and (M >= 1) and (N + M >= K + 3):
+    result += 1
+    N, M = N - 2, M - 1
+
+print(result)

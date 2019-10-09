@@ -161,6 +161,7 @@ Department of Computer Software Engineering
 > 2839 설탕 배달<br/>
 > 2864 5와 6의 차이<br/>
 > 2869 달팽이는 올라가고 싶다<br/>
+> 2875 대회 or 인턴<br>
 > 2884 알람 시계<br/>
 > 2902 KMP는 왜 KMP일까?<br/>
 > 2903 중앙 이동 알고리즘<br/>
