@@ -47,6 +47,7 @@ Department of Computer Software Engineering
 > 1158 조세퍼스 문제<br/>
 > 1181 단어 정렬<br/>
 > 1193 분수찾기<br/>
+> 1201 NMK<br>
 > 1212 8진수 2진수<br/>
 > 1237 정ㅋ벅ㅋ<br/>
 > 1252 이진수 덧셈<br/>
