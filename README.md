@@ -77,6 +77,7 @@ Department of Computer Software Engineering
 > 1676 팩토리얼 0의 개수<br/>
 > 1717 집합의 표현<br/>
 > 1735 분수 합<br/>
+> 1744 수 묶기<br>
 > 1780 종이의 개수<br/>
 > 1850 최대공약수<br/>
 > 1874 스택 수열<br/>
