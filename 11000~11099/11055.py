@@ -19,6 +19,7 @@ for i in range(N):
     for j in range(i):
         if arr[j] < arr[i] and dp[i] < dp[j] + arr[i]:
             dp[i] = dp[j] + arr[i]
+
 result = 0
 
 for i in range(N):
