@@ -330,6 +330,7 @@ Department of Computer Software Engineering
 > 13241 최소공배수<br/>
 > 13420 사칙연산<br/>
 > 14490 백대열<br/>
+> 14502 연구소<br/>
 > 14648 쿼리 맛보기<br/>
 > 14761 FizzBuzz<br>
 > 14888 연산자 끼워넣기<br/>
