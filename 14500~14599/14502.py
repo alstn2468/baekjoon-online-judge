@@ -52,10 +52,11 @@ import sys
 input = sys.stdin.readline
 
 
-def spread_virus(virus_list, copy_maps, safe_area):
+def spread_virus(virus_list, copy_maps):
     dx = [-1, 1, 0, 0]
     dy = [0, 0, -1, 1]
     spread_virus_count = 0
+    global safe_area
 
     while virus_list:
         x, y = virus_list.pop()
@@ -72,14 +73,16 @@ def spread_virus(virus_list, copy_maps, safe_area):
     return safe_area - spread_virus_count - 3
 
 
-def set_wall(start,  wall_count, safe_area, N,  M):
+def set_wall(start,  wall_count):
     global result
+    global N
+    global M
 
     if wall_count == 0:
         copy_maps = copy.deepcopy(maps)
         copy_virus_list = copy.deepcopy(virus_list)
 
-        cnt = spread_virus(copy_virus_list, copy_maps, safe_area)
+        cnt = spread_virus(copy_virus_list, copy_maps)
         result = max(cnt, result)
 
         return
@@ -90,7 +93,7 @@ def set_wall(start,  wall_count, safe_area, N,  M):
 
         if maps[x][y] == 0:
             maps[x][y] = 1
-            set_wall(i + 1, wall_count - 1, safe_area, N, M)
+            set_wall(i + 1, wall_count - 1)
             maps[x][y] = 0
 
 
@@ -107,5 +110,5 @@ for i in range(N):
         elif maps[i][j] == 0:
             safe_area += 1
 
-set_wall(0, 3, safe_area, N, M)
+set_wall(0, 3)
 print(result)
