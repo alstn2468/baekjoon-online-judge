@@ -304,6 +304,7 @@ Department of Computer Software Engineering
 > 11401 이항 계수 3<br/>
 > 11506 占쏙옙<br/>
 > 11650 좌표 정렬하기<br/>
+> 11651 좌표 정렬하기 2<br/>
 > 11653 소인수분해<br/>
 > 11654 아스키 코드<br/>
 > 11655 ROT13<br/>
