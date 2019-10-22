@@ -293,6 +293,7 @@ Department of Computer Software Engineering
 > 11021 A+B - 7<br/>
 > 11022 A+B - 8<br/>
 > 11047 동전 0<br/>
+> 11048 이동 하기<br/>
 > 11050 이항 계수 1<br/>
 > 11051 이항 계수 2<br/>
 > 11052 카드 구매하기<br/>
