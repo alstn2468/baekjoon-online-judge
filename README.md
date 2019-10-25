@@ -78,6 +78,7 @@ Department of Computer Software Engineering
 > 1550 16진수<br/>
 > 1629 곱셈<br/>
 > 1676 팩토리얼 0의 개수<br/>
+> 1699 제곱수의 합<br/>
 > 1717 집합의 표현<br/>
 > 1735 분수 합<br/>
 > 1744 수 묶기<br>
