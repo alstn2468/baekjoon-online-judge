@@ -316,6 +316,7 @@ Department of Computer Software Engineering
 > 11653 소인수분해<br/>
 > 11654 아스키 코드<br/>
 > 11655 ROT13<br/>
+> 11656 접미사 배열<br/>
 > 11659 구간 합 구하기 4<br/>
 > 11660 구간 합 구하기 5<br>
 > 11718 그대로 출력하기<br/>
