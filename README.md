@@ -269,6 +269,7 @@ Department of Computer Software Engineering
 > 10818 최소, 최대<br/>
 > 10819 차이를 최대로<br/>
 > 10820 문자열 분석<br/>
+> 10824 네 수<br/>
 > 10826 피보나치 수 4<br/>
 > 10828 스택<br/>
 > 10833 사과<br/>
