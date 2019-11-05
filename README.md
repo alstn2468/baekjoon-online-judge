@@ -254,6 +254,7 @@ Department of Computer Software Engineering
 > 10250 ACM 호텔<br/>
 > 10253 헨리<br/>
 > 10430 나머지<br/>
+> 10448 유레카 이론<br/>
 > 10451 순열 사이클<br/>
 > 10610 30<br>
 > 10699 오늘 날짜<br/>
