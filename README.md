@@ -241,7 +241,7 @@ Department of Computer Software Engineering
 > 9655 돌 게임<br/>
 > 9987 포켓몬 마스터<br/>
 > 9999 구구<br/>
-> 10707 수도요금<br/>
+> 10026 적록색약<br/>
 > 10039 평균 점수<br/>
 > 10156 과자<br>
 > 10162 전자레인지<br>
@@ -257,6 +257,7 @@ Department of Computer Software Engineering
 > 10451 순열 사이클<br/>
 > 10610 30<br>
 > 10699 오늘 날짜<br/>
+> 10707 수도요금<br/>
 > 10718 We love kriii<br/>
 > 10757 큰 수 A+B<br/>
 > 10773 제로<br/>
