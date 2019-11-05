@@ -289,6 +289,7 @@ Department of Computer Software Engineering
 > 10951 A+B - 4<br/>
 > 10952 A+B - 5<br/>
 > 10953 A+B - 6<br/>
+> 10974 모든 순열<br/>
 > 10987 모음의 개수<br/>
 > 10988 팰린드롬인지 확인하기<br/>
 > 10990 별 찍기 - 15<br/>
