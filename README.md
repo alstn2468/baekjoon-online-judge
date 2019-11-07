@@ -171,6 +171,7 @@ Department of Computer Software Engineering
 > 2822 점수 계산<br/>
 > 2824 최대공약수<br>
 > 2839 설탕 배달<br/>
+> 2845 파티가 끝나고 난 뒤<br/>
 > 2864 5와 6의 차이<br/>
 > 2869 달팽이는 올라가고 싶다<br/>
 > 2873 롤러코스터<br>
