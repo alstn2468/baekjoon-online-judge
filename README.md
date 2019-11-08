@@ -240,6 +240,7 @@ Department of Computer Software Engineering
 > 9461 파도반 수열<br/>
 > 9465 스티커<br/>
 > 9498 시험 성적<br/>
+> 9507 Generations of Tribbles<br/>
 > 9653 스타워즈 로고<br/>
 > 9654 나부 함대 데이터<br/>
 > 9655 돌 게임<br/>
