@@ -131,6 +131,7 @@ Department of Computer Software Engineering
 > 2447 별 찍기 - 10<br/>
 > 2448 별 찍기 - 11<br/>
 > 2455 지능형 기차<br/>
+> 2460 지능형 기차 2<br/>
 > 2475 검증수<br/>
 > 2480 주사위 세개<br/>
 > 2490 윷놀이<br/>
