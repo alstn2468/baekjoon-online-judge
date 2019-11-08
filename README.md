@@ -145,6 +145,7 @@ Department of Computer Software Engineering
 > 2558 A+B - 2<br/>
 > 2562 최댓값<br/>
 > 2563 색종이<br/>
+> 2566 최댓값<br/>
 > 2576 홀수<br/>
 > 2577 숫자의 개수<br/>
 > 2579 계단 오르기<br/>
