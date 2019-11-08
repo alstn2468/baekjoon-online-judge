@@ -152,6 +152,7 @@ Department of Computer Software Engineering
 > 2581 소수<br/>
 > 2587 대표값2<br/>
 > 2588 곱셈<br/>
+> 2592 대표값<br/>
 > 2609 최대공약수와 최소공배수<br/>
 > 2675 문자열 반복<br/>
 > 2711 오타맨 고창영<br/>
