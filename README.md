@@ -219,6 +219,7 @@ Department of Computer Software Engineering
 > 5565 영수증<br/>
 > 5585 거스름돈<br/>
 > 5597 과제 안 내신 분..?<br/>
+> 5598 카이사르 암호<br/>
 > 5612 터널의 입구와 출구<br/>
 > 5622 다이얼<br/>
 > 6064 카잉 달력<br/>
