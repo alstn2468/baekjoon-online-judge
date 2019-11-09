@@ -370,6 +370,7 @@ Department of Computer Software Engineering
 > 15596 정수 N개의 합<br/>
 > 15649 N과 M (1)<br/>
 > 15650 N과 M (2)<br/>
+> 15651 N과 M (3)<br/>
 > 15740 A+B - 9<br/>
 > 15802 타노스<br/>
 > 15873 공백 없는 A+B<br>
