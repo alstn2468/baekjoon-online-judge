@@ -35,6 +35,7 @@ Department of Computer Software Engineering
 > 1037 약수<br/>
 > 1065 한수 1094 막대기<br/>
 > 1074 Z<br/>
+> 1075 나누기<br/>
 > 1076 저항<br/>
 > 1080 행렬<br>
 > 1085 직사각형에서 탈출<br/>

@@ -16,5 +16,22 @@
 # 첫째 줄에 마지막 두 자리를 모두 출력한다.
 # 한자리이면 앞에 0을 추가해서 두 자리로 만들어야 한다.
 
-N = int(input())
+N = input()
 F = int(input())
+result, back = 100, None
+
+for i in range(100):
+    front = N[:len(N) - 2]
+
+    if i < 10:
+        back = str(i).zfill(2)
+
+    else:
+        back = str(i)
+
+    front += back
+
+    if int(front) % F == 0:
+        break
+
+print(back)
