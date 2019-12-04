@@ -90,6 +90,7 @@ Department of Computer Software Engineering
 > 1783 병든 나이트<br>
 > 1850 최대공약수<br/>
 > 1874 스택 수열<br/>
+> 1904 01타일<br/>
 > 1912 연속합<br/>
 > 1920 수 찾기<br/>
 > 1924 2007년<br/>
