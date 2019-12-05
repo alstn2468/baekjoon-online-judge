@@ -140,6 +140,7 @@ Department of Computer Software Engineering
 > 2475 검증수<br/>
 > 2480 주사위 세개<br/>
 > 2490 윷놀이<br/>
+> 2501 약수 구하기<br/>
 > 2504 괄호의 값<br/>
 > 2506 점수계산<br/>
 > 2522 별 찍기 - 12<br/>
