@@ -47,6 +47,7 @@ Department of Computer Software Engineering
 > 1152 단어의 개수<br/>
 > 1157 단어 공부<br/>
 > 1158 조세퍼스 문제<br/>
+> 1159 농구 경기<br/>
 > 1181 단어 정렬<br/>
 > 1193 분수찾기<br/>
 > 1201 NMK<br>
