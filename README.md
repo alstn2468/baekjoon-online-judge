@@ -86,6 +86,7 @@ Department of Computer Software Engineering
 > 1717 집합의 표현<br/>
 > 1735 분수 합<br/>
 > 1744 수 묶기<br>
+> 1748 수 이어 쓰기 1<br>
 > 1780 종이의 개수<br/>
 > 1783 병든 나이트<br>
 > 1850 최대공약수<br/>
