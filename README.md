@@ -289,6 +289,7 @@ Department of Computer Software Engineering
 > 10797 10부제<br/>
 > 10798 세로읽기<br/>
 > 10799 쇠막대기<br/>
+> 10807 개수 세기<br/>
 > 10808 알파벳 개수<br/>
 > 10809 알파벳 찾기<br/>
 > 10814 나이순 정렬<br/>
