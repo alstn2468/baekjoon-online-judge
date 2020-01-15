@@ -256,6 +256,7 @@ Department of Computer Software Engineering
 > 9251 LCS<br/>
 > 9252 LCS 2<br/>
 > 9316 Hello Judge<br/>
+> 9325 얼마?<br/>
 > 9375 패션왕 신해빈<br/>
 > 9461 파도반 수열<br/>
 > 9465 스티커<br/>
