@@ -306,6 +306,7 @@ Department of Computer Software Engineering
 > 10844 쉬운 계단 수<br/>
 > 10845 큐<br/>
 > 10866 덱<br/>
+> 10867 중복 빼고 정렬하기<br/>
 > 10869 사칙연산<br/>
 > 10870 피보나치 수 5<br/>
 > 10871 X보다 작은 수<br/>
