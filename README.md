@@ -140,6 +140,7 @@ Department of Computer Software Engineering
 > 2455 지능형 기차<br/>
 > 2460 지능형 기차 2<br/>
 > 2475 검증수<br/>
+> 2476 주사위 게임<br/>
 > 2480 주사위 세개<br/>
 > 2490 윷놀이<br/>
 > 2501 약수 구하기<br/>

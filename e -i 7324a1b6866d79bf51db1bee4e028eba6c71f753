@@ -1,0 +1,3315 @@
+[33mcommit d1230d05a9bf049df97c13673192bc1d4d4d912a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 김민수 <minsu.kim@datastreams.co.kr>
+Date:   Thu Jan 16 09:16:51 2020 +0900
+
+    Solve boj2789 유학 금지
+
+[33mcommit 40673e05b7b4ae30a28f2450d00dd49a163121b9[m
+Author: 김민수 <minsu.kim@datastreams.co.kr>
+Date:   Thu Jan 16 09:11:42 2020 +0900
+
+    Solve boj10101 삼각형 외우기
+
+[33mcommit c4c4b092856a4bc0724776b9994e88a45e81d1fb[m
+Author: 김민수 <minsu.kim@datastreams.co.kr>
+Date:   Wed Jan 15 16:34:30 2020 +0900
+
+    Solve boj10867 중복 빼고 정렬하기
+
+[33mcommit 1ec46bb807eda8035be2f639b060839cb6cf9e1d[m
+Author: 김민수 <minsu.kim@datastreams.co.kr>
+Date:   Wed Jan 15 16:20:25 2020 +0900
+
+    Solve boj9325 얼마?
+
+[33mcommit 7324a1b6866d79bf51db1bee4e028eba6c71f753[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Jan 15 09:19:51 2020 +0900
+
+    Solve boj2605 줄 세우기
+
+[33mcommit 4459cb9af88fca48824dec31e236e3df1d3fb451[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Jan 15 09:01:21 2020 +0900
+
+    Solve boj10807 개수 세기
+
+[33mcommit 62e807d8ae55971e0ebea0d8c6b8a7f00a538e8d[m
+Author: Kimminsu <alstn2468_@naver.com>
+Date:   Tue Jan 14 17:23:17 2020 +0900
+
+    Solve boj10973 이전 순열
+
+[33mcommit b53ee6a6885f9eec06e853b2c13379cf65735df1[m
+Author: Kimminsu <alstn2468_@naver.com>
+Date:   Tue Jan 14 17:22:40 2020 +0900
+
+    Solve boj10973 이전 순열
+
+[33mcommit 95035f8b58dd22b112376ce7ec6c8b400bb98a11[m
+Author: Kimminsu <alstn2468_@naver.com>
+Date:   Tue Jan 14 17:04:37 2020 +0900
+
+    Solve boj9318 Hello Judge
+
+[33mcommit 8933221e13789eb450c9092252a5c81d6b8b62b7[m
+Author: Kimminsu <alstn2468_@naver.com>
+Date:   Tue Jan 14 17:04:10 2020 +0900
+
+    Solve boj9316 Hello Judge
+
+[33mcommit 294180156b5e1420acd17ac870a5e3da115befa8[m
+Author: Kimminsu <alstn2468_@naver.com>
+Date:   Tue Jan 14 17:00:21 2020 +0900
+
+    Solve boj1159 농구 경기
+
+[33mcommit 310f593c239ba1b030b45dab065d624fa068a147[m
+Author: Kimminsu <alstn2468_@naver.com>
+Date:   Tue Jan 14 16:59:58 2020 +0900
+
+    Solve boj1159 농구 경기
+
+[33mcommit 7efc9bc8d3f0211958c712fab94093c544b58382[m
+Author: Kimminsu <alstn2468_@naver.com>
+Date:   Tue Jan 14 16:43:02 2020 +0900
+
+    Solve boj1748 수 이어 쓰기 1
+
+[33mcommit 29c8e5d3b9c1490a71d5c0db18bfa594025bf193[m
+Author: Kimminsu <alstn2468_@naver.com>
+Date:   Tue Jan 14 16:42:29 2020 +0900
+
+    Solve boj1748 수 이어 쓰기 1
+
+[33mcommit 7f0521ca308aa67084ec2e094abb81b9384ecf99[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Dec 12 14:23:55 2019 +0900
+
+    Solve boj4999 아
+
+[33mcommit de794e1588f9f0518cb83cb3261edf1e6c3e70ac[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Dec 5 15:42:25 2019 +0900
+
+    Solve boj2501 약수 구하기
+
+[33mcommit cd03f88c2bb55c9268f02c286ca61b3b31fba52d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 4 19:24:25 2019 +0900
+
+    Solve boj15652 N과 M (4)
+
+[33mcommit 15f6c732d47681b026d22fd78709e676231e8aa4[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 4 18:38:32 2019 +0900
+
+    Solve boj2004 조합 0의 개수
+
+[33mcommit 5633aa0a6f1a8d9ff4fffe4dbf800edcd6787e3e[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 4 17:47:52 2019 +0900
+
+    Solve boj12865 평범한 배낭
+
+[33mcommit 78c806d8e62c31f8de9ba03842240ba8e7bdf0bb[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 4 15:50:37 2019 +0900
+
+    Solve boj2565 전깃줄
+
+[33mcommit a2622f3c7e804f2c71ab0ed9c3741d9d81131449[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 4 15:32:55 2019 +0900
+
+    Add white space in doc string
+
+[33mcommit 6785250d838e44a8082573971861971ce7519a64[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 4 15:22:46 2019 +0900
+
+    Add .gitignore
+
+[33mcommit 590aaf5b631be18fbddb70def9b6ec14ce19343a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 4 15:19:05 2019 +0900
+
+    Solve boj1904 01타일
+
+[33mcommit b17402e47d84a97f9438ca91bfdde575add9e427[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 4 15:01:52 2019 +0900
+
+    Solve boj2798 블랙잭
+
+[33mcommit e77fd044773bf3f7f9f96b8db891a89814faebf7[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Dec 2 13:17:14 2019 +0900
+
+    Solve boj1712 손익분기점
+
+[33mcommit b1afcaaba63e49552363a003ff2be8a5878a78a7[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Nov 24 17:21:00 2019 +0900
+
+    Solve boj5086 배수와 약수
+
+[33mcommit 07c4c5b22a25896b5669fe9d2d4eae5b203959d9[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Nov 11 11:33:17 2019 +0900
+
+    Solve boj4592 중복을 없애자
+
+[33mcommit d0812cdbb4bb9913d9cbcf51f6d561753fb56be1[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Nov 10 00:45:09 2019 +0900
+
+    Solve boj6986 절사평균
+
+[33mcommit b3c2c2a153610e6cf15bb59f2b8070885da18925[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Nov 9 23:43:33 2019 +0900
+
+    Solve boj1269 대칭 차집합
+
+[33mcommit 6eb92a41e32bbd22843eaaaa55b27d65eefd439b[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Nov 9 17:07:24 2019 +0900
+
+    Solve boj15651 N과 M (3)
+
+[33mcommit 9fedd517f71c690f6cfdd403e31e3f5194e27c1f[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Nov 9 17:03:53 2019 +0900
+
+    Fix filename
+
+[33mcommit 251885d5221c45ebc0e53a5a5477a86b2259feee[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Nov 9 16:47:39 2019 +0900
+
+    Solve boj5598 카이사르 암호
+
+[33mcommit 158c65b0a9069fe9d7a2060eba548d77504756af[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Nov 9 15:23:59 2019 +0900
+
+    Solve boj1075 나누기
+
+[33mcommit 6a7c4464c468407513ead52736615c5392d37ec7[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Nov 9 13:26:41 2019 +0900
+
+    Init boj1075 나누기
+
+[33mcommit d540d842c7ef05ae06071316f088ec2e76e17f49[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Nov 8 23:44:18 2019 +0900
+
+    Solve boj2592 대표값
+
+[33mcommit 41bb845a7929d85d5c9ca63f487e868ef55ced7e[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Nov 8 23:30:45 2019 +0900
+
+    Solve boj2566 최댓값
+
+[33mcommit 68d51e39d61c02a7ea79e6c49cf3dc059b57ccad[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Nov 8 23:23:19 2019 +0900
+
+    Solve boj5532 방학 숙제
+
+[33mcommit 6c3eeb9d4d11d626a8001c71b9882685c69100e2[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Nov 8 16:35:30 2019 +0900
+
+    Solve boj9507 Generations of Tribbles
+
+[33mcommit 72ca9a2ba7b0185d7aeeaf9ad86c96b85230e38c[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Nov 8 16:30:34 2019 +0900
+
+    Solve boj2460 지능형 기차 2
+
+[33mcommit f4f93640a5565adecf975277a00bb89dee593ad3[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Nov 7 22:19:11 2019 +0900
+
+    Solve boj2845 파티가 끝나고 난 뒤
+
+[33mcommit 1e8e49704521d2eaeb7cc38b21a4703a049f9c0a[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Nov 7 22:03:03 2019 +0900
+
+    Solve boj2822 점수 계산
+
+[33mcommit 44e577ec855241481e9f9a32abb1b90da3108508[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Nov 7 00:02:42 2019 +0900
+
+    Solve boj9654 나부 함대 데이터
+
+[33mcommit dc4e0b71ded5f21574aa6146aa13eabac141bf32[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Nov 6 21:40:46 2019 +0900
+
+    Solve boj11756 CCW
+
+[33mcommit 7990d3ca504d14ce9ea238511c8543695f1e39ac[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Nov 5 11:01:27 2019 +0900
+
+    Solve boj10448 유레카 이론
+
+[33mcommit dc1db4b4cbd7c2fe0a373dc762eeb641f4435d90[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Nov 5 09:44:26 2019 +0900
+
+    Solve boj10974 모든 순열
+
+[33mcommit 81c7e1bdf7b0240011b4f88ec68bf0be9a8a93fe[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Nov 5 09:35:18 2019 +0900
+
+    Solve boj10026 적록색약
+
+[33mcommit e8ce8e5b492ada8c18d4ed17ddd406784aa292d3[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Nov 5 00:03:40 2019 +0900
+
+    Solve boj6603 로또
+
+[33mcommit 21b12b01fd3bddec7569ace3a5035353501a44de[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Nov 3 10:19:07 2019 +0900
+
+    Solve boj10824 네 수
+
+[33mcommit c7562aaeff7e7c3755870252ba32814472c064cb[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Oct 28 14:09:43 2019 +0900
+
+    Solve boj1707 이분 그래프
+
+[33mcommit 4233de257552ae08fbc090624c39f47f08a55d1f[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Oct 28 13:45:37 2019 +0900
+
+    Solve boj10451 순열 사이클
+
+[33mcommit 7e99e54f0bb2ac96a0a0acc975c669779823f8da[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Oct 27 16:21:02 2019 +0900
+
+    Solve boj15650 N과 M (2)
+
+[33mcommit 00d34716232825029795306c4a9dbea205fc13ac[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Oct 27 16:04:13 2019 +0900
+
+    Solve boj2563 색종이
+
+[33mcommit 3efa8e79f9bf5e41fb92d761ffae12c18c7bd947[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Oct 27 12:39:47 2019 +0900
+
+    Solve boj11656 접미사 배열
+
+[33mcommit d0990ffda71ef6d4eb140aa357bb2e6e33582bf4[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Oct 26 00:01:48 2019 +0900
+
+    Solve boj2011 암호코드
+
+[33mcommit 4024ffc836806f77c4d588f011ae02accd776b54[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Oct 26 00:01:18 2019 +0900
+
+    Solve boj2011 암호코드
+
+[33mcommit a8fdfb13a80d00832f5ac0367e02c477436519de[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Oct 25 23:09:09 2019 +0900
+
+    Solve boj2225 합분해
+
+[33mcommit 62e6736c4dfe05efe949efc90cbef2d636279a21[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Oct 25 22:25:37 2019 +0900
+
+    Solve boj2133 타일 채우기
+
+[33mcommit 676e6601db0c6c80f74106354469a295dd825e71[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Oct 25 22:03:08 2019 +0900
+
+    Solve boj1699 제곱수의 합
+
+[33mcommit 6697e0db664d5a5c08a87ea9ececd36379ccd37b[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Oct 25 21:18:09 2019 +0900
+
+    Solve boj11054 가장 긴 바이토닉 부분 순열
+
+[33mcommit 255bf73703debb02caa49e902d4ac3e2e140d5f7[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Oct 23 22:29:09 2019 +0900
+
+    Solve Boj1406 에디터
+
+[33mcommit 3fe3749a06c7299806da08e80b021c8954196fe5[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Oct 22 17:05:11 2019 +0900
+
+    Solve Boj11048 이동하기
+
+[33mcommit 75a5364f6556b650331eaf8c7e409b9643b8e70b[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Oct 21 15:44:02 2019 +0900
+
+    Solve Boj7568 덩치
+
+[33mcommit 0e062e41374dc8dca20fc095a6c08d06659e00ef[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Oct 21 13:47:31 2019 +0900
+
+    Solve Boj11651 좌표 정렬하기 2
+
+[33mcommit 61cff39b95d767bc3bd4b643dfd20c3e144f59d1[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Oct 20 22:52:29 2019 +0900
+
+    Solve Boj13458 시험 감독
+
+[33mcommit eaf692f9b7cd82f918c31cdec26990c202968e65[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Oct 20 22:35:38 2019 +0900
+
+    Solve Boj2309 일곱 난쟁이
+
+[33mcommit 95573c889a94d8c92256625fb33db052bc4f451b[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Oct 20 22:26:12 2019 +0900
+
+    Solve Boj14502 연구소
+
+[33mcommit 3510eebd49cd32c8887078f4ff93a8122894d421[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Oct 20 22:25:00 2019 +0900
+
+    Solve Boj14502 연구소
+
+[33mcommit 793e1a1d107e3b8bab69222aa52cbaf29ec6f9cc[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Oct 20 13:46:24 2019 +0900
+
+    Solve Boj10162 전자레인지
+
+[33mcommit 3eeda80993ae8a09c4892b48bfc1c16efbfbad00[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Oct 16 18:51:39 2019 +0900
+
+    Solve BOj17182 우주 탐사선
+
+[33mcommit cc81a92e5538e1b7a8ab69426ea88c1e422c2ee7[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Oct 15 20:06:33 2019 +0900
+
+    Solve Boj17180 문자열 비교하기
+
+[33mcommit 57d6a63aa2d3ab1fab1b2151f0e2c7b0a5316c7b[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Oct 12 10:54:42 2019 +0900
+
+    Solve Boj4153 직각삼각형
+
+[33mcommit 1fe0eaed84dbf550a89b10225188549557791d74[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Oct 12 10:07:27 2019 +0900
+
+    Solve BOj11722 가장 긴 감소하는 부분 수열
+
+[33mcommit 68df04106b5aa646503bfc5edd3e6a9339e88879[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Oct 11 18:00:54 2019 +0900
+
+    Add white space in 11055.py
+
+[33mcommit ab3715807cbe5b3fb0e9b798036adfe3a2aedc4d[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Oct 11 17:37:46 2019 +0900
+
+    Solve Boj11055 가장 큰 증가 부분 순열
+
+[33mcommit 4420bb795c9ee9f6aeb12ea881e3fa8908c06e99[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Oct 11 16:18:22 2019 +0900
+
+    Init Boj11055 가장 큰 증가 부분 수열
+
+[33mcommit 1ecf3c90ed848634404a3b0c12fc0a6ca98afd1c[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Oct 10 23:20:40 2019 +0900
+
+    Solve Boj2873 롤러코스터
+
+[33mcommit 565ccb2c3205c7655f9e0cfe760de30d8a4a0f0a[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Oct 10 01:08:59 2019 +0900
+
+    Solve Boj1080 행렬
+
+[33mcommit 939ac491c3a68b283ca4351abcd9b44e39c5dab6[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Oct 9 16:53:05 2019 +0900
+
+    Solve Boj1201 NMK
+
+[33mcommit dffca04fe196bc5fe879e7d490bed85c14b177e7[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Oct 9 15:50:04 2019 +0900
+
+    Solve Boj1783 병든 나이트
+
+[33mcommit bad6be6a8b3e410636d2c4c34572dc33fce7a341[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Oct 9 15:03:41 2019 +0900
+
+    Solve Boj2875 대회 or 인턴
+
+[33mcommit dea9ee76ea25f56eded4df3d931ef4d4c14afcbd[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Oct 9 14:44:44 2019 +0900
+
+    Solve Boj1744 수 묶기
+
+[33mcommit fbfd130dd71f786a511b183ac5a194383df52890[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Oct 8 10:28:03 2019 +0900
+
+    Solve Boj10610 30
+
+[33mcommit cbf5ce4b90d1003d16055410f8ce7020fe96753c[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Oct 8 10:04:24 2019 +0900
+
+    Solve Boj15873 공백 없는 A+B
+
+[33mcommit 8fc8c434b9d40367215f1b38a0a4ca54fb3c76de[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Oct 8 09:46:27 2019 +0900
+
+    Solve Boj2231 분해합
+
+[33mcommit 5e9bc6d0d31dc131bd449fa96ab712ad6874f004[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Oct 8 00:07:45 2019 +0900
+
+    Init Boj17179 케이크 자르기
+
+[33mcommit 66bbec3fc5eabb7a44348cf77a685b5223e6f7a8[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Oct 7 18:27:04 2019 +0900
+
+    Solve boj17178 줄서기
+
+[33mcommit fdd060864c0d70c9f201037b079d81977585a2a2[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Oct 6 21:02:49 2019 +0900
+
+    Solve Boj11660 구간합 구하기 5
+
+[33mcommit d48f1eaffc7af6bdebf88641394ea4caadcd3247[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Oct 5 18:43:26 2019 +0900
+
+    Solve Boj11005 진법 변환 2
+
+[33mcommit 504ac00ac78a143ff2817b2015106cc4028067ea[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Oct 5 18:30:30 2019 +0900
+
+    Solve Boj10156 과자
+
+[33mcommit 33d20a80fca2f27bc70a6f1fba14d03e538f3b3a[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Sep 28 20:35:15 2019 +0900
+
+    Continue solveing 17178.py
+
+[33mcommit 0a9483d6f647f62e1a2b9c79cd6de9e3375dd1f8[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Sep 27 18:26:43 2019 +0900
+
+    Solve Boj17177 내접사각형 만들기
+
+[33mcommit e6941c74d1537bac4f1f5c90781e72c198ae220a[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Sep 26 21:13:56 2019 +0900
+
+    Solve Boj17176 암호해독기
+
+[33mcommit cbbe0a39d369e092d08a4330be1dee7da57978a8[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Sep 26 20:41:20 2019 +0900
+
+    Solve Boj17175 피보나치는 지겨웡~
+
+[33mcommit 1b57004e1d706f423ab391da7f06668ef0f8e725[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Sep 25 16:32:57 2019 +0900
+
+    Delete useless whitespace
+
+[33mcommit bb7a7afc66df7d00c24e3ddd84dfcf67827f76d1[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Sep 25 16:24:24 2019 +0900
+
+    Solve Boj2193 이친수
+
+[33mcommit 2a4716bc5de5caa7443f3e84c7365aa92115a168[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Sep 25 15:35:23 2019 +0900
+
+    Solve boj17174 전체 계산 횟수
+
+[33mcommit 52e91962ec8bb567b6fe1cff059cb8908cfd8bac[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Sep 25 14:59:23 2019 +0900
+
+    Fix comment in some problems (Add # at white space
+
+[33mcommit afe0f8e14f8f6a60b1d40ec98970e9f5eb76e0ef[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Sep 25 14:57:46 2019 +0900
+
+    Solve boj17173 배수들의 합
+
+[33mcommit 21ddad2e05bfa3394bf4fce88596733b804e8505[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Sep 25 14:55:05 2019 +0900
+
+    Solve boj1010 다리 놓기
+
+[33mcommit c664da95e2434f99c9502bde1ae6fdec8f42df02[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Sep 25 00:24:19 2019 +0900
+
+    Solve boj2824 최대공약수
+
+[33mcommit a2815d0b1fdebfe5b13a80db89936adcfb1b5d35[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Sep 24 00:09:49 2019 +0900
+
+    Solve Boj3009 네 번째 점
+
+[33mcommit f0d7065a7a09d85fa9f40262ab0b9b036fe0893b[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Sep 23 22:18:17 2019 +0900
+
+    Solve Boj 9085 더하기
+
+[33mcommit 9b327a6057d7681cab5d5bf454c80317183321d6[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Sep 21 17:37:11 2019 +0900
+
+    Refactoring 14761.py making solution funcion
+
+[33mcommit 95892e9d2321120753f88625009a04d56632c684[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Sep 21 17:19:38 2019 +0900
+
+    Solve boj14761 FizzBuzz
+
+[33mcommit 3701b3826d7363f653fb8eff82713b8740af391a[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Aug 22 10:48:18 2019 +0900
+
+    Solve boj10870 피보나치 수 5
+
+[33mcommit 5ea6cbbfc660791dd1a22f1291f2f49f994aaa4f[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Aug 21 23:42:04 2019 +0900
+
+    Solve boj9655 돌 게임
+
+[33mcommit b41d5f5f670b0d01110b041d185cc73ddf2be9e7[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Aug 19 02:08:20 2019 +0900
+
+    Solve boj5597 과제 안 내신 분..?
+
+[33mcommit a4586c863925c405a39f0aafa393562c61829625[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Aug 13 15:06:50 2019 +0900
+
+    Solve boj2480 주사위 세개
+
+[33mcommit 3ad1acffe3957c270d3db2bca74c1ae8b308ddc2[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Aug 11 12:03:58 2019 +0900
+
+    Solve boj2587 대표값2
+
+[33mcommit ef6257887b9e347e2af68cd67390b0195e98acfb[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Aug 10 04:22:16 2019 +0900
+
+    Solve boj10987 모음의 개수
+
+[33mcommit 3b4e0935fa56242fa6b5bd0f2f7111266a4e7724[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Aug 10 04:07:07 2019 +0900
+
+    Solve boj10814 나이순 정렬
+
+[33mcommit f22210159ec531b6ef6e8df7d622f41a002a28c7[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 9 20:52:56 2019 +0900
+
+    Solve boj2506 점수계산
+
+[33mcommit 9d0b28c38669b697c239e808a17ab72794c8e335[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 9 18:23:28 2019 +0900
+
+    Solve boj6359 만취한 상범
+
+[33mcommit 1605cd73e6f6442bf389548223507a77950ba44b[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 9 14:27:30 2019 +0900
+
+    Solve boj10820 문자열 분석
+
+[33mcommit c4118ba62156d480598bd806bf4f575867216fac[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Aug 8 00:50:47 2019 +0900
+
+    Solve boj7567 그릇
+
+[33mcommit 8fa247d57c895955b99c01dcd6dcba9af32e6ccf[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Aug 8 00:45:42 2019 +0900
+
+    Solve boj3003 킹, 퀸, 룩, 비숍, 나이트, 폰
+
+[33mcommit d1be5885b298b39c5ad91b4bdc3b8b5fc70d8cbb[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Aug 7 13:24:34 2019 +0900
+
+    Solve boj2965 캥거루 세마리
+
+[33mcommit 4003aef91dc052a97e7bee36982fbb551d8062ac[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Aug 6 00:04:47 2019 +0900
+
+    Solve boj10833 사과
+
+[33mcommit 0b030be3fc0bb75f30210d0e81a65613bfb221e4[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Aug 5 21:10:57 2019 +0900
+
+    Solve boj10988 팰린드롬인지 확인하기
+
+[33mcommit dea8dfa943a840c5f92c489f43f59cbc113d937a[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Aug 5 20:50:24 2019 +0900
+
+    Solve boj2864 5와 6의 차이
+
+[33mcommit 0648ab89445be5b2e0dd084595b4364a4483ce7c[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Aug 5 20:28:01 2019 +0900
+
+    Solve boj11655 ROT13
+
+[33mcommit 5aab18ba0dabfe956f00ce2b1d7690ea10f7597c[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Aug 5 13:57:53 2019 +0900
+
+    Solve boj10798 세로읽기
+
+[33mcommit 0c409ff1cee8a5977b2c415f2903488d0d8de989[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sat Aug 3 13:18:06 2019 +0900
+
+    Solve boj1076 저항
+
+[33mcommit d3eec4d870e9617964306c908b6db5155b6ef1e9[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 21:35:16 2019 +0900
+
+    Solve boj10699 오늘 날짜
+
+[33mcommit a72b5c807266df104b8e414a895d503d8ab72fa1[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 21:28:09 2019 +0900
+
+    Solve boj10886 0 = not cute / 1 = cute
+
+[33mcommit e92ee6197eb984bd9c2b9c1956daf3da08f5da23[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 21:12:55 2019 +0900
+
+    Solve boj2010 플러그
+
+[33mcommit e78ddc707f21848ad4189838adcd71effcaa7275[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 20:34:33 2019 +0900
+
+    Solve boj2953 나는 요리사다
+
+[33mcommit 4f6744343a4a9cfc6b2432915cde12585c256abc[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 19:36:15 2019 +0900
+
+    Solve boj10819 차이를 최대로
+
+[33mcommit e2931603362e534bec231113570e8869926014a6[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 19:03:38 2019 +0900
+
+    Solve boj15989 1, 2, 3 더하기 4
+
+[33mcommit a0cd160d3672ca9d4bac53b7e6d783807daf71b4[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 18:03:40 2019 +0900
+
+    Solve boj12101 1, 2, 3 더하기 2
+
+[33mcommit f5d89ab7ac7a95a8e502901e94ffce42868a89d5[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 17:39:43 2019 +0900
+
+    Solve boj2167 2차원 배열의 합
+
+[33mcommit b1be041114c7b0d92c8fe6acea3b6f79ec900bc6[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 17:21:31 2019 +0900
+
+    Solve boj1541 잃어버린 괄호'
+
+[33mcommit c49a65f77a0233dc386c4335b41b269cd20f2181[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 16:41:08 2019 +0900
+
+    Solve boj5565 영수증
+
+[33mcommit ca3f238da2864779cbce4f97b82328bf086b58c6[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 16:37:55 2019 +0900
+
+    Solve boj5543 상근날드
+
+[33mcommit d5b57b92419e62943afea764104358b709e5ab80[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 16:32:14 2019 +0900
+
+    Solve boj2475 검증수
+
+[33mcommit a5a00a58ec2c8ee7cc37dd1a627dabb879700cd0[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 01:40:41 2019 +0900
+
+    Solve boj1100 하얀 칸
+
+[33mcommit 1e44657c2508c83d5d700832b155f5b57870d2dd[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Fri Aug 2 00:18:35 2019 +0900
+
+    Solve boj2884 알람 시계
+
+[33mcommit 5b31c6f078a9ff9cfb036ef06e5d8f2d0aa612f5[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Aug 1 19:39:53 2019 +0900
+
+    Solve boj2163 초콜릿 자르기
+
+[33mcommit 0fd1ab3de369e46449102ba7c91e97eafbbf402e[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Aug 1 11:18:34 2019 +0900
+
+    Solve boj2743 단어 길이 재기
+
+[33mcommit 6db1d8e13d34135ee7870098f4d581081ba48bc5[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Aug 1 01:28:08 2019 +0900
+
+    Solve boj10808 알파벳 개수
+
+[33mcommit 1ebf1e7c2d5ef667fbe480687b375fda99f3141e[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Aug 1 00:46:31 2019 +0900
+
+    Solve boj10926 ??
+
+[33mcommit 203e43b159b34b11905812a441a9912cc61634bb[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 31 23:18:45 2019 +0900
+
+    Solve boj6376 e 계산
+
+[33mcommit 78f6245dc8feff91afb54d207bb55ffb63972fc4[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 31 23:01:39 2019 +0900
+
+    Solve boj5063 TGN
+
+[33mcommit aa42f19d4110f4f0b1104fabe59555639eb6db38[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 31 16:20:56 2019 +0900
+
+    Solve boj2576 홀수
+
+[33mcommit 33e2626e205839236d7117bfebb7da02b069e785[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 31 16:11:54 2019 +0900
+
+    Solve boj10170 NFC West vs North
+
+[33mcommit ebef4aaf41dcddb5844a875fa4238fcc7c952c4d[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 31 16:02:15 2019 +0900
+
+    Solve boj2420 사파리월드
+
+[33mcommit ec925d1e955ba9fbbd54e0fb1f124d99435b1d7e[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 31 15:51:45 2019 +0900
+
+    Solve boj5217 쌍의합
+
+[33mcommit e4ba8b9aa1e08912f1577d4ba3d0461b3a586b72[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 31 15:33:06 2019 +0900
+
+    Solve boj10797 10부제
+
+[33mcommit 62da8839ab71656243b525686ee8ba5f4018340d[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 31 15:20:11 2019 +0900
+
+    Solve boj15596 정수 N개의 합
+
+[33mcommit d942a673e29b2f883458a7047f4477c9c17eaf93[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 31 01:50:51 2019 +0900
+
+    Solve boj17202 핸드폰 번호 궁합
+
+[33mcommit 680a0516413769dc42f47b8f1ce6beaa64a28304[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 31 01:20:18 2019 +0900
+
+    Solve boj2753 윤년
+
+[33mcommit e01a74eaf81e4ad9eac21cf82be2dd1096b42b17[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 31 01:15:32 2019 +0900
+
+    Solve boj10707 수도요금
+
+[33mcommit 589ee5130c43341d0b14b8b610b3c9be94ae134d[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 31 01:05:43 2019 +0900
+
+    Solve boj1268 임시 반장 정하기
+
+[33mcommit f03f9f04dc8d4da542dc428920e197fb3605b2be[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Jul 30 01:06:06 2019 +0900
+
+    Solve boj17294 귀여운 수~ε٩(๑> ₃ <)۶з
+
+[33mcommit 5f48998b475df16bb6fc7ee6cbe4f587fb2a9111[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Jul 30 00:39:36 2019 +0900
+
+    Solve boj2711 오타맨 고창영
+
+[33mcommit 08968978aad45d7fae9b076f7b66f534205af670[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Jul 30 00:33:10 2019 +0900
+
+    Solve boj7523 Gauß
+
+[33mcommit 33573f5a7017f67d835dd69d412f963557cfee8c[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Jul 30 00:14:45 2019 +0900
+
+    Solve boj17249 태보태보 총난타
+
+[33mcommit 5c3a1758d61bf4266aaf1f54e3fe1a6397c0eb02[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Jul 29 21:32:28 2019 +0900
+
+    Solve boj17363 우유가 넘어지면?
+
+[33mcommit 9f709bdabf6e1bbb089492365adb19a92509c52e[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Jul 29 17:05:42 2019 +0900
+
+    Solve boj2745 진법변환
+
+[33mcommit 5352004310457d42572996c32fbe4c54840c43c8[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Jul 29 15:38:10 2019 +0900
+
+    Solve boj11006 남욱이의 닭장
+
+[33mcommit 7ea16f2c3ebd4f9486a3879f6b0f3d2e1c19d1c9[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Jul 29 14:12:36 2019 +0900
+
+    Solve boj5612 터널의 입구와 출구
+
+[33mcommit 986cab6c7173b13b166a24bdb5f037aa23258ccb[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Jul 29 12:05:40 2019 +0900
+
+    Solve boj3052 나머지
+
+[33mcommit acc925a17cdfc18fc8920b24c95aedd0a79d431a[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Jul 29 11:52:18 2019 +0900
+
+    Solve boj2562 최댓값
+
+[33mcommit 08935e4f70fd1617b41bc212f98d9f3324ff9d25[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Jul 29 11:07:56 2019 +0900
+
+    Solve boj2979 트럭주차
+
+[33mcommit 225f9815501482a546e9c0380170d099f82c51d9[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Jul 29 01:23:56 2019 +0900
+
+    Solve boj1589 수학은 체육과목 입니다.
+
+[33mcommit 2b402d41a73ba328d7e3b9f7fbd0bb05873ee83e[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Jul 29 01:18:53 2019 +0900
+
+    Solve boj5554 심부름 가는 길
+
+[33mcommit 141d8e289d3bd041b2cf66e47865c1116c029b02[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Jul 29 00:36:20 2019 +0900
+
+    Solve boj 11945 뜨거운 붕어빵
+
+[33mcommit 4511ebbd71f35966356c4e581bb7762d5e4de2f4[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Jul 29 00:28:11 2019 +0900
+
+    Solve boj11944 NN
+
+[33mcommit b40aa34b43a421dbe1dac4652ee1a3ad2e639048[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Jul 29 00:14:08 2019 +0900
+
+    Solve boj11943 파일 옮기기
+
+[33mcommit 96c61fc217058b8ec394ec524afacf3a540940b3[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Mon Jul 29 00:08:35 2019 +0900
+
+    Solve boj11942 korea university
+
+[33mcommit f28b69fb5b530380b66e5098765b429e2f1404d7[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Sun Jul 28 14:52:56 2019 +0900
+
+    Solve boj11653 소인수분해
+
+[33mcommit 1b7194d448028c35f1ab531ecc8d68a99d6aa713[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Thu Jul 25 21:23:39 2019 +0900
+
+    Init get input boj11660
+
+[33mcommit d866c356c76e4126efd06bd44dbdd120415604ef[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 24 16:43:28 2019 +0900
+
+    Solve boj11659 구간합 구하기 4
+
+[33mcommit f5e473bff2bb12189bd2af9328456eca76bb6449[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 24 16:13:18 2019 +0900
+
+    Solve boj14648 query taste
+
+[33mcommit 9a34cce0a32370eae8c28d013a195c1ff4cf013a[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 24 15:44:50 2019 +0900
+
+    Solve boj16394 hongik university
+
+[33mcommit 113734578b53342011ba270da0a29d03bb9ceaeb[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 24 01:21:05 2019 +0900
+
+    Solve boj2588 multiple
+
+[33mcommit 4667bf26e4738e84e202da66bf82b408de66ae1c[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 24 01:10:31 2019 +0900
+
+    Solve boj16396 draw line
+
+[33mcommit d924680348cb68badacc257eb59143c5a46f1a57[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Wed Jul 24 00:57:18 2019 +0900
+
+    Sovle boj15988 1, 2, 3 sum - 3
+
+[33mcommit 622c5c0e6cf2922251e12622bc7983fb86fcf789[m
+Author: 김민수 <alstn2468_@naver.com>
+Date:   Tue Jul 23 16:29:39 2019 +0900
+
+    Solve boj11784 hex code
+
+[33mcommit f558b53953ce44938633e8a070912676778bf25b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jul 23 02:40:01 2019 +0900
+
+    Solve boj2935 noise
+
+[33mcommit e46e7d5364b4b740fbe32cd9430eaabdfcf26d0a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jul 23 02:33:09 2019 +0900
+
+    Solve boj1408 24
+
+[33mcommit 1042f540648f42fb1f0e94dfdd4909e40c18f541[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Jul 22 20:36:33 2019 +0900
+
+    Solve boj9095 1,2,3 sum
+
+[33mcommit 5e778b94b26c14a9fbe81cfed3d1e220b023ca57[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Jul 22 09:19:52 2019 +0900
+
+    Solve boj5524 입실관리
+
+[33mcommit e625cced892edc503b77147c3d563e9d361ba493[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Jul 22 00:45:50 2019 +0900
+
+    Solve boj13420 사칙연산
+
+[33mcommit 08ad2af149e9ac7783cf877d7e22aac519442088[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Jul 22 00:34:42 2019 +0900
+
+    Solve boj9987 pokemon master
+
+[33mcommit e083289c39c6fa2be9e3ad3163a16f45d3ca4347[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 21 22:38:19 2019 +0900
+
+    Solve boj1629 multiply
+
+[33mcommit 60768f0343cc86a8a5d80f31a9b85ecb5d50fabe[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 21 22:26:44 2019 +0900
+
+    Solve boj11179 reverse binary num
+
+[33mcommit 9c8dfe1c22b8d1a3450d7a7b30fab81e18dd78f2[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 21 16:09:47 2019 +0900
+
+    Solve boj2744 swap case
+
+[33mcommit 39dc4a5277d416fbc6c54aa1df428e9ce0e0eba7[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 21 02:18:52 2019 +0900
+
+    Solve boj11506 占쏙옙
+
+[33mcommit 9b853e59493125cb18be2e1a78adb9b55c12368c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 21 02:14:35 2019 +0900
+
+    Solve boj12096
+
+[33mcommit a3ee1ffbe9ae5b9965cd0dd503d38bcc8818b707[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 21 02:09:57 2019 +0900
+
+    Solve boj1292 easy solve problem
+
+[33mcommit 187213081ab3dbffef3a9a566cd399e3c58be29b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 21 02:09:25 2019 +0900
+
+    Solve boj1292 easy solve problem
+
+[33mcommit e6c2269bf64c7ef25d9d51af44c62b9978148d78[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 21 02:08:55 2019 +0900
+
+    Solve boj1292 easy solve problem
+
+[33mcommit 61c8db5ea38c6eb27b22cd963747cff5e5796999[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 21 01:27:46 2019 +0900
+
+    Solve boj1252 binary num sum
+
+[33mcommit 9e5694ddd1e00625730c6ec14d089a8fcbaf3700[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 21 01:20:34 2019 +0900
+
+    Solve boj1037 divisor
+
+[33mcommit 42af2218a664ee655a003f2cd983181ed313b774[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 21 01:07:47 2019 +0900
+
+    Solve boj1373 bin to oct
+
+[33mcommit b7a1c1755aa7a6d82cd28dbbfdbd1e1bbea10549[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 21 01:02:28 2019 +0900
+
+    Solve boj1302 best seller
+
+[33mcommit 2d2ebd27a1d99e82d06dfcfa43d321982690fa5d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 21 00:39:35 2019 +0900
+
+    Solve boj1330 compare two num
+
+[33mcommit 52e68c5803898aa2f46aff7985a471afcf7d36e1[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jul 20 00:48:51 2019 +0900
+
+    Solve boj1212 oct to bin
+
+[33mcommit b60e146ee827c1193068a2769ea576a5803d017a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jul 18 19:12:09 2019 +0900
+
+    Solve boj3460 binary num
+
+[33mcommit e857a4172d7e2e29ab4426f42d1c167b92819667[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Jul 15 00:11:35 2019 +0900
+
+    Solve 1009 분산처리
+
+[33mcommit a3dec3c14c59b3b812a79b5202c22274cf2c4c75[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 14 15:28:48 2019 +0900
+
+    Solve 15740 A+B - 9
+
+[33mcommit 38e17961f2b96496877a426e514abd6fe5e1010a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 14 15:25:45 2019 +0900
+
+    Solve 11022 A + B - 8
+
+[33mcommit 086def5fb4bb9fac958d0e6b6dfc9ba12cbd5f7b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 14 15:25:17 2019 +0900
+
+    Solve 11022 A + B - 8
+
+[33mcommit 6bd29f49f8261d25d8469570de02f1253b33ad03[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 14 15:19:12 2019 +0900
+
+    Solve 9999 GUGU
+
+[33mcommit 9782f79df45aae0ce2af73d6db7cd703de8786f1[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 14 13:07:46 2019 +0900
+
+    Solve 11021 A+B - 7
+
+[33mcommit 85ba143eb3202766fd082dd4292b0cd6b3e2a0cb[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 14 01:23:54 2019 +0900
+
+    Solve 10953 A+B - 6
+
+[33mcommit 9e96283df3d58d87f2d10f1f224ee6298b038b91[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jul 13 00:35:04 2019 +0900
+
+    Init 10953 A+B - 6
+
+[33mcommit 36d02bf949650c67330977b7f3241a9a797231b7[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Jul 12 00:35:51 2019 +0900
+
+    Solve 10826 big num fib
+
+[33mcommit c65913d289333ede8a4265f27c05610019df7bc9[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jul 11 20:01:34 2019 +0900
+
+    Continue solve 10826
+
+[33mcommit 69de8b9d6b524f0186d727ce1cd6a197d7aa2607[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jul 9 17:37:34 2019 +0900
+
+    Solve boj 10757 big A+B
+
+[33mcommit 6af83ed0d132ce009bf4648af5d9f6df96faef4d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 7 14:07:22 2019 +0900
+
+    Solve boj2903
+
+[33mcommit 8536f4a121abacee9c4da49da2108e9ae6f0a2a1[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Jul 5 15:54:24 2019 +0900
+
+    Solve 11053 lis
+
+[33mcommit 8f71015903231fd4817d076445f9107de478085c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jul 2 10:15:27 2019 +0900
+
+    Solve 15649 boj N and M 1
+
+[33mcommit 4bfbd5dde6f909fd4daee1cb7f522ab9ea2fddf3[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Jul 1 13:05:50 2019 +0900
+
+    Init 15649 boj N and M 1
+
+[33mcommit a438bceb13f01e20fe6c639131c878a967167b8b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jun 30 00:52:15 2019 +0900
+
+    Solve boj 1495
+
+[33mcommit ec81438354a179dd91c1886f3cb85d3fbfb4206e[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jun 29 11:12:06 2019 +0900
+
+    Continue solving 8907
+
+[33mcommit ac8f5e1bf2e3ae9d6561c8da1f91e5fac8364638[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Jun 28 12:02:10 2019 +0900
+
+    Solve boj 11057 climbing number
+
+[33mcommit 7a8e45458a4b44bc8bfa9b87938398169788401c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jun 27 16:32:36 2019 +0900
+
+    Change file name
+
+[33mcommit cfbfcd90fb05c60424ae4fc838efe7eb580bc0bd[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jun 27 13:44:47 2019 +0900
+
+    Solve boj 11052 buying cards
+
+[33mcommit 9318c7d80259904ce9d1d83d5e9a535b58b2571e[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jun 27 12:58:34 2019 +0900
+
+    Add boj 11052 buying cards Init
+
+[33mcommit 66de8f7ab530df6b5d3531ded720c236109551b9[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jun 25 12:26:10 2019 +0900
+
+    Solve boj 5585 change
+
+[33mcommit 1c6cd7b9ec89b0d1eae64b76573e91bcc45faed5[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Jun 21 13:06:22 2019 +0900
+
+    Solve boj9465 sticker
+
+[33mcommit 0e7f99604d2b6611d2056016dbc32d10ff218eb8[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Jun 21 12:28:06 2019 +0900
+
+    Init 9465 boj sticker
+
+[33mcommit ab362efa9828cdc608adb6c011f94f34805b2ba5[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jun 20 11:02:12 2019 +0900
+
+    Solve 15483 min edit
+
+[33mcommit d2978998dbd5c296f25a2e195458b9748b17d801[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Jun 19 06:58:20 2019 +0900
+
+    Continue solving 15483
+
+[33mcommit ea990d016715116aaab4f65f8e5cd4f4f62cd5d9[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Jun 17 00:35:59 2019 +0900
+
+    Init 15483 boj
+
+[33mcommit d701d3a56aebd7fd21fc0d5e9b049b078fe54d6e[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jun 16 15:57:19 2019 +0900
+
+    Solve 1026 boj treasure
+
+[33mcommit 39b0522edc2784543f4594bdcc70cb7bd62e3e75[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jun 15 10:25:58 2019 +0900
+
+    Solve 11724boj num of link
+
+[33mcommit 887ddc7cff0e37bb3ac57568388b1bde25a1b6f4[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Jun 14 10:53:07 2019 +0900
+
+    Init 11724 boj
+
+[33mcommit ef2ba0433e1107e8881b40e47ae768177fc062a8[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jun 13 12:52:00 2019 +0900
+
+    Solve 1019 boj book page
+
+[33mcommit b4416ae2a36385081d83908158b40a4385b77950[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Jun 12 23:22:49 2019 +0900
+
+    Solve 1138 boj one line
+
+[33mcommit 24f22589dc01138533c6360380dfd18dd47d8e48[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jun 11 12:44:09 2019 +0900
+
+    Solve 2294 boj coin2
+
+[33mcommit 9898ba45b57d59313556124f0339d62afc53ab72[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jun 11 12:30:39 2019 +0900
+
+    Continue solveing 2294 coin2
+
+[33mcommit 9c17c0b4a54e529f0f30a02a675ea69ec9aa2381[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jun 6 19:33:30 2019 +0900
+
+    Solve 1309 boj zoo
+
+[33mcommit 76cddd49b2edfe86dff3a9f8fbaf279c6533064e[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Jun 5 21:17:26 2019 +0900
+
+    Solve 1351 boj Infinite sequence
+
+[33mcommit f6484c7a9f9a2885063b9e06ba4106245fb1dbd5[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Jun 5 20:49:33 2019 +0900
+
+    Solve 17264 boj I AM IRONMAN
+
+[33mcommit b8ec528d154562b83d3c65a9e957467f3ff83d89[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Jun 5 20:34:25 2019 +0900
+
+    Solve 17263 boj sort master
+
+[33mcommit b36986b3fb9b176e5ca15c7c0d877e11273b0b2b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Jun 5 00:40:07 2019 +0900
+
+    Init 1351 infinite sequence
+
+[33mcommit 7210981500a6daaaf3408e41540efc42961518be[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jun 4 17:15:55 2019 +0900
+
+    Solve 11727 boj 2xn tileing 2
+
+[33mcommit ecd3b54ce30518a5f1a4bc9bca57d0ed10915526[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jun 4 15:32:05 2019 +0900
+
+    Solve 11726 2xn tileing
+
+[33mcommit bac0b49a5bba3b1979a018ed1da3e1e78403a4af[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jun 4 00:03:37 2019 +0900
+
+    Solve 10799 boj metalstick
+
+[33mcommit 91bee261795e70b03824775b40ff428a08dc825a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Jun 3 20:56:48 2019 +0900
+
+    Short code in 1085 boj
+
+[33mcommit 77ea141222dde8e79c77ed4fc26faebec593bd94[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Jun 3 20:34:52 2019 +0900
+
+    Solve 2164 boj card 2
+
+[33mcommit 7c0691a4c3146e98e1913348340ef124a616a34a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Jun 3 13:50:03 2019 +0900
+
+    Solve 4949 boj balanced world
+
+[33mcommit 72938629bb9cade23a4c608b6580bf6f800400a0[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Jun 3 13:15:44 2019 +0900
+
+    Sovle 2312 boj num recover
+
+[33mcommit f08317bcbcf050bd5a7d5d9597fb112140336fe4[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Jun 3 13:13:00 2019 +0900
+
+    Solve 11650 boj sorting postions
+
+[33mcommit 12edd8e61d8e6fd6dd20985146056b88674aab78[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jun 2 15:23:59 2019 +0900
+
+    Sovle 1085 boj 직사각형에서 탈출
+
+[33mcommit 562013574eda7346b5d99e6b7505d6bf0f2792c6[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jun 1 22:17:03 2019 +0900
+
+    Solve 1436 boj 영화감독 숌
+
+[33mcommit 209c6bdb21ac0945da2674968e2db226878e81fb[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jun 1 20:59:11 2019 +0900
+
+    Solve 14490 boj 백대열
+
+[33mcommit b3aecd4d011ee89e6a1f432f38d0dc6b7c6a9e96[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jun 1 11:57:27 2019 +0900
+
+    Fix README.md
+
+[33mcommit 41e71f11002eef1862e5b238f0d08101d617a9bf[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jun 1 11:56:54 2019 +0900
+
+    Solve 10773 zero
+
+[33mcommit 430e66a46723e4d7d7176f07b64b012eacc03139[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed May 29 00:41:13 2019 +0900
+
+    Fix problem number
+
+[33mcommit 8874916cb20f69f952e853504fecd68827a65c6d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed May 29 00:40:26 2019 +0900
+
+    Solve 11729 hanoi tower
+
+[33mcommit f3afa6b22a52474d222e04a931f0bfd61128477c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon May 27 15:06:55 2019 +0900
+
+    Solve A+B - 4
+
+[33mcommit 2036e6340cddd292276ea53330a263b8fb2afaa8[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun May 26 18:02:48 2019 +0900
+
+    Fix README.md
+
+[33mcommit 71606bd2832340701fb46f382e3820efb6036e85[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun May 26 17:47:26 2019 +0900
+
+    Solving draw star 21
+
+[33mcommit 00d87d382b4d580cda68c23cd33f5a66cb634b60[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun May 26 00:01:30 2019 +0900
+
+    Solve draw star 20
+
+[33mcommit ae134ad771b2c6e3cde1b8b8b47cbe61577bb8d5[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu May 23 10:00:46 2019 +0900
+
+    Solve boj 10994 draw star 19
+
+[33mcommit 78459207e27344751bc41ae5011ae8487dadea89[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed May 8 16:09:02 2019 +0900
+
+    Solve 1717.py set's expression
+
+[33mcommit 9c5157c2edb0cec154ca58a5cf97b3b87711de84[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed May 8 16:08:50 2019 +0900
+
+    Solve 1717.py set's expression
+
+[33mcommit 1d74dac2e9782accf36dcbc5d0a29282782a26ec[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Apr 30 15:08:40 2019 +0900
+
+    Solve 1018 chess board repainting
+
+[33mcommit a154c75c1a471611b4361a1405839efe17b9aac9[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Apr 30 00:21:50 2019 +0900
+
+    Thinkking....
+
+[33mcommit 14f25016cf0a58eab4caeb59f0c30c57abf919b7[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Apr 28 13:10:13 2019 +0900
+
+    Init 1018.py
+
+[33mcommit 1b2915e28114cdacba7dd56c495d0293365e9cda[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Apr 27 21:14:32 2019 +0900
+
+    Solve 2902.py KMP
+
+[33mcommit 59d20c3c73bdc140acd7c3e37642066e749a90c8[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Apr 26 00:39:13 2019 +0900
+
+    Solve 11365.py
+
+[33mcommit 0f9906dfb2fa740ca1900824ea325743ba401822[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Apr 25 16:13:28 2019 +0900
+
+    Solve 1476.py calc date
+
+[33mcommit 95fec9c2f33abb69dcaca0a2551ce02ec3505648[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Apr 25 11:29:33 2019 +0900
+
+    Solve 10952.py A+B - 5
+
+[33mcommit 221468db8ecdb5440d7d30c0d199ab286beaa577[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Apr 25 11:27:07 2019 +0900
+
+    Solve 10950.py A+B-3
+
+[33mcommit aa6734ecc76a85092a6bd87e49f11c85bacc03c9[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Apr 17 16:52:48 2019 +0900
+
+    Solve 10992.py draw-star - 17
+
+[33mcommit 9de540e74e8c402941b9a3d505d743ff7a41dcfa[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Apr 17 16:37:35 2019 +0900
+
+    Solve 10991.py draw-star 16
+
+[33mcommit 89b43686c9c5952cd481bfbc9daf8b2ea52e2fde[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Apr 16 00:05:00 2019 +0900
+
+    Solve 10990 draw star -15
+
+[33mcommit 4de73057a7de304918196afa84f37278453d2c84[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Apr 15 15:32:15 2019 +0900
+
+    Solve 2523.py draw star - 13
+
+[33mcommit 5d68e116d875a857b40183349f88d941ac71bf1f[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Apr 11 17:17:41 2019 +0900
+
+    Solve 2914 저작권
+
+[33mcommit 9616f477a8ff315d33b84c3170d9ae62d3239354[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Mar 23 20:12:51 2019 +0900
+
+    Init boj 4307 ant
+
+[33mcommit 3a3e6c6faf305370e5eb6a65a18dca9b93ae409b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Mar 22 05:35:36 2019 +0900
+
+    Solve boj 2217 ropes
+
+[33mcommit d64eab14742ba6d6819af19e3597c523d266f71b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Mar 22 01:46:38 2019 +0900
+
+    Solve boj11399 ATM
+
+[33mcommit 1f034c76b2e6f2635d23757cb75189abace2b180[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Mar 22 00:30:28 2019 +0900
+
+    Solve boj11047 coin
+
+[33mcommit a70e9e43b32f043ca300f815cc83a37d4edd250d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Mar 21 10:23:03 2019 +0900
+
+    Solve boj 1931 assigning meeting room
+
+[33mcommit de7927cfd93e345981e458e11fe5584685b2c88f[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Mar 20 17:34:45 2019 +0900
+
+    Solve boj2522 draw star 12
+
+[33mcommit 36e1fabc639d9a1537614261030fe09530173ea3[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Mar 20 17:34:12 2019 +0900
+
+    Solve boj2522 draw star 12
+
+[33mcommit ee201056c4032e021e0e94a6b54f498cd8165bc3[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Mar 20 14:34:40 2019 +0900
+
+    Solve boj2446 draw star 9
+
+[33mcommit 498fbfb7850b8e393715761504b98f66ccb3b3d9[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Mar 20 00:51:57 2019 +0900
+
+    Solve boj 2445 draw star 8
+
+[33mcommit 491583d1317351e9695a7b902e1b429b086ac845[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Mar 19 01:09:23 2019 +0900
+
+    Continu solving 2445.py
+
+[33mcommit 1d41bd4b8a830327697a7c4e966366a9e4a58962[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 18 18:20:29 2019 +0900
+
+    Init boj 2445 draw star 8
+
+[33mcommit e810aacef07377b58b02736a085da394c57f1e9d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 17 18:31:25 2019 +0900
+
+    Solve boj 2444 draw star 7
+
+[33mcommit c927f440d8f6b43c92e61c3621aab15ac22daa94[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 17 18:15:39 2019 +0900
+
+    solve boj 2443 draw star 6
+
+[33mcommit bf0207e2d3361f9ab778708c8c89b6771a0a61d9[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Mar 16 08:23:45 2019 +0900
+
+    Solve boj 2442 draw star - 5
+
+[33mcommit 0e468161d76c768c7271aa4c23fecb3963870e09[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Mar 7 16:39:33 2019 +0900
+
+    boj 11689.py init
+
+[33mcommit 2864efe7e869fc9b3fcd0f182c89a71cfbdb1598[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Mar 6 14:56:19 2019 +0900
+
+    Solve boj 11725 find tree parents
+
+[33mcommit 43971d6d98900d72a93af93c9ae19e3ab61516c4[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 4 14:22:53 2019 +0900
+
+    Solving 1991.py binray tree traversal
+
+[33mcommit 4d2d6545bd81ced45c1f2614b4c2429a62d6581c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 4 14:13:59 2019 +0900
+
+    Solve 1991.py tree traversal
+
+[33mcommit 2fb5628f1e8893da5ae9a776c589abdeda85ed28[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Feb 23 06:27:36 2019 +0900
+
+    Solve 11778 피보나치 수와 최대공약수
+
+[33mcommit 259d010b71b5e3edbf61c67a2f84b7f5088bbebf[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jan 5 11:24:41 2019 +0900
+
+    Solve 10220
+
+[33mcommit fc820cc0e773fb83a5259791ae14115c54e32761[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 26 19:53:02 2018 +0900
+
+    Fix README.md
+
+[33mcommit 6a450a36c13856a9a2f0740839e49bcfd70ff421[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 26 19:47:11 2018 +0900
+
+    Fix README.md
+
+[33mcommit f35ddac33d721f803312057533baff6caaf626c0[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Dec 21 23:24:24 2018 +0900
+
+    Solve 1015
+
+[33mcommit 92950f82f66fc59b3bcd0dd17806c73b10a7ce1a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Dec 17 12:57:47 2018 +0900
+
+    1015.py init
+
+[33mcommit 29613d240886c42fb5886b18525a3a9235986422[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Dec 14 15:13:28 2018 +0900
+
+    Sslve 1016
+
+[33mcommit 933c154c096244475f1d10eded25149dd45c3515[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Dec 14 01:04:31 2018 +0900
+
+    Init 1016.py
+
+[33mcommit 69bd9b705b7835ae2a9bebf76975875f99b40ab2[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Dec 10 23:33:58 2018 +0900
+
+    Fix 1977.py pythonic code
+
+[33mcommit fc9d20043faf97b169218a9f59064f20f1c6e561[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Dec 10 18:47:36 2018 +0900
+
+    Solve 1977.py
+
+[33mcommit 3f37cb4e7b63cf70f31cecfb8f7c3c1949bdf036[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Dec 10 18:47:11 2018 +0900
+
+    Solve 1977.py
+
+[33mcommit 3bdbd4eca27e38c7ab69e25f8aea66b9a0cf6bf7[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Dec 10 00:20:29 2018 +0900
+
+    Init 2261.py
+
+[33mcommit 64ce56c6538b45519616312c55c0d31b07944714[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Dec 8 03:09:39 2018 +0900
+
+    Solve 1074
+
+[33mcommit 98d07a94cf7e029d9c5a31991d6a7ea1f477864d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Dec 8 03:08:31 2018 +0900
+
+    Solve 1074
+
+[33mcommit 954a885305f4a9ef98829151f77495332b3de648[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Dec 8 02:37:40 2018 +0900
+
+    Continue solve 1074.py...
+
+[33mcommit 41e9bd616f64138ee068885d93c9379b9016e2bf[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Dec 7 12:54:54 2018 +0900
+
+    Init 1074.py
+
+[33mcommit d00e9846996992b47f5eed04bd3b4b4a41165a2c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 5 21:58:21 2018 +0900
+
+    Complete 1032.py
+
+[33mcommit 8c9bfd7acd3169f2c816a8b84d1daf62ee878dff[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 5 21:24:36 2018 +0900
+
+    Fix 15802.py
+
+[33mcommit 688cb5ddd13d048bae95db532c6f999586fbd02c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 5 21:23:24 2018 +0900
+
+    Fix 15802.py
+
+[33mcommit f84f6b37ae125a21d9e2e5e343787d987364cb05[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 5 03:34:17 2018 +0900
+
+    Fix 2263.py
+
+[33mcommit 43cdefb53e73ac465e2694848370c9f36a38f968[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Dec 5 03:33:28 2018 +0900
+
+    Fix 2263.py
+
+[33mcommit 9d6855e2032d88b6e8c7a4370ab0f3d56c39c9ff[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Dec 3 00:16:07 2018 +0900
+
+    Solve 2447.py
+
+[33mcommit 5c10ca2c55d44ff37c991334ee63471757b69f94[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Dec 2 23:00:34 2018 +0900
+
+    Solve 2263.py
+
+[33mcommit ddf969792aca9f39491ae7e9a403097d1df928ec[m
+Merge: 919a4f0 e631c04
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Dec 2 22:39:50 2018 +0900
+
+    conflict...
+
+[33mcommit 919a4f00913b0eae7b01caa4a09e3a45106fa472[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Dec 2 22:38:25 2018 +0900
+
+    Bug Fix
+
+[33mcommit e631c048da575eef67ff8651e006c9de91a8e483[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Dec 2 02:37:08 2018 +0900
+
+    Init...
+
+[33mcommit e1b70ffb51a3de0ea3c383ab9b865431e85ebe29[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Nov 25 13:29:26 2018 +0900
+
+    Add 2263
+
+[33mcommit 9189f4d53a1ff079a05f1525334616af3b061a78[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Nov 22 13:14:27 2018 +0900
+
+    Fix Comment Indent
+
+[33mcommit 59c7569f228451458b760174efe13307be04df21[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Nov 22 13:09:14 2018 +0900
+
+    Fix Indent in 6549.py
+
+[33mcommit 2efd670411b370081d84583923f4d8f574e9c4df[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Nov 21 02:27:11 2018 +0900
+
+    Solve 1992.py
+
+[33mcommit acb6b4d3b13a99a52312234c5baa0dfad36b88e1[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Nov 20 00:40:01 2018 +0900
+
+    Solve 2740.py
+
+[33mcommit 23abadff81168a9e80f672aaa056de6f1a5f50e9[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 22:46:51 2018 +0900
+
+    Solve 6549.py
+
+[33mcommit 5afa37b4a42824ba9280a2ca503dee4844e0c963[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 18:10:47 2018 +0900
+
+    Solve 1780.py
+
+[33mcommit 88a58160027f08a7d60dac69a6b0aa33e48d2e34[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 02:01:28 2018 +0900
+
+    Solve 9653.py
+
+[33mcommit f4788acfe94e418678d268a1568c9dae1e491c30[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 01:59:17 2018 +0900
+
+    Solve 5339.py
+
+[33mcommit 018c4cfbcd663abab25828883a3b0489d7ff1e5a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 01:56:27 2018 +0900
+
+    Solve 5338.py
+
+[33mcommit 809d92be7ffff29c626144681e2b914920d0fe3a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 01:53:53 2018 +0900
+
+    Solve 5337.py
+
+[33mcommit 743149f688b5988a4528484009348438b1046d31[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 01:51:08 2018 +0900
+
+    Fix README.md
+
+[33mcommit 177916aae4be822934c0c5f9a8acaefa89a6a7ac[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 01:50:10 2018 +0900
+
+    Solve 4101.py
+
+[33mcommit ea8344d605299c750ebe0e9106ccd833292585de[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 01:45:39 2018 +0900
+
+    Solve 3047.py
+
+[33mcommit 6321aecdfc9f9d265051302792ca496381558e54[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 01:35:53 2018 +0900
+
+    Fix README.md
+
+[33mcommit 7b77fc3b13abbb37d9e391665a680b27d77488cf[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 01:34:16 2018 +0900
+
+    Fix README.md
+
+[33mcommit 7a48cb8d853c462e804f1081a3255e3b22419a0a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 01:32:04 2018 +0900
+
+    Fix README.md
+
+[33mcommit c2ad2d3cdb4c6ec90c350b0abd893bc1a285360c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 01:24:48 2018 +0900
+
+    Solve 3046.py
+
+[33mcommit e861dbe4c5d6bdcea98d7aacfe91d8b243639b11[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 01:13:59 2018 +0900
+
+    Solve 2869.py
+
+[33mcommit acbff4c3bb2b3f4eb4b5f9456c3db4560be8bfb8[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 01:06:29 2018 +0900
+
+    Solve 2752.py
+
+[33mcommit 984baf484bf36a83a98ba85932a67474f799536a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 00:59:42 2018 +0900
+
+    Change Comment
+
+[33mcommit bfa61c79242c123ca14cc5ef8b453ae87134d25d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 00:55:43 2018 +0900
+
+    Solve 2556.py
+
+[33mcommit a48498ab7b56a0b23e281fdf758c5c2c6afd3e8e[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 00:51:58 2018 +0900
+
+    Solve 2555.py
+
+[33mcommit 4e1ec1834fbd0f2b856c590a66b68139b09e1060[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 00:49:23 2018 +0900
+
+    Solve 1920.py
+
+[33mcommit 3abe0379118d8b161a2c284061c5bf7f95b5cfde[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 00:38:44 2018 +0900
+
+    Solve 1735.py
+
+[33mcommit 92b457f5f1a34769ef06d2be713b77d1698edb47[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 00:29:27 2018 +0900
+
+    Solve 1550.py
+
+[33mcommit cd1f2a583dc395e73796b9724aa375596163a74a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 00:26:25 2018 +0900
+
+    Solve 1453.py
+
+[33mcommit 39ae960372359a3d45c74e4702cbf4b80538987b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Nov 19 00:20:41 2018 +0900
+
+    Solve 1357
+
+[33mcommit 4c152a9985bcbe9a6d679acbeec8ef4bc5759515[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Nov 14 14:15:46 2018 +0900
+
+    Initialzation 1780.py
+
+[33mcommit ad0e3669e308cebd5c95b9535415864e7fae7f5a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Nov 14 14:13:50 2018 +0900
+
+    Complete 11004.py Why..??
+
+[33mcommit 05554f66aab331a2932f99d79573fc1a947bec1e[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Oct 12 17:49:01 2018 +0900
+
+    2018-10-12
+
+[33mcommit 46b75954fd375f92c6a8fceff9c09d628f5a1548[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Oct 10 14:06:38 2018 +0900
+
+    2018-10-10
+
+[33mcommit 9750c7dcb8c65aa2f9e8ca5975d76f3625fbe1d0[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Oct 10 14:03:40 2018 +0900
+
+    2018-10-10
+
+[33mcommit 8b86e859b8f6275bd10619a28d723776b1f2cd3c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Oct 10 13:27:32 2018 +0900
+
+    2018-10-10
+
+[33mcommit c67af1aa0014fc54d1b545ba2475ea9f6b730375[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Oct 10 13:04:28 2018 +0900
+
+    2018-10-10
+
+[33mcommit 3b9ba425c6ff7aa52620ec29726fd81aeabd3a3c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Oct 8 16:26:52 2018 +0900
+
+    2018-10-08
+
+[33mcommit c57d30df17bcba7fab1e936f8da53e296e92feb6[m
+Author: Kimminsu <30997311+alstn2468@users.noreply.github.com>
+Date:   Wed Oct 3 22:41:00 2018 +0900
+
+    2018-10-03
+
+[33mcommit ddf134af13e0e2bc8453129c1fac81c9388cc0e8[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Oct 1 18:20:41 2018 +0900
+
+    2018-10-01
+
+[33mcommit 8ec5e70fb523fcc87f6bc3598674e30cb2b793d8[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Oct 1 17:18:13 2018 +0900
+
+    2018-10-01
+
+[33mcommit c45d073e721cddddf37653eb492239b68199bdcf[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Sep 30 16:30:20 2018 +0900
+
+    Add 1107.py
+
+[33mcommit 4f98ef67714778cb71d4b1b21d298e45ba20e33d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Sep 30 16:28:37 2018 +0900
+
+    Solve 10253.py
+
+[33mcommit 94aa10409c081bda4c9438f88221771abf13bfea[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Sep 15 17:25:05 2018 +0900
+
+    2018-09-15
+
+[33mcommit f0aac13118c27c55c05ca8eb295901a56436b949[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Sep 13 17:33:39 2018 +0900
+
+    2018-09-13
+
+[33mcommit 0b16d13a1c389d0469cb39f0205cc9282a4d89a8[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Sep 13 13:55:28 2018 +0900
+
+    Solve 1057
+
+[33mcommit 9f84ec4333cf77226fd2b6e29f136756ba27c442[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Sep 13 01:00:19 2018 +0900
+
+    2018-09-13
+
+[33mcommit d6fbe2621d995f2111853c4e870c0c47df1b6bef[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Sep 12 20:14:16 2018 +0900
+
+    2018-09-12"
+
+[33mcommit 36af1a6a80b55bf81f881a8e0adc5f872ee8366f[m
+Merge: a38878c a519f79
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Sep 12 20:11:58 2018 +0900
+
+    2018-09-12
+
+[33mcommit a38878ca1c6d8498cd207fad613c75298bbf4ef2[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Sep 12 20:10:44 2018 +0900
+
+    2018-09-12
+
+[33mcommit a519f79ab8a6fd11552cca9493ea64cccb3150b6[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Sep 12 11:53:15 2018 +0900
+
+    2018-09-12
+
+[33mcommit 528f25228544427eb678393c308cf23657ec05e5[m
+Merge: b99399f 488f6fd
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Sep 11 10:02:48 2018 +0900
+
+    2018-09-11
+
+[33mcommit b99399f0c91df33240edb83341b79af9e52cc637[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Sep 11 10:02:18 2018 +0900
+
+    2018-09-11
+
+[33mcommit 488f6fdea27dbaca93a2fa5bae482f7d5b9afc0c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Sep 10 14:37:01 2018 +0900
+
+    2018-09-10
+
+[33mcommit 8abb2c866286080f1f6490b649ec95083551087d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Sep 10 01:04:14 2018 +0900
+
+    2018-09-10
+
+[33mcommit 11e4b4541bebee3e21e2b3118097aaaabd6798f1[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Sep 9 20:40:58 2018 +0900
+
+    2018-09-09
+
+[33mcommit 5a351d50445ab02f4cac4b3b277af8e2b63a1218[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Sep 9 20:38:14 2018 +0900
+
+    2018-09-09
+
+[33mcommit dce4191c63d3f5353649835ffc1efa7a1f235e8b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Sep 5 09:17:18 2018 +0900
+
+    2018-09-05
+
+[33mcommit ee07a456cd0aeed1f2a56e4b33ef5ac5015423bc[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Aug 24 10:22:42 2018 +0900
+
+    2018-08-24
+
+[33mcommit e3ad577f6affdc1c890f343b2000a939b004f24c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Aug 23 14:32:08 2018 +0900
+
+    2018-08-23
+
+[33mcommit 5e6d5a431b38f33ed2acc388b9ff50e5a9cc407a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Aug 23 07:37:14 2018 +0900
+
+    Solve 2609, Add 1850
+
+[33mcommit d93a52551381bb0bc374deabd5b23b7a0500f6ab[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Aug 22 15:12:12 2018 +0900
+
+    2018-08-22
+
+[33mcommit fb52500fcc0f07b94da6281be03815a331055da1[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Aug 22 15:11:26 2018 +0900
+
+    2018-08-22
+
+[33mcommit 7e21b469f8255f8d9334fff657d3684b16359931[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Aug 21 09:05:54 2018 +0900
+
+    2018-08-21
+
+[33mcommit eb76645343b31b48a8a19d7af9fbe5b0c4042e1a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Aug 19 08:57:05 2018 +0900
+
+    2018-08-19
+
+[33mcommit 281efb16f11e6b75a9637ad7ae8e0a7cd39726bb[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Aug 18 08:00:12 2018 +0900
+
+    2018-08-18
+
+[33mcommit af86d618dac0bee0af59f5fa866ed870f22fc568[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Aug 17 09:52:58 2018 +0900
+
+    2018-08-17
+
+[33mcommit 76206df23a71c8def0e07965d8eed73c1f8607b5[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Aug 15 16:18:14 2018 +0900
+
+    2018-08-15
+
+[33mcommit 2ef76872bb6f84a620197cf35bfe4db02864d505[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Aug 12 08:31:34 2018 +0900
+
+    2018-08-12
+
+[33mcommit a3fee539174afdf050a41ab072737df85e237661[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Aug 12 08:30:21 2018 +0900
+
+    2018-08-12
+
+[33mcommit 6d5a407b507d13b7f46934029506cdb4c55871ed[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Aug 12 08:28:32 2018 +0900
+
+    2018-08-12
+
+[33mcommit 41e6d0bacf3b6e10ceca1cb7f4aa9ebe091f348b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Aug 9 11:56:36 2018 +0900
+
+    2018-08-09
+
+[33mcommit ba21b844732e3294782bbbf8674d74b638dae070[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Aug 3 13:25:02 2018 +0900
+
+    2018-08-03
+
+[33mcommit 3a51836895f8ed6fc9db89dc7406f053ffe63c29[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Aug 2 13:34:09 2018 +0900
+
+    2018-08-02
+
+[33mcommit 92cbee489b2fbd2bab2325d4717980cb8742f256[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Aug 2 13:12:34 2018 +0900
+
+    2018-08-02
+
+[33mcommit 04bbc81fd6d5725800514df8d5589c0c5c7986b8[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Aug 2 12:23:27 2018 +0900
+
+    2018-08-02
+
+[33mcommit ea20b59b60d4549331afcbc2b78ef990751c19d6[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jul 31 18:38:40 2018 +0900
+
+    2018-07-31
+
+[33mcommit 0236493f86ee8e066d9164f5a491723b3c39f683[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jul 31 17:52:36 2018 +0900
+
+    2018-07-31
+
+[33mcommit 7058d0fb1fdc6a8aac9999a966f4f58685d08811[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jul 31 17:38:12 2018 +0900
+
+    2018-07-31
+
+[33mcommit 2f4ec43e83149c4fbefa5ee102fe92b20c201d8e[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jul 19 22:33:36 2018 +0900
+
+    2018-07-19
+
+[33mcommit bff86ee46b5d711ca586016ebf79c82047755101[m
+Merge: b4cf5eb 2a8dd1d
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jul 19 22:05:40 2018 +0900
+
+    Merge branch 'master' of github.com:alstn2468/BaekJoon_Online_Judge
+
+[33mcommit b4cf5eb7ba982e1d2c7480b2b084fb71487a7f64[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jul 19 22:05:24 2018 +0900
+
+    2018-07-19
+
+[33mcommit 2a8dd1d9e49694cb46f797193e50fbbaa541a7a5[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 15 22:20:32 2018 +0900
+
+    2018-07-15
+
+[33mcommit 6b40cfb54e6e8364aeb543af57dac3517d675c0b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jul 15 22:18:27 2018 +0900
+
+    2018-07-15
+
+[33mcommit 0f02034142c6ef1850e860daf347941cd503678e[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jul 14 04:52:04 2018 +0900
+
+    2018-07-14
+
+[33mcommit acbfadfd54433b3d42afac8006e4639eadf9d011[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jul 14 00:57:37 2018 +0900
+
+    2018-07-14
+
+[33mcommit 6fc72428529af1ed6aea459652afd06e187bce9b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jul 14 00:56:22 2018 +0900
+
+    2018-07-14
+
+[33mcommit be33cd3590ce11290d93ba666e6d07adb20a9205[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jul 14 00:35:39 2018 +0900
+
+    2018-07-14
+
+[33mcommit 4515b21104f523b8a4c1247b05efb9310c20e277[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jul 14 00:33:07 2018 +0900
+
+    2018-07-14
+
+[33mcommit 5b0dd7afa733df95b83c84eb5c358339a30b1b78[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jun 24 16:15:18 2018 +0900
+
+    2018-06-24
+
+[33mcommit 532c969d2773d1d0d52f1fa9b1886003a87ea466[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Jun 15 14:19:55 2018 +0900
+
+    2018-06-15
+
+[33mcommit 0b46efcfdbfb0611afdb2005ce3942259f1ddacf[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jun 12 17:37:10 2018 +0900
+
+    2018-06-12
+
+[33mcommit c57b98cc055d1421906313a8cd7c4dbc8f15b97d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jun 12 17:34:57 2018 +0900
+
+    2018-06-12
+
+[33mcommit e6dbc78ea0393c8c64c6e89697f7496eb3e41054[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Jun 12 17:29:56 2018 +0900
+
+    2018-06-12
+
+[33mcommit 889dec5cb8f875a6b89a45cab6325ad3b0cba2a0[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Jun 10 13:42:46 2018 +0900
+
+    2018-06-10
+
+[33mcommit 269457bb21104196a68d83b1f24af0aed7739e33[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jun 9 01:15:10 2018 +0900
+
+    2018-06-9
+
+[33mcommit 556ff4a511b92e11772d0056e0e8f4a06c284311[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jun 9 01:08:55 2018 +0900
+
+    2018-06-09
+
+[33mcommit df4aea211755d690ca0281e62eb519f777f85f91[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jun 9 01:05:55 2018 +0900
+
+    2018-06-09
+
+[33mcommit 6b8011a0e9e5b90cead1c475c1c071d3205dacd8[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jun 9 00:44:35 2018 +0900
+
+    2018-06-09
+
+[33mcommit 8f4f6eaa78cda2f4866b995088eef852289934c4[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Jun 8 13:31:48 2018 +0900
+
+    2018-06-08
+
+[33mcommit b7484021a5af548b61c36983b266c9559cc083ee[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Jun 8 13:30:33 2018 +0900
+
+    2018-06-08
+
+[33mcommit b538b872b679b099c9dd221ffe644203fc27e8c4[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jun 7 14:12:16 2018 +0900
+
+    2018-06-07
+
+[33mcommit a79874266bdbec39f23b2f2674a9a28820b01a9a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jun 7 14:08:44 2018 +0900
+
+    2018-06-07
+
+[33mcommit 6155aefa5c77f24cd4ea66703dc0e2301cda1a5e[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jun 7 14:03:42 2018 +0900
+
+    2018-06-07
+
+[33mcommit 64cbfa9c3d90595dd239d5469caeb55ebea61f07[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jun 7 13:24:25 2018 +0900
+
+    2018-06-07
+
+[33mcommit 458015d100b43d361100c96fd97bc1cde9d625b3[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Jun 7 13:03:16 2018 +0900
+
+    2018-06-07
+
+[33mcommit 8421efa8ba6c0955b18c113b757e7792d663a2b5[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Jun 6 17:36:00 2018 +0900
+
+    2018-06-06
+
+[33mcommit 996438a68773db14e4df1cf9320b6cacf1ffe98c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Jun 2 12:48:00 2018 +0900
+
+    2018-06-02
+
+[33mcommit d55302c7fa92396b9d063e61e99a1d5addbd9220[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu May 31 14:32:08 2018 +0900
+
+    2018-05-31
+
+[33mcommit aa0c95a0319d55e9e6f79fd83d94330d068209e6[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu May 31 14:26:25 2018 +0900
+
+    2018-05-31
+
+[33mcommit 2770b503ef03c3f03a1871a48af633c87adf30a6[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed May 30 00:43:36 2018 +0900
+
+    2018-05-30
+
+[33mcommit 1208f51badb8d2408f57fcad2c9af10a70f97346[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed May 30 00:39:44 2018 +0900
+
+    2018-05-30
+
+[33mcommit a6753368a76c953478ff95e3a8635788b75eaa71[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed May 30 00:32:46 2018 +0900
+
+    2018-05-30
+
+[33mcommit e0ed46003abcfa8f11f65cc0b147627864f3ba5c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue May 29 00:16:39 2018 +0900
+
+    2018-05-29
+
+[33mcommit 5728ce764200f34909a4c54fd870b7ac745565ef[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon May 28 13:30:46 2018 +0900
+
+    2018-05-28
+
+[33mcommit 1ad1655df22ecf956e6d0ca4bb2caf33dadacfd5[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun May 27 16:51:46 2018 +0900
+
+    2018-05-27
+
+[33mcommit 9fc05a3fc28a47776ea7aa371262f7325f49015a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun May 27 15:57:37 2018 +0900
+
+    2018-05-27
+
+[33mcommit a1485bb2603c964286a3dc3585386c147a2a23bb[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun May 27 15:44:05 2018 +0900
+
+    2018-05-27
+
+[33mcommit a2048d02a0dde23d83d34a0141d8f09964db4290[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun May 27 15:38:33 2018 +0900
+
+    2018-05-27
+
+[33mcommit a985af997daaa9f429495204bb4ca160ed2411a0[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat May 26 23:49:02 2018 +0900
+
+    2018-05-26
+
+[33mcommit 9f3a828d4c7d60b9ccc0664c6bf9c525d8a48031[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu May 24 00:07:55 2018 +0900
+
+    2018-05-24
+
+[33mcommit 5a93a0465da5511fc2e1f6f722c480b347fe91fa[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed May 23 12:25:07 2018 +0900
+
+    2018-05-23
+
+[33mcommit 2d51f406ba5e6d7a59be5012910725e8f2b272cd[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed May 23 09:54:26 2018 +0900
+
+    2018-05-23
+
+[33mcommit c9e319f43827e60c658b28bcd10a0271050b4e70[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue May 22 12:39:51 2018 +0900
+
+    2018-05-22
+
+[33mcommit 9b77d27a421a41d0afeff78e5ccf6df6a7546b85[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri May 18 00:13:47 2018 +0900
+
+    2018-05-18
+
+[33mcommit 6e5b9b387ca0a9e5a370cd7fc44956f0c0e64335[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu May 17 00:16:28 2018 +0900
+
+    2018-05-17
+
+[33mcommit b23445af2abad578d17d770916af6cf6d35bd0d6[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue May 15 12:49:30 2018 +0900
+
+    2018-05-15
+
+[33mcommit 3e39e0a2dc509b1134fbefa637f0c2a400a46078[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon May 14 22:43:24 2018 +0900
+
+    2018-05-14
+
+[33mcommit f5fd44c8d75230041f1f9f2a87886f41a27d9c1d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon May 14 22:40:43 2018 +0900
+
+    2018-05-14
+
+[33mcommit 0117c9fee92e395deb02aab4e1f71705768a2d50[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon May 14 22:21:50 2018 +0900
+
+    2018-05-14
+
+[33mcommit 450733d49bb2a7750668aed91e2efdb23da3285a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun May 13 22:30:34 2018 +0900
+
+    2018-05-13
+
+[33mcommit 70c05f1958bc6a0b5bac41ab9295feaab9ef9ff2[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Apr 25 00:04:37 2018 +0900
+
+    2018-04-25
+
+[33mcommit 33350862e780afbf2b68c4a9bd7fbc752b868793[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Apr 24 21:32:45 2018 +0900
+
+    2018-04-24
+
+[33mcommit fffa70cc27a34ff2f0b522657e2e1bdfcba1b02d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Apr 24 10:06:17 2018 +0900
+
+    2018-04-24
+
+[33mcommit e7bb19061a287870990eaace7d8edb85c5076d09[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Apr 24 10:04:00 2018 +0900
+
+    2018-04-24
+
+[33mcommit b15837c4fdba1eee2511954e95adfa53280d097c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Apr 24 09:24:04 2018 +0900
+
+    2018-04-24
+
+[33mcommit cfdb277fb0e01a2e2fe7a56e5d93ba1f586993cf[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Apr 23 21:23:52 2018 +0900
+
+    2018-04-23
+
+[33mcommit d99b76fe8c9473d15195330168461088449b93ae[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Apr 22 10:21:50 2018 +0900
+
+    2018-04-22
+
+[33mcommit 6411af5e11eaf58761e9b742819f306db42f7365[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Apr 21 17:58:06 2018 +0900
+
+    2018-04-21
+
+[33mcommit e6f51bc8f91769f8ce79e5449c93abeae537074b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Apr 21 17:43:29 2018 +0900
+
+    2018-04-21
+
+[33mcommit 5865622dbf8f403257a52e9acd2f9ec8bf1cc308[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Apr 21 17:32:26 2018 +0900
+
+    2018-04-21
+
+[33mcommit d5638db6bca22327ff1188cf019d10c8a8b329ae[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Apr 21 14:43:57 2018 +0900
+
+    2018-04-21
+
+[33mcommit ef30c64e10b0f2310a4a0b5f5b40b73f7dcfebbd[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Apr 20 15:52:32 2018 +0900
+
+    2018-04-20
+
+[33mcommit 9cc3d2809feacc06ca0ba13b476902dae59d6d80[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Apr 20 00:07:26 2018 +0900
+
+    2018-04-20
+
+[33mcommit fbb38d898f1d8e607e2fd5645ee0bf162fccf041[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Apr 19 12:07:17 2018 +0900
+
+    2018-04-19
+
+[33mcommit 20d30d8fde10b907ee1db6645a3eb62d85a78f64[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Apr 18 19:53:54 2018 +0900
+
+    2018-04-18
+
+[33mcommit 660a060cadfee58314ced90f3e5e5911ac8d016c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Apr 17 12:25:59 2018 +0900
+
+    2018-04-17
+
+[33mcommit 4da11560dabab257324cc013125fc96a2b44daef[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Apr 17 11:05:35 2018 +0900
+
+    2018-04-17
+
+[33mcommit bb83443b6d9c68d6e9bef88140f29bb1671783e8[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Apr 17 08:50:13 2018 +0900
+
+    2018-04-17
+
+[33mcommit 8de0711aeade4b23cedde2fef3351aab3a7e3ea1[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Apr 17 08:48:48 2018 +0900
+
+    2018-04-17
+
+[33mcommit 93216ba3cdc33c12569bee367d6fe5a391d9577b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Mar 28 23:22:02 2018 +0900
+
+    2018-03-28
+
+[33mcommit 0ab5cb84f394b589725e0c52e448845e520a95d2[m
+Author: Kimminsu <30997311+alstn2468@users.noreply.github.com>
+Date:   Wed Mar 28 17:15:18 2018 +0900
+
+    2018-03-28
+
+[33mcommit e72bc9f3a610c91517511ea4dbc0218df0c27b2c[m
+Author: Kimminsu <30997311+alstn2468@users.noreply.github.com>
+Date:   Wed Mar 28 17:06:59 2018 +0900
+
+    2018-03-28
+
+[33mcommit ae9c70f7df85b7d9d47b1b0676ab673a72f01e7a[m
+Author: Kimminsu <30997311+alstn2468@users.noreply.github.com>
+Date:   Wed Mar 28 17:02:58 2018 +0900
+
+    2018-03-28
+
+[33mcommit dc787eee3fc0afdde2df2e392c80a66d425f58ec[m
+Author: Kimminsu <30997311+alstn2468@users.noreply.github.com>
+Date:   Wed Mar 28 16:42:34 2018 +0900
+
+    2018-03-28
+
+[33mcommit e5f0321baea775cc077be71ef7ba4896a3c11cd5[m
+Author: Kimminsu <30997311+alstn2468@users.noreply.github.com>
+Date:   Wed Mar 28 16:39:53 2018 +0900
+
+    2018-03-28
+
+[33mcommit 925949fbeda73bccda7c7245d76b6f1c4ad94015[m
+Author: Kimminsu <30997311+alstn2468@users.noreply.github.com>
+Date:   Wed Mar 28 16:38:28 2018 +0900
+
+    2018-03-28
+
+[33mcommit 409190c51449e3a3cac4c32af292faa01176b183[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 26 14:24:24 2018 +0900
+
+    2018-03-26
+
+[33mcommit e0876c0b418ea644e011bea0ecbbc7f37710b4a3[m
+Author: Kimminsu <30997311+alstn2468@users.noreply.github.com>
+Date:   Mon Mar 26 13:49:56 2018 +0900
+
+    Update README.md
+
+[33mcommit a8af331e4a04eef89187650c79db365cb99dc28e[m
+Author: Kimminsu <30997311+alstn2468@users.noreply.github.com>
+Date:   Mon Mar 26 13:48:24 2018 +0900
+
+    Update README.md
+
+[33mcommit b1cc290bc7de0a01d5b7fee48b24b57fc2088c96[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 26 13:45:18 2018 +0900
+
+    2018-03-26
+
+[33mcommit 6fb2227c0dca37f491a3e54714daed93fd75e86b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Mar 24 23:29:01 2018 +0900
+
+    2018-03-24
+
+[33mcommit 061177e0b1c3c07373fb0c0cff04bab07a627568[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Mar 24 23:24:22 2018 +0900
+
+    2018-03-24
+
+[33mcommit a61e8e04cb9f6b199882d44f569d6196a8d86c2f[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Mar 24 22:31:28 2018 +0900
+
+    2018-03-24
+
+[33mcommit 1624046082f8f194c4df518598fdc8db4eaa69ec[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Mar 23 15:29:52 2018 +0900
+
+    2018-03-23
+
+[33mcommit 56048090ff67b3c4030c1a791b42d79797e3328b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Mar 22 15:42:35 2018 +0900
+
+    2018-03-22
+
+[33mcommit bf2ce36b3385d03f9652deacbb3f314c1d511bd2[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Mar 22 15:09:02 2018 +0900
+
+    2018-03-22
+
+[33mcommit aac2074b80d6d33fd2e57aa5a98860ed06f18a57[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Mar 21 21:01:38 2018 +0900
+
+    2018-03-21
+
+[33mcommit d84e64248c9c783e2746540e51fbb9f0cc9953bc[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 19 21:40:26 2018 +0900
+
+    2018-03-19
+
+[33mcommit 34cd8c656c9a10c2e78478da562ffbcf34c65c77[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 19 13:44:00 2018 +0900
+
+    2018-03-19
+
+[33mcommit 56e2de2f2d1ffd7379816f179f32ea69a683fa5e[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 19 13:41:04 2018 +0900
+
+    2018-03-19
+
+[33mcommit 92fe1c2e173e2545a6e1d5e301613d43662e6d2d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 18 21:10:53 2018 +0900
+
+    2018-03-18
+
+[33mcommit 277301e2b9a4b29d61308b3c8c4a107fbfb3bca4[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 18 21:09:35 2018 +0900
+
+    2018-03-18
+
+[33mcommit 7d7c0e1bb1af0a8b728b8d6d441d56d4f14d007b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 18 20:00:37 2018 +0900
+
+    2018-03-18
+
+[33mcommit 487dd380e7d601267cd549443d536beb224f2f5f[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 18 19:59:33 2018 +0900
+
+    2018-03-18
+
+[33mcommit 3c88320adb802f0c028a2bd670a23fe577b3776d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 18 17:54:37 2018 +0900
+
+    2018-03-18
+
+[33mcommit 73013ae1a3c1129ac1bd8286cce2006a4cdf5562[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 18 16:37:54 2018 +0900
+
+    2018-03-18
+
+[33mcommit 32e9362ed47ae2e0d1de6f5d476c68329c560f92[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Mar 17 13:58:33 2018 +0900
+
+    2018-03-17
+
+[33mcommit 009fab7532a0fa910ec8d97c0e52e0e0eaf1ced6[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Mar 15 15:50:47 2018 +0900
+
+    2018-03-15
+
+[33mcommit 5d04b49233b67b91218fcc1fae68ce2d5915cf39[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Mar 15 14:34:22 2018 +0900
+
+    2018-03-15
+
+[33mcommit d27ca405a91fc2cd57b51a903b7328b84ae32b92[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Mar 15 14:27:51 2018 +0900
+
+    2018-03-15
+
+[33mcommit 7ba662e4344d57c4eb15bf99d1c68f9cae37ed8a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Mar 14 22:43:48 2018 +0900
+
+    2018-03-14
+
+[33mcommit a230e3385a77cd74258e594dec951dc87393c4e0[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 11 19:57:53 2018 +0900
+
+    2018-03-11
+
+[33mcommit bde11f037df5530b28c02ebb4830a15aec13f6e1[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 11 19:32:19 2018 +0900
+
+    2018-03-11
+
+[33mcommit c9c69058649a01e3fc96415b8a0b7f13bb48d05f[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 11 19:29:23 2018 +0900
+
+    2018-03-11
+
+[33mcommit bf383ad3ff161333dca8301b6718286c6a4967fb[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 11 19:28:10 2018 +0900
+
+    2018-03-11
+
+[33mcommit 232fa983f0ce661c59e6397faed85f5d529dc951[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 11 17:40:37 2018 +0900
+
+    2018-03-11
+
+[33mcommit a80126f7b1f2abe1bda124c2b317cd4ab23a43c3[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 11 16:41:43 2018 +0900
+
+    2018-03-11
+
+[33mcommit 6179a3a8a746f6f54201061471662175758cdf2b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 11 16:40:11 2018 +0900
+
+    2018-03-11
+
+[33mcommit ab7531b12705b9fc6f5baab337994cf9ac28c0de[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Mar 10 19:28:54 2018 +0900
+
+    2018-03-10
+
+[33mcommit 0bed0e6e0dd013b7f34dc4a8b3a0730291a468d2[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Mar 10 19:10:04 2018 +0900
+
+    2018-03-10
+
+[33mcommit d73e5006b30950c3f71fba55877bae872710c333[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Mar 9 23:41:32 2018 +0900
+
+    2018-03-09
+
+[33mcommit e8a6f258063f5c63c20718fb2903afc3537a74c1[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Mar 9 16:22:20 2018 +0900
+
+    2018-03-09
+
+[33mcommit 5ea1b333fcb37514912300436272a144d3814a33[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Mar 8 21:49:52 2018 +0900
+
+    2018-03-08
+
+[33mcommit f237e0f77cd2e6dd9424a51f96159b72fc3199c9[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Mar 7 22:01:39 2018 +0900
+
+    2018-03-07
+
+[33mcommit d60ef0263975860edbc78d7494420b2f50f76f6f[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Mar 7 21:12:10 2018 +0900
+
+    2018-03-07
+
+[33mcommit f193afdb6b834d3a32230a0d9c35d4c2d365c7b3[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Mar 6 20:56:11 2018 +0900
+
+    2018-03-06
+
+[33mcommit 01075e5b670bac25f1f4dc16b40334adbf4427c0[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 5 14:22:32 2018 +0900
+
+    2018-03-05
+
+[33mcommit 03802090b1e598a9b7655f15e9e984ed9cb8c58b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 5 14:20:25 2018 +0900
+
+    2018-03-05
+
+[33mcommit ffc628456def3d079ca52c73a9d2e507e6de59d9[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 5 14:07:32 2018 +0900
+
+    2018-03-05
+
+[33mcommit 622d543f80d61701fc8ea9d1259ce0f267a32107[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 5 13:27:49 2018 +0900
+
+    2018-03-05
+
+[33mcommit 05f49b8fecc54f7c9b6989e63313e8ab5b41b829[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 5 13:11:43 2018 +0900
+
+    2018-03-05
+
+[33mcommit 26b196882ef38a35e4f39edefb69bc707e673e97[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Mar 5 10:54:41 2018 +0900
+
+    2018-03-05
+
+[33mcommit 7e7bef63b108d4fd0c8296c895690a720eafbf5f[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 4 17:54:40 2018 +0900
+
+    2018-03-04
+
+[33mcommit b7ad5cabb4b06bdfcfb774b1150a12032e7ecd66[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Mar 4 17:12:57 2018 +0900
+
+    2018-03-04
+
+[33mcommit a51af0c00dcbd93ec39e89539314d51cc8bd42f0[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Mar 3 19:45:39 2018 +0900
+
+    2018-03-03
+
+[33mcommit 8c37918ca4fa5018bbaa3477f987b5144b61b68c[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Mar 2 18:35:53 2018 +0900
+
+    2018-03-02
+
+[33mcommit aed7846c785b3c740d59df375c818016dca9af89[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Feb 28 17:28:00 2018 +0900
+
+    2018-02-28
+
+[33mcommit 300b0f4b8dfd1b4a84339b28d6b7af75977edc8d[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Feb 28 17:24:12 2018 +0900
+
+    2018-02-28
+
+[33mcommit 2890daf8941e0ca6eaa1f6cc408e89bf1b392017[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Feb 28 17:22:36 2018 +0900
+
+    2018-02-28
+
+[33mcommit b2509ac3b50b4788c7391549a77b036aa45ce360[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Feb 27 18:47:56 2018 +0900
+
+    2018-02-27
+
+[33mcommit 5fbd77860b4619a84335ea60744f932d70406d2a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Feb 26 14:35:00 2018 +0900
+
+    2018-02-26
+
+[33mcommit 3c748d4887d3c2668ff4d24e8512ef9ebaf1beb1[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Feb 25 14:25:56 2018 +0900
+
+    2018-02-25
+
+[33mcommit 38e276ae6bd64e32d7b89eb6a7ab39b0623a3d59[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Feb 25 14:07:38 2018 +0900
+
+    2018-02-25
+
+[33mcommit d3ba6db09f1d12d6788cb2eae303a8ef9913dd1f[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Feb 24 22:46:34 2018 +0900
+
+    2018-02-24
+
+[33mcommit 9f828aec1e877b877c7d25b7489fa8bf95d10d66[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Fri Feb 23 21:44:50 2018 +0900
+
+    2018-02-23
+
+[33mcommit 746ae8ff7590a4c6d14ff19cdd2640c326519dd1[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Feb 22 14:16:57 2018 +0900
+
+    2018-02-22
+
+[33mcommit ca1a2f23d383f1121f1efecd505410c7d45d03ba[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Thu Feb 22 14:02:32 2018 +0900
+
+    2018-02-22
+
+[33mcommit 59dc4f754faac7e1d0c5d69756350382bf8f6313[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Feb 21 18:09:02 2018 +0900
+
+    2018-02-21
+
+[33mcommit 7795f7a334e8fd66e6b80889ee1870eb37c32625[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Feb 21 18:02:03 2018 +0900
+
+    2018-02-21
+
+[33mcommit 03a1d9bf4eee86be7f59d4a26d4acce0007aed3a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Feb 21 17:56:50 2018 +0900
+
+    2018-02-21
+
+[33mcommit fdeed0b139720f887f25600589b4e9cfa061480b[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Feb 21 17:31:26 2018 +0900
+
+    2018-02-21
+
+[33mcommit 00738da1e61cb127c0cfaf038f591aaaba72a790[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Feb 20 14:00:15 2018 +0900
+
+    2018-02-20
+
+[33mcommit 3c4f17cd0fda5d373f196053ceb6f76af5c6a7e4[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Feb 19 14:46:57 2018 +0900
+
+    2018-02-19
+
+[33mcommit 67cde5c936168abdb3cf5fd2451e492d37e120e7[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sun Feb 18 17:12:30 2018 +0900
+
+    2018-02-18
+
+[33mcommit 11c3a6e8c632796d36a7fb06cb2cb7d41b666c41[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Feb 17 14:34:19 2018 +0900
+
+    2018-02-17
+
+[33mcommit 93f7f0607bf1d39d9d8742efec584edac726aa3a[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Feb 17 14:24:28 2018 +0900
+
+    2018-02-17
+
+[33mcommit 3e8234047e4cb20f3470c5a7529e537853ae55a8[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Sat Feb 17 14:14:50 2018 +0900
+
+    2018-02-17
+
+[33mcommit 9d15a3aeb89998486db7fa83d97dc4d74459c124[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Wed Feb 14 17:44:06 2018 +0900
+
+    2018-02-14
+
+[33mcommit 560040517a8c2bc41315303eca31b4e4aff906f9[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Tue Feb 13 21:46:48 2018 +0900
+
+    2018-02-13
+
+[33mcommit b8c2bb291af5c1a5f03f9cf26533c8449440e3c3[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Feb 12 18:26:20 2018 +0900
+
+    2018-02-12
+
+[33mcommit 1b4855e4cb05f6794fe49db54fdfb95acdb30c84[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Feb 12 18:22:56 2018 +0900
+
+    2018-02-12
+
+[33mcommit 8846d66805325d002613254f3c3e91905ab0bfef[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Feb 12 18:05:08 2018 +0900
+
+    2018-02-12
+
+[33mcommit 8213323812065c52c86cc5a77f5679816dfec949[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Feb 12 17:38:02 2018 +0900
+
+    2018-02-12
+
+[33mcommit 98f28382c28147955828656668b27621b44ea7e0[m
+Author: alstn2468 <alstn2468_@naver.com>
+Date:   Mon Feb 12 16:37:28 2018 +0900
+
+    2018-02-12
+
+[33mcommit c97323b20b657fff9ea18ef6ad79096de4781117[m
+Author: Kimminsu <30997311+alstn2468@users.noreply.github.com>
+Date:   Mon Feb 12 16:28:58 2018 +0900
+
+    Initial commit
