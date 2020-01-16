@@ -269,6 +269,7 @@ Department of Computer Software Engineering
 > 9999 구구<br/>
 > 10026 적록색약<br/>
 > 10039 평균 점수<br/>
+> 10101 삼각형 외우기<br/>
 > 10156 과자<br>
 > 10162 전자레인지<br>
 > 10170 NFC West vs North<br/>
