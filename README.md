@@ -181,6 +181,7 @@ Department of Computer Software Engineering
 > 2752 세수정렬<br/>
 > 2753 윤년<br/>
 > 2775 부녀회장이 될테야<br/>
+> 2789 유학 금지<br/>
 > 2798 블랙잭<br/>
 > 2822 점수 계산<br/>
 > 2824 최대공약수<br>
