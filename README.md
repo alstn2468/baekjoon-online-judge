@@ -254,6 +254,7 @@ Department of Computer Software Engineering
 > 9012 괄호<br/>
 > 9020 골드바흐의 추측<br/>
 > 9085 더하기<br>
+> 9086 문자열<br/>
 > 9095 1, 2, 3 더하기<br/>
 > 9251 LCS<br/>
 > 9252 LCS 2<br/>
