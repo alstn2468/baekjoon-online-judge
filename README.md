@@ -111,6 +111,7 @@ Department of Computer Software Engineering
 > 2108 통계학<br/>
 > 2133 타일 채우기<br/>
 > 2156 포도주 시식<br/>
+> 2161 카드1<br/>
 > 2163 초콜릿 자르기<br/>
 > 2164 카드2<br/>
 > 2167 2차원 배열의 합<br/>
