@@ -408,6 +408,7 @@ Department of Computer Software Engineering
 > 15989 1, 2, 3 더하기 4<br/>
 > 16394 홍익대학교<br/>
 > 16396 선 그리기<br/>
+> 17072 아스키 아트<br/>
 > 17173 배수들의 합<br>
 > 17174 전체 계산 횟수<br>
 > 17175 피보나치는 지겨웡~<br>
