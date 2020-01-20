@@ -55,6 +55,7 @@ Department of Computer Software Engineering
 > 1237 정ㅋ벅ㅋ<br/>
 > 1252 이진수 덧셈<br/>
 > 1260 DFS와 BFS<br/>
+> 1264 모음의 개수<br/>
 > 1268 임시 반장 정하기<br/>
 > 1269 대칭 차집합<br/>
 > 1292 쉽게 푸는 문제<br/>
