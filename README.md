@@ -385,6 +385,7 @@ Department of Computer Software Engineering
 > 11945 뜨거운 붕어빵<br/>
 > 12101 1, 2, 3 더하기 2<br/>
 > 12096 <br/>
+> 12852 1로 만들기 2<br>
 > 12865 평범한 배낭<br/>
 > 13241 최소공배수<br/>
 > 13420 사칙연산<br/>
