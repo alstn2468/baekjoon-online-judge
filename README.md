@@ -81,6 +81,7 @@ Department of Computer Software Engineering
 > 1546 평균<br/>
 > 1547 공<br/>
 > 1550 16진수<br/>
+> 1620 나는야 포켓몬 마스터 이다솜<br/>
 > 1629 곱셈<br/>
 > 1676 팩토리얼 0의 개수<br/>
 > 1699 제곱수의 합<br/>
