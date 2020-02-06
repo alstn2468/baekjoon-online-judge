@@ -170,6 +170,7 @@ Department of Computer Software Engineering
 > 2588 곱셈<br/>
 > 2592 대표값<br/>
 > 2605 줄 세우기<br/>
+> 2606 바이러스<br/>
 > 2609 최대공약수와 최소공배수<br/>
 > 2630색종이 만들기<br/>
 > 2675 문자열 반복<br/>
