@@ -101,6 +101,7 @@ Department of Computer Software Engineering
 > 1912 연속합<br/>
 > 1920 수 찾기<br/>
 > 1924 2007년<br/>
+> 1927 최소 힙<br/>
 > 1929 소수 구하기<br/>
 > 1931 회의실배정<br/>
 > 1932 정수 삼각형<br/>
