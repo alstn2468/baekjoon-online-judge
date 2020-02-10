@@ -1,4 +1,3 @@
-
 # 문제
 # n개의 정점을 갖는 이진 트리의 정점에 1부터 n까지의 번호가 중복 없이 매겨져 있다.
 # 이와 같은 이진 트리의 인오더와 포스트오더가 주어졌을 때,
@@ -11,6 +10,7 @@
 #
 # 출력
 # 첫째 줄에 프리오더를 출력한다.
+
 
 def get_preorder(inorder_start, inorder_end, postorder_start, postorder_end):
     if postorder_start > postorder_end:
@@ -26,18 +26,24 @@ def get_preorder(inorder_start, inorder_end, postorder_start, postorder_end):
     inorder_root = inposition[root]
     left_size = inorder_root - inorder_start
 
-    get_preorder(inorder_start, inorder_root - 1,
-                 postorder_start, postorder_start + left_size - 1)
-    get_preorder(inorder_root + 1, inorder_end,
-                 postorder_start + left_size, postorder_end - 1)
+    get_preorder(
+        inorder_start,
+        inorder_root - 1,
+        postorder_start,
+        postorder_start + left_size - 1,
+    )
+    get_preorder(
+        inorder_root + 1, inorder_end, postorder_start + left_size, postorder_end - 1
+    )
+
 
 import sys
 
 sys.setrecursionlimit(10 ** 6)
 
 n = int(sys.stdin.readline())
-inorder = list(map(int, sys.stdin.readline().split(' ')))
-postorder = list(map(int, sys.stdin.readline().split(' ')))
+inorder = list(map(int, sys.stdin.readline().split(" ")))
+postorder = list(map(int, sys.stdin.readline().split(" ")))
 
 inposition = [0] * (max(inorder) + 1)
 

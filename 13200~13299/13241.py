@@ -1,4 +1,3 @@
-
 # 정수 B에 0보다 큰 정수인 N을 곱해 정수 A를 만들 수 있다면, A는 B의 배수이다.
 # 예:
 # 10은 5의 배수이다 (5 * 2 = 10)
@@ -21,18 +20,21 @@
 # 출력
 # A와 B의 최소공배수를 한 줄에 출력한다.
 
-def get_gcd(n1, n2) :
-    if n1 < n2 :
+
+def get_gcd(n1, n2):
+    if n1 < n2:
         n1, n2 = n2, n1
 
-    while n2 != 0 :
+    while n2 != 0:
         n = n1 % n2
         n1 = n2
         n2 = n
     return n1
 
-def get_lcm(n1, n2, gcd) :
+
+def get_lcm(n1, n2, gcd):
     return n1 * n2 // gcd
+
 
 n1, n2 = map(int, input().split())
 

@@ -1,4 +1,3 @@
-
 # 문제
 # 예제를 보고 규칙을 유추한 뒤에 별을 찍어 보세요.
 #
@@ -9,9 +8,9 @@
 # 출력
 # 첫째 줄부터 N번째 줄까지 별을 출력한다.
 
+
 def draw_star(mod, i, j):
-    if ((i // mod) % 3 == 1
-        and (j // mod) % 3 == 1) :
+    if (i // mod) % 3 == 1 and (j // mod) % 3 == 1:
         print(" ", end="")
 
     else:
@@ -20,6 +19,7 @@ def draw_star(mod, i, j):
 
         else:
             draw_star(mod // 3, i, j)
+
 
 n = int(input())
 

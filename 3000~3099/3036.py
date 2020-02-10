@@ -1,4 +1,3 @@
-
 # 문제
 # 상근이는 창고에서 링 N개를 발견했다.
 # 상근이는 각각의 링이 앞에 있는 링과 뒤에 있는 링과 접하도록 바닥에 내려놓았다.
@@ -18,16 +17,18 @@
 # 첫 번째 링을 제외한 각각의 링에 대해서,
 # 첫 번째 링을 한 바퀴 돌리면 그 링은 몇 바퀴 도는지 기약 분수 형태 A / B로 출력한다.
 
-def get_gcd(n1, n2) :
-    if n1 < n2 :
+
+def get_gcd(n1, n2):
+    if n1 < n2:
         n1, n2 = n2, n1
 
-    while n2 != 0 :
+    while n2 != 0:
         n = n1 % n2
         n1 = n2
         n2 = n
-        
+
     return n1
+
 
 N = int(input())
 
@@ -35,6 +36,6 @@ r = list(map(int, input().split()))
 
 first_ring, r = r[0], r[1:]
 
-for i in r :
+for i in r:
     gcd = get_gcd(first_ring, i)
-    print(str(first_ring // gcd) + '/' + str(i // gcd))
+    print(str(first_ring // gcd) + "/" + str(i // gcd))

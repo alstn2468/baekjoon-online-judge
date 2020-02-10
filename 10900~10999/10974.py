@@ -1,4 +1,3 @@
-
 # 문제
 # N이 주어졌을 때, 1부터 N까지의 수로 이루어진 순열을 사전순으로 출력하는 프로그램을 작성하시오.
 #
@@ -11,5 +10,4 @@
 from itertools import permutations
 
 arr = [i for i in range(1, int(input()) + 1)]
-print('\n'.join([' '.join(map(str, perm))
-                 for perm in permutations(arr, len(arr))]))
+print("\n".join([" ".join(map(str, perm)) for perm in permutations(arr, len(arr))]))

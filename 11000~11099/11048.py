@@ -1,4 +1,3 @@
-
 # 문제
 # 준규는 N×M 크기의 미로에 갇혀있다.
 # 미로는 1×1크기의 방으로 나누어져 있고, 각 방에는 사탕이 놓여져 있다.
@@ -24,8 +23,6 @@ maps.extend([[0] + list(map(int, input().split())) for _ in range(N)])
 
 for i in range(1, N + 1):
     for j in range(1, M + 1):
-        maps[i][j] += max(maps[i][j - 1],
-                          maps[i - 1][j],
-                          maps[i - 1][j - 1])
+        maps[i][j] += max(maps[i][j - 1], maps[i - 1][j], maps[i - 1][j - 1])
 
 print(maps[N][M])

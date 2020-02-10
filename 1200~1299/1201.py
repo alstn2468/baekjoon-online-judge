@@ -1,4 +1,3 @@
-
 # 문제
 # 1부터 N까지의 수를 한 번씩 이용해서 최대 부분 증가 수열의 길이가 M이고,
 # 최대 부분 감소 수열의 길이가 K인 수열을 출력한다.
@@ -30,10 +29,9 @@ if M + K - 1 <= N <= M * K:
             boundary.append(boundary[-1] + group_size)
 
     for i in range(len(boundary) - 1):
-        nums[boundary[i]:boundary[i + 1]] = \
-            nums[boundary[i]:boundary[i + 1]][::-1]
+        nums[boundary[i] : boundary[i + 1]] = nums[boundary[i] : boundary[i + 1]][::-1]
 
-    print(' '.join(map(str, nums)))
+    print(" ".join(map(str, nums)))
 
 else:
     print(-1)

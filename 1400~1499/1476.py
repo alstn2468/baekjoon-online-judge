@@ -1,4 +1,3 @@
-
 # 문제
 # 준규가 사는 나라는 우리가 사용하는 연도와 다른 방식을 이용한다.
 # 준규가 사는 나라에서는 수 3개를 이용해서 연도를 나타낸다.
@@ -26,9 +25,7 @@ E, S, M = map(int, input().split())
 year = 1
 
 while True:
-    if (year - E) % 15 == 0 \
-        and (year - S) % 28 == 0 \
-            and (year - M) % 19 == 0:
+    if (year - E) % 15 == 0 and (year - S) % 28 == 0 and (year - M) % 19 == 0:
         break
 
     year += 1

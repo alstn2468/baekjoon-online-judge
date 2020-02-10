@@ -1,4 +1,3 @@
-
 # 문제
 # 어떤 사각형의 네 꼭짓점이 원과 접할 때 이 사각형이 원에 내접한다고 한다.
 # 세 선분의 길이가 주어지고 그중 가장 긴 선분의 길이가 내접할 원의 지름과 같을 때,
@@ -19,7 +18,7 @@ check = False
 for i in range(1, a):
     temp = a * i + b * c
 
-    if (temp ** 2 == ((a * a - b * b) * (a * a - c * c))):
+    if temp ** 2 == ((a * a - b * b) * (a * a - c * c)):
         check = i
 
 print(-1) if not check else print(check)

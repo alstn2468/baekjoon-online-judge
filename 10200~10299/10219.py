@@ -1,4 +1,3 @@
-
 # 문제
 # Coders High 2014가 끝났다.
 # 저녁 회식은 취소되었기 때문에 참가자들은 뿔뿔이 흩어져 저녁식사를 하기 위해 떠났다.
@@ -43,16 +42,16 @@ grill = [[0 for i in range(12)] for j in range(12)]
 
 T = int(input())
 
-for _ in range(T) :
+for _ in range(T):
     H, W = map(int, input().split())
 
-    for i in range(H) :
+    for i in range(H):
         line = input()
-        for j in range(W) :
+        for j in range(W):
             grill[i][j] = line[j]
 
-    for i in range(H) :
-        for j in range(W - 1, -1, -1) :
-            print(grill[i][j], end = "")
+    for i in range(H):
+        for j in range(W - 1, -1, -1):
+            print(grill[i][j], end="")
 
         print()

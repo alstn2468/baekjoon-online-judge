@@ -1,17 +1,17 @@
-
 # 문제
-# 입력으로 포켓몬의 번호가 주어졌을 때, 
+# 입력으로 포켓몬의 번호가 주어졌을 때,
 # 그 포켓몬의 이름과 타입을 출력하는 프로그램을 작성하시오.
-# 
+#
 # 입력
-# 입력으로 포켓몬의 번호가 주어진다. 
+# 입력으로 포켓몬의 번호가 주어진다.
 # 포켓몬의 번호는 718을 넘지 않는 자연수이다.
-# 
+#
 # 출력
-# 첫째 줄에 포켓몬의 이름을 출력한다. 
+# 첫째 줄에 포켓몬의 이름을 출력한다.
 # 둘째 줄에는 포켓몬의 타입을 공백으로 구분하여 출력한다.
 
-print("""Bulbasaur@Grass Poison
+print(
+    """Bulbasaur@Grass Poison
 Ivysaur@Grass Poison
 Venusaur@Grass Poison
 Charmander@Fire
@@ -728,4 +728,11 @@ Noibat@Flying Dragon
 Noivern@Flying Dragon
 Xerneas@Fairy
 Yveltal@Dark Flying
-Zygarde@Dragon Ground""".split('\n')[int(input()) - 1].replace("@", "\n"))
+Zygarde@Dragon Ground""".split(
+        "\n"
+    )[
+        int(input()) - 1
+    ].replace(
+        "@", "\n"
+    )
+)

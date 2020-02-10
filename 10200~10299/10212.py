@@ -1,4 +1,3 @@
-
 # 문제
 # 여기 풀리지 않는 미스테리가 있다.
 # 고려대학교와 연세대학교(이 순서는 사전순입니다.)중 어느 대학교가 뛰어난가?
@@ -15,4 +14,4 @@
 
 import random
 
-print('Yonsei') if random.randint(0, 1) == 1 else print('Korea')
+print("Yonsei") if random.randint(0, 1) == 1 else print("Korea")

@@ -1,4 +1,3 @@
-
 # 문제
 # n가지 종류의 동전이 있다.
 # 각각의 동전이 나타내는 가치는 다르다.
@@ -14,16 +13,16 @@
 # 첫째 줄에 경우의 수를 출력한다. 경우의 수는 2^31보다 작다.
 
 n, k = map(int, input().split())
-coins = [int(input()) for i in range (n)]
+coins = [int(input()) for i in range(n)]
 
-dp = [0 for i in range (10001)]
-dp[0] =1
+dp = [0 for i in range(10001)]
+dp[0] = 1
 
-for i in range (0, n) :
+for i in range(0, n):
 
-    for j in range (1, k + 1) :
+    for j in range(1, k + 1):
 
-        if j >= coins[i]  :
+        if j >= coins[i]:
             dp[j] += dp[j - coins[i]]
 
 print(dp[k])

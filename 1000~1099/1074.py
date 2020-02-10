@@ -1,4 +1,3 @@
-
 # 문제
 # 한수는 2차원 배열 (항상 2^N * 2^N 크기이다)을 Z모양으로 탐색하려고 한다.
 # 예를 들어, 2*2배열을 왼쪽 위칸, 오른쪽 위칸, 왼쪽 아래칸,
@@ -18,14 +17,14 @@
 
 import sys
 
-N, r, c = map(int , sys.stdin.readline().split())
+N, r, c = map(int, sys.stdin.readline().split())
 
 size = pow(2, N)
 result = 0
 
 while True:
     if r < 2 and c < 2:
-        result += (r * 2 + c)
+        result += r * 2 + c
         break
 
     size = size // 2

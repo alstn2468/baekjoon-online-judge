@@ -1,4 +1,3 @@
-
 # 문제
 # 한 줄로 된 간단한 에디터를 구현하려고 한다.
 # 이 편집기는 영어 소문자만을 기록할 수 있는 편집기로, 최대 600, 000글자까지 입력할 수 있다.
@@ -57,16 +56,16 @@ editor = Editor(input().strip())
 for _ in range(int(input())):
     oper = input().strip()
 
-    if oper[0] == 'L':
+    if oper[0] == "L":
         editor.move_cursor_left()
 
-    elif oper[0] == 'D':
+    elif oper[0] == "D":
         editor.move_cursor_right()
 
-    elif oper[0] == 'B':
+    elif oper[0] == "B":
         editor.delete_left_char()
 
     else:
         editor.add_char_to_left(oper[2])
 
-print(''.join(editor.left_stack + editor.right_stack))
+print("".join(editor.left_stack + editor.right_stack))

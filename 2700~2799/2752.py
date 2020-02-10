@@ -1,4 +1,3 @@
-
 # 문제
 # 동규는 세수를 하다가 정렬이 하고싶어졌다.
 # 숫자 세 개를 생각한 뒤에, 이를 오름차순으로 정렬하고 싶어 졌다.
@@ -12,4 +11,4 @@
 # 출력
 # 제일 작은 수, 그 다음 수, 제일 큰 수를 차례대로 출력한다.
 
-print(' '.join(map(str, sorted(list(map(int, input().split()))))))
+print(" ".join(map(str, sorted(list(map(int, input().split()))))))

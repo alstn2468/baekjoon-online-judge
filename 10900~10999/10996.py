@@ -1,4 +1,3 @@
-
 # 문제
 # 예제를 보고 규칙을 유추한 뒤에 별을 찍어 보세요.
 #
@@ -17,9 +16,9 @@ else:
     for i in range(1, 2 * N + 1):
         for j in range(1, N + 1):
             if (i + j) % 2 == 0:
-                print('*', end="")
+                print("*", end="")
 
             else:
-                 print(' ', end="")
+                print(" ", end="")
 
         print()

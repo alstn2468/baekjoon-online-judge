@@ -1,4 +1,3 @@
-
 # 문제
 # 상근이는 학생들에게 두 양의 정수 A와 B의 최대공약수를 계산하는 문제를 내주었다.
 # 그런데, 상근이는 학생들을 골탕먹이기 위해 매우 큰 A와 B를 주었다.
@@ -21,9 +20,9 @@
 import math
 
 N = input()
-A = eval('*'.join(input().split()))
+A = eval("*".join(input().split()))
 M = input()
-B = eval('*'.join(input().split()))
+B = eval("*".join(input().split()))
 gcd = str(math.gcd(A, B))
 
-print(gcd) if len(gcd) < 9 else print(gcd[len(gcd) - 9:len(gcd) + 1])
+print(gcd) if len(gcd) < 9 else print(gcd[len(gcd) - 9 : len(gcd) + 1])

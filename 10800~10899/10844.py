@@ -1,4 +1,3 @@
-
 # 문제
 # 45656이란 수를 보자.
 # 이 수는 인접한 모든 자리수의 차이가 1이 난다.
@@ -14,26 +13,28 @@
 # 출력
 # 첫째 줄에 정답을 1,000,000,000으로 나눈 나머지를 출력한다.
 
-n = [ 0, 1, 1, 1, 1, 1, 1, 1, 1, 1 ]
+n = [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 
-def stair(n)  :
 
-    output = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+def stair(n):
+
+    output = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     output[0] = n[1]
     output[9] = n[8]
 
-    for i in range(8) :
+    for i in range(8):
 
         j = i + 1
         output[j] = n[j - 1] + n[j + 1]
 
     return output
 
-def total(n) :
+
+def total(n):
 
     total = 0
 
-    for i in n :
+    for i in n:
         total += i
 
     return total
@@ -41,7 +42,7 @@ def total(n) :
 
 length = input()
 
-for i in range(int(length) - 1) :
+for i in range(int(length) - 1):
     n = stair(n)
 
 print(total(n) % 1000000000)

@@ -1,4 +1,3 @@
-
 # 문제
 # 개미 N마리가 막대 위에 올라가 있다.
 # 일부 개미는 왼쪽을 바라보고 있고, 나머지 개미는 오른쪽을 바라보고 있다.
@@ -43,30 +42,33 @@
 
 import sys
 
-def solution(L, K, ants) :
+
+def solution(L, K, ants):
     drop_left, drop_right = [], []
 
-    for ant in ants :
-        if ant[1] < 0 :
+    for ant in ants:
+        if ant[1] < 0:
             drop_left.append((ant[0], ant[1]))
 
-        else :
+        else:
             drop_right.append((L - ant[0], ant[1]))
 
     drops = list(zip(drop_left + drop_right, ants))
-    drops = sorted(sorted(drops, key = lambda drop: drop[1][1]),
-                   key = lambda drop: drop[0][0])
+    drops = sorted(
+        sorted(drops, key=lambda drop: drop[1][1]), key=lambda drop: drop[0][0]
+    )
 
     return drops[K - 1][1][1]
 
+
 T = int(sys.stdin.readline().strip())
 
-for _ in range(T) :
+for _ in range(T):
     N, L, K = list(map(int, sys.stdin.readline().strip().split()))
 
     ants = []
 
-    for _ in range(N) :
+    for _ in range(N):
         p, a = list(map(int, sys.stdin.readline().strip().split()))
         ants.append((p, a))
 

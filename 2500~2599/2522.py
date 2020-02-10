@@ -1,4 +1,3 @@
-
 # 문제
 # 예제를 보고 규칙을 유추한 뒤에 별을 찍어 보세요.
 #
@@ -11,4 +10,4 @@
 N = int(input())
 
 for i in range(-N + 1, N):
-	print(' ' * abs(i) + '*' * (N - abs(i)))
+    print(" " * abs(i) + "*" * (N - abs(i)))

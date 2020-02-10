@@ -1,4 +1,3 @@
-
 # 문제
 # 아래 <그림 1>과 같이 여러개의 정사각형칸들로 이루어진 정사각형 모양의 종이가 주어져 있고,
 # 각 정사각형들은 하얀색으로 칠해져 있거나 파란색으로 칠해져 있다.
@@ -29,7 +28,7 @@ from functools import reduce
 
 
 def cut(paper, x, y, size):
-    temp_paper = [paper[i][x:x + size] for i in range(y, y + size)]
+    temp_paper = [paper[i][x : x + size] for i in range(y, y + size)]
     flatten_paper = list(set(reduce(lambda x, y: x + y, temp_paper)))
 
     if len(flatten_paper) == 1:
@@ -44,6 +43,6 @@ def cut(paper, x, y, size):
 
 N = int(input())
 paper = [list(input().split()) for _ in range(N)]
-result = {'0': 0, '1': 0}
+result = {"0": 0, "1": 0}
 cut(paper, 0, 0, N)
 print(f"{result['0']}\n{result['1']}")

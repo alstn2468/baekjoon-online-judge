@@ -1,4 +1,3 @@
-
 # 문제
 # 효주는 포도주 시식회에 갔다.
 # 그 곳에 갔더니, 테이블 위에 다양한 포도주가 들어있는 포도주 잔이 일렬로 놓여 있었다.
@@ -26,23 +25,23 @@ n = int(input())
 wine = [0]
 dp = [0 for i in range(10001)]
 
-for i in range(n) :
+for i in range(n):
     wine.append(int(input()))
 
-if n < 3 :
+if n < 3:
     print(sum(wine))
 
-else :
+else:
 
-    for i in range(1, 3) :
+    for i in range(1, 3):
 
-        if i == 1 :
+        if i == 1:
             dp[i] = wine[i]
 
-        else :
-            dp[i] = wine[i] + wine[i-1]
+        else:
+            dp[i] = wine[i] + wine[i - 1]
 
-    for i in range(3, n + 1) :
+    for i in range(3, n + 1):
         dp[i] = max(wine[i] + dp[i - 2], dp[i - 1], wine[i] + wine[i - 1] + dp[i - 3])
 
     print(dp[n])

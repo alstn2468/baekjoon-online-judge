@@ -1,4 +1,3 @@
-
 # 문제
 # N×N크기의 행렬로 표현되는 종이가 있다.
 # 종이의 각 칸에는 -1, 0, 1의 세 값 중 하나가 저장되어 있다.
@@ -16,6 +15,7 @@
 # 출력
 # 첫째 줄에 -1로만 채워진 종이의 개수를, 둘째 줄에 0으로만 채워진 종이의 개수를,
 # 셋째 줄에 1로만 채워진 종이의 개수를 출력한다.
+
 
 def nine_range(paper):
     n = len(paper[0])
@@ -39,6 +39,7 @@ def solution(paper):
     else:
         for part_paper in nine_range(paper):
             solution(part_paper)
+
 
 import sys
 

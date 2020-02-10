@@ -1,4 +1,3 @@
-
 # 문제
 # 선영이는 주말에 할 일이 없어서 새로운 언어 AC를 만들었다.
 # AC는 정수 배열에 연산을 하기 위해 만든 언어이다.
@@ -23,34 +22,34 @@
 
 N = int(input())
 
-for _ in range(N) :
+for _ in range(N):
     command = [c for c in input()]
     length = int(input())
 
-    if length != 0 :
+    if length != 0:
         nums = [int(c) for c in input().strip("[]").split(",")]
 
-    else :
+    else:
         input()
         nums = []
 
     front, rear, reverse_check = 0, 0, 1
 
-    for cur in command :
-        if cur == 'R' :
+    for cur in command:
+        if cur == "R":
             reverse_check = -reverse_check
 
-        elif cur == 'D' :
-            if reverse_check == 1 :
+        elif cur == "D":
+            if reverse_check == 1:
                 front += 1
 
-            else :
+            else:
                 rear += 1
 
-    result = nums[front:len(nums) - rear][::reverse_check]
+    result = nums[front : len(nums) - rear][::reverse_check]
 
-    if front + rear > length :
+    if front + rear > length:
         print("error")
 
-    else :
-        print("[" + ','.join(str(c) for c in result) + "]")
+    else:
+        print("[" + ",".join(str(c) for c in result) + "]")

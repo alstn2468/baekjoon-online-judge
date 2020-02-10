@@ -1,4 +1,3 @@
-
 # 문제
 # 히스토그램은 직사각형 여러 개가 아래쪽으로 정렬되어 있는 도형이다.
 # 각 직사각형은 같은 너비를 가지고 있지만, 높이는 서로 다를 수도 있다.
@@ -21,6 +20,7 @@
 import sys
 
 sys.setrecursionlimit(10 ** 6)
+
 
 def init(array, tree, node, start, end):
     if start == end:
@@ -47,10 +47,10 @@ def query(array, tree, node, start, end, left, right):
     if left <= start and end <= right:
         return tree[node]
 
-    left_index = query(array, tree, node * 2,
-                       start, (start + end) // 2, left, right)
-    right_index = query(array, tree, node * 2 + 1,
-                        (start + end) // 2 + 1, end, left, right)
+    left_index = query(array, tree, node * 2, start, (start + end) // 2, left, right)
+    right_index = query(
+        array, tree, node * 2 + 1, (start + end) // 2 + 1, end, left, right
+    )
 
     if left_index == -1 and right_index == -1:
         return -1

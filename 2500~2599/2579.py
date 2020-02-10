@@ -1,4 +1,3 @@
-
 # 문제
 # 계단 오르기 게임은 계단 아래 시작점부터 계단 꼭대기에 위치한 도착점까지 가는 게임이다.
 # <그림 1>과 같이 각각의 계단에는 일정한 점수가 쓰여 있는데 계단을 밟으면
@@ -28,7 +27,7 @@ n = int(input())
 
 stair = []
 
-for i in range(n) :
+for i in range(n):
     stair.append(int(input()))
 
 sum = []
@@ -37,7 +36,7 @@ sum.append(stair[0])
 sum.append(stair[1] + stair[0])
 sum.append(max(stair[2] + stair[0], stair[2] + stair[1]))
 
-for i in range(3, n) :
+for i in range(3, n):
     sum.append(max(stair[i] + sum[i - 2], stair[i] + stair[i - 1] + sum[i - 3]))
 
 print(sum[n - 1])

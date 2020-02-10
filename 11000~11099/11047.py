@@ -1,4 +1,3 @@
-
 # 문제
 # 준규가 가지고 있는 동전은 총 N종류이고, 각각의 동전을 매우 많이 가지고 있다.
 #
@@ -21,7 +20,7 @@ for _ in range(N):
 
 for coin in coins:
     if coin <= K:
-        count += (K // coin)
+        count += K // coin
         K %= coin
 
 print(count)

@@ -1,4 +1,3 @@
-
 # 문제
 # 인체에 치명적인 바이러스를 연구하던 연구소에서 바이러스가 유출되었다.
 # 다행히 바이러스는 아직 퍼지지 않았고, 바이러스의 확산을 막기 위해서 연구소에 벽을 세우려고 한다.
@@ -73,7 +72,7 @@ def spread_virus(virus_list, copy_maps):
     return safe_area - spread_virus_count - 3
 
 
-def set_wall(start,  wall_count):
+def set_wall(start, wall_count):
     global result
     global N
     global M

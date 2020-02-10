@@ -1,4 +1,3 @@
-
 # 문제
 # LCS(Longest Common Subsequence, 최장 공통 부분 수열)문제는 두 수열이 주어졌을 때,
 # 모두의 부분 수열이 되는 수열 중 가장 긴 것을 찾는 문제이다.
@@ -19,17 +18,17 @@ n = len(str2)
 
 dp = [[0] * (n + 1) for i in range(m + 1)]
 
-for i in range(m + 1) :
+for i in range(m + 1):
 
-    for j in range(n + 1) :
+    for j in range(n + 1):
 
-        if i == 0 or j == 0 :
+        if i == 0 or j == 0:
             dp[i][j] = 0
 
-        elif str1[i - 1] == str2[j - 1] :
+        elif str1[i - 1] == str2[j - 1]:
             dp[i][j] = dp[i - 1][j - 1] + 1
 
-        else :
-            dp[i][j] = max(dp[i - 1][j] , dp[i][j - 1])
+        else:
+            dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
 
 print(dp[m][n])

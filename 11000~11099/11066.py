@@ -1,4 +1,3 @@
-
 # 문제
 # 소설가인 김대전은 소설을 여러 장(chapter)으로 나누어 쓰는데,
 # 각 장은 각각 다른 파일에 저장하곤 한다.
@@ -36,23 +35,24 @@
 # 프로그램은 표준 출력에 출력한다.
 # 각 테스트 데이터마다 정확히 한 행에 출력하는데, 모든 장을 합치는데 필요한 최소비용을 출력한다.
 
-for t in range(int(input())) :
+for t in range(int(input())):
     n = int(input())
     a = list(map(int, input().split()))
 
     sum = [0] * (n + 1)
     dp = [[0] * (n + 1) for i in range(n + 1)]
 
-    for i in range(n) :
+    for i in range(n):
         sum[i + 1] = sum[i] + a[i]
 
-    for k in range(1, n) :
+    for k in range(1, n):
 
-        for i in range(1, n - k + 1) :
+        for i in range(1, n - k + 1):
             dp[i][i + k] = 1e9
 
-            for j in range(i, i + k) :
-                dp[i][i + k] = min(dp[i][i + k],
-                                   dp[i][j] + dp[j + 1][i + k] + sum[i + k] - sum[i - 1])
+            for j in range(i, i + k):
+                dp[i][i + k] = min(
+                    dp[i][i + k], dp[i][j] + dp[j + 1][i + k] + sum[i + k] - sum[i - 1]
+                )
 
     print(dp[1][n])

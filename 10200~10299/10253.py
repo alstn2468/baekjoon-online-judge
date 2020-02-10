@@ -1,4 +1,3 @@
-
 # 문제
 # 이제 10 살이 된 헨리(Henry)는 수학에 소질이 있다.
 # 수학선생님인 아메스(Ahmes)는 오늘 헨리에게 분수에 대해 가르쳐줬고,
@@ -53,14 +52,14 @@
 
 import math
 
-for _ in range(int(input())) :
+for _ in range(int(input())):
     a, b = map(int, input().split())
 
-    while a != 1 :
+    while a != 1:
         x = (b // a) if (b % a == 0) else (b // a + 1)
 
         a, b = ((a * x) - b), b * x
         g = math.gcd(a, b)
-        a, b = a // g, b // g;
+        a, b = a // g, b // g
 
-    print(b);
+    print(b)

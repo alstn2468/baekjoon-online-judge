@@ -1,4 +1,3 @@
-
 # 문제
 # 파티가 끝나고 나면, 사람들은 누가 파티에 왔는지와 얼마나 많은 사람들이 왔는지를 궁금해한다.
 # 보통 파티는 매우 크게 열리기 때문에, 정확하게 몇 명이 참가했는지 알 수가 없다.
@@ -24,5 +23,4 @@ def mul(x, y):
 
 
 peoples = mul(*input().split())
-print(' '.join(list(map(lambda x: str(x - peoples),
-                        list(map(int, input().split()))))))
+print(" ".join(list(map(lambda x: str(x - peoples), list(map(int, input().split()))))))

@@ -1,4 +1,3 @@
-
 # 문제
 # P[0], P[1], ...., P[N-1]은 0부터 N-1까지(포함)의 수를 한 번씩 포함하고 있는 수열이다.
 # 수열 P를 길이가 N인 배열 A에 적용하면 길이가 N인 배열 B가 된다. 적용하는 방법은 B[P[i]] = A[i]이다.
@@ -33,7 +32,7 @@ for i, a in enumerate(sorted(A)):
 
 for a in A:
     if type(result[a]) is list:
-        print(result[a].pop(0), end=' ')
+        print(result[a].pop(0), end=" ")
 
     else:
-        print(result[a], end=' ')
+        print(result[a], end=" ")

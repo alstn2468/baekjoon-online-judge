@@ -1,4 +1,3 @@
-
 # 문제
 # RGB거리에 사는 사람들은 집을 빨강, 초록, 파랑중에 하나로 칠하려고 한다.
 # 또한, 그들은 모든 이웃은 같은 색으로 칠할 수 없다는 규칙도 정했다.
@@ -19,33 +18,33 @@
 matrix = []
 N = int(input())
 
-for i in range(N) :
-	matrix.append([0, 0, 0])
+for i in range(N):
+    matrix.append([0, 0, 0])
 
-for i in range(N) :
-	
-	if i == 0 :
-		matrix[0] = list(map(int, input().split()))
+for i in range(N):
 
-	else :
-		r, g, b = map(int, input().split())
+    if i == 0:
+        matrix[0] = list(map(int, input().split()))
 
-		if r + matrix[i - 1][1] > r + matrix[i - 1][2] :
-			matrix[i][0] = r + matrix[i - 1][2]
+    else:
+        r, g, b = map(int, input().split())
 
-		else :
-			matrix[i][0] = r + matrix[i - 1][1]
+        if r + matrix[i - 1][1] > r + matrix[i - 1][2]:
+            matrix[i][0] = r + matrix[i - 1][2]
 
-		if g + matrix[i - 1][0] > g + matrix[i - 1][2] :
-			matrix[i][1] = g + matrix[i - 1][2]
+        else:
+            matrix[i][0] = r + matrix[i - 1][1]
 
-		else :
-			matrix[i][1] = g + matrix[i - 1][0]
+        if g + matrix[i - 1][0] > g + matrix[i - 1][2]:
+            matrix[i][1] = g + matrix[i - 1][2]
 
-		if b + matrix[i - 1][0] > b + matrix[i - 1][1]:
-			matrix[i][2] = b +matrix[i - 1][1]
+        else:
+            matrix[i][1] = g + matrix[i - 1][0]
 
-		else:
-			matrix[i][2] = b + matrix[i - 1][0]
+        if b + matrix[i - 1][0] > b + matrix[i - 1][1]:
+            matrix[i][2] = b + matrix[i - 1][1]
+
+        else:
+            matrix[i][2] = b + matrix[i - 1][0]
 
 print(min(matrix[N - 1]))

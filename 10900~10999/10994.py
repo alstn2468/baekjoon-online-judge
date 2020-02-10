@@ -1,4 +1,3 @@
-
 # 문제
 # 예제를 보고 규칙을 유추한 뒤에 별을 찍어 보세요.
 #
@@ -23,7 +22,7 @@ for i in range(2, 2 * N):
         temp = (N - i + count + 1) * 4 + 1
 
         for k in range(0, temp):
-            print('*', end="")
+            print("*", end="")
 
     elif i % 2 == 0:
         temp = (N - i + count) * 4 + 1
@@ -64,7 +63,7 @@ for i in range(2, 2 * N - 1):
 
     print()
 
-    if (i >= (2 * N - 2)):
+    if i >= (2 * N - 2):
         temp = (N - 1) * 4 + 1
 
         for j in range(0, temp):

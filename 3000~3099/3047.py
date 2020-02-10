@@ -1,4 +1,3 @@
-
 # 문제
 # 세 수 A, B, C가 주어진다. A는 B보다 작고, B는 C보다 작다.
 # 세 수 A, B, C가 주어졌을 때, 입력에서 주어진 순서대로 출력하는 프로그램을 작성하시오.
@@ -12,13 +11,13 @@
 # 출력
 # 주어진 세 수를 주어진 출력 순서대로 출력하면 된다.
 
-num = sorted(list(map(int , input().split())))
+num = sorted(list(map(int, input().split())))
 str = input()
 
 dict = dict()
 
 for i in range(len(num)):
-    dict[chr(ord('A') + i)] = num[i]
+    dict[chr(ord("A") + i)] = num[i]
 
 for i in str:
-    print(dict[i], end=' ')
+    print(dict[i], end=" ")

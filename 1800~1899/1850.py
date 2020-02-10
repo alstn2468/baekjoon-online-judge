@@ -1,4 +1,3 @@
-
 # 문제
 # 모든 자리가 1로만 이루어져있는 두 자연수 A와 B가 주어진다.
 # 이 때, A와 B의 최대 공약수를 구하는 프로그램을 작성하시오.
@@ -11,16 +10,18 @@
 # 출력
 # 첫째 줄에 A와 B의 최대공약수를 출력한다. 정답은 천만 자리를 넘지 않는다.
 
-def get_gcd(n1, n2) :
-    if n2 == 0 :
+
+def get_gcd(n1, n2):
+    if n2 == 0:
         return n1
 
-    else :
+    else:
         return get_gcd(n2, n1 % n2)
+
 
 a, b = map(int, input().split())
 
-for i in range(1, get_gcd(a, b) + 1) :
-    print('1', end = '')
+for i in range(1, get_gcd(a, b) + 1):
+    print("1", end="")
 
 print()

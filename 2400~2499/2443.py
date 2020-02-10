@@ -1,4 +1,3 @@
-
 # 문제
 # 첫째 줄에는 별 2×N-1개, 둘째 줄에는 별 2×N-3개, ...,
 # N번째 줄에는 별 1개를 찍는 문제
@@ -15,9 +14,9 @@ N = int(input())
 
 for i in range(N):
     for _ in range(i):
-        print(' ', end="")
+        print(" ", end="")
 
     for _ in range(2 * (N - i) - 1):
-        print('*', end="")
+        print("*", end="")
 
     print()

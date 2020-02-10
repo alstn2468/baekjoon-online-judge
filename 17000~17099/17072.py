@@ -1,4 +1,3 @@
-
 # 위와 같이, 아스키 문자로 그린 그림을 ‘아스키 아트’ 라고 한다.
 # 우리가 알고 있는 일반적인 그림 파일(.jpg, .png 등)들은 기본적으로 해상도에 맞게
 # 픽셀 단위로 분할된 2차원 그리드에 대해 각 픽셀의 정보를 담는 방식으로 저장된다.
@@ -52,7 +51,7 @@ def intensity_function(rgb):
 
 def chunker(seq, size):
     return [
-        intensity_function(seq[pos: pos + size]) for pos in range(0, len(seq), size)
+        intensity_function(seq[pos : pos + size]) for pos in range(0, len(seq), size)
     ]
 
 

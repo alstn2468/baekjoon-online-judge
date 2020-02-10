@@ -1,4 +1,3 @@
-
 # 문제
 # nCm의 끝자리 0의 개수를 출력하는 프로그램을 작성하시오.
 #
@@ -8,14 +7,16 @@
 # 출력
 # 첫째 줄에 0의 개수를 출력한다.
 
+
 def count_base(number, b):
     cnt, i = 0, b
 
     while number // i:
-        cnt += (number // i)
+        cnt += number // i
         i *= b
 
     return cnt
+
 
 n, m = map(int, input().split())
 

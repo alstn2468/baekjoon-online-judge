@@ -1,4 +1,3 @@
-
 # 문제
 # 최근에 개발된 지능형 기차가 1번역(출발역)부터 4번역(종착역)까지
 # 4개의 정차역이 있는 노선에서 운행되고 있다.
@@ -31,11 +30,11 @@
 # 첫째 줄에 최대 사람 수를 출력한다.
 
 train = [list(int(x) for x in input().split()) for i in range(4)]
-f = lambda x, y : x if x > y else y
+f = lambda x, y: x if x > y else y
 
 max, now = 0, 0
 
-for i in train :
+for i in train:
     now = now + i[1] - i[0]
 
     max = f(now, max)

@@ -1,4 +1,3 @@
-
 # 문제
 # 오른쪽 그림과 같이 삼각형이 나선 모양으로 놓여져 있다.
 # 첫 삼각형은 정삼각형으로 변의 길이는 1이다.
@@ -20,10 +19,10 @@ T = int(input())
 dp = [1, 1, 1, 2, 2]
 dp.extend([0 for _ in range(96)])
 
-for i in range(5, 100) :
+for i in range(5, 100):
     dp[i] = dp[i - 1] + dp[i - 5]
 
-for _ in range(T) :
+for _ in range(T):
     N = int(input())
 
     print(dp[N - 1])

@@ -1,4 +1,3 @@
-
 # 문제
 # 여행을 떠난 세준이는 지도를 하나 구하였다.
 # 이 지도는 아래 그림과 같이 직사각형 모양이며 여러 칸으로 나뉘어져 있다.
@@ -26,21 +25,24 @@ Map = [[int(x) for x in input().split()] for i in range(M)]
 dp = [[0 for j in range(N)] for i in range(M)]
 dp[0][0] = 1
 
-loc = sorted([(x, y) for x in range(N) for y in range(M)],
-               key = lambda pos : Map[pos[1]][pos[0]], reverse = True)
+loc = sorted(
+    [(x, y) for x in range(N) for y in range(M)],
+    key=lambda pos: Map[pos[1]][pos[0]],
+    reverse=True,
+)
 
-for x, y in loc :
+for x, y in loc:
 
-    if x > 0 and Map[y][x] < Map[y][x - 1] :
+    if x > 0 and Map[y][x] < Map[y][x - 1]:
         dp[y][x] += dp[y][x - 1]
 
-    if x + 1 < N and Map[y][x] < Map[y][x + 1] :
+    if x + 1 < N and Map[y][x] < Map[y][x + 1]:
         dp[y][x] += dp[y][x + 1]
 
-    if y > 0 and Map[y][x] < Map[y - 1][x] :
+    if y > 0 and Map[y][x] < Map[y - 1][x]:
         dp[y][x] += dp[y - 1][x]
 
-    if y + 1 < M and Map[y][x] < Map[y + 1][x] :
+    if y + 1 < M and Map[y][x] < Map[y + 1][x]:
         dp[y][x] += dp[y + 1][x]
 
 print(dp[M - 1][N - 1])

@@ -1,4 +1,3 @@
-
 # 문제
 # 시작 -> 실행 -> cmd를 쳐보자. 검정 화면이 눈에 보인다.
 # 여기서 dir이라고 치면 그 디렉토리에 있는 서브디렉토리와 파일이 모두 나온다.
@@ -29,20 +28,19 @@ file_name = []
 for _ in range(n):
     file_name.append(sys.stdin.readline().strip())
 
-if n != 1 :
+if n != 1:
     length = len(file_name[0])
     pattern = [0] * length
 
     for i in range(n - 1):
         for j in range(length):
-            if file_name[i][j] is file_name[i + 1][j] \
-                and pattern[j] is not '?':
+            if file_name[i][j] is file_name[i + 1][j] and pattern[j] is not "?":
                 pattern[j] = file_name[i][j]
 
             else:
-                pattern[j] = '?'
+                pattern[j] = "?"
 
-    print(''.join(pattern))
+    print("".join(pattern))
 
 else:
     print(file_name[0])

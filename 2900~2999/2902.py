@@ -1,4 +1,3 @@
-
 # 문제
 # KMP 알고리즘이 KMP인 이유는 이를 만든 사람의 성이 Knuth, Morris, Prett이기 때문이다.
 # 이렇게 알고리즘에는 발견한 사람의 성을 따서 이름을 붙이는 경우가 많다.
@@ -25,4 +24,4 @@
 # 출력
 # 첫 줄에 짧은 형태 이름을 출력한다.
 
-print(''.join(list(filter(str.isupper, input()))))
+print("".join(list(filter(str.isupper, input()))))

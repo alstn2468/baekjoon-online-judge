@@ -1,4 +1,3 @@
-
 # 문제
 # 우리나라 고유의 윷놀이는 네 개의 윷짝을 던져서 배(0)와 등(1)이
 # 나오는 숫자를 세어 도, 개, 걸, 윷, 모를 결정한다.
@@ -16,24 +15,26 @@
 # 첫째 줄부터 셋째 줄까지 한 줄에 하나씩 결과를
 # 도는 A, 개는 B, 걸은 C, 윷은 D, 모는 E로 출력 한다.
 
-def yut_sol(yut) :
-    if yut.count('1') == 1 :
-        print('C')
 
-    elif yut.count('1') == 2 :
-        print('B')
+def yut_sol(yut):
+    if yut.count("1") == 1:
+        print("C")
 
-    elif yut.count('1') == 3 :
-        print('A')
+    elif yut.count("1") == 2:
+        print("B")
 
-    elif yut.count('1') == 4 :
-        print('E')
+    elif yut.count("1") == 3:
+        print("A")
 
-    else :
-        print('D')
+    elif yut.count("1") == 4:
+        print("E")
+
+    else:
+        print("D")
+
 
 yut = []
 
-for i in range(3) :
+for i in range(3):
     yut.append(input().split())
     yut_sol(yut[i])

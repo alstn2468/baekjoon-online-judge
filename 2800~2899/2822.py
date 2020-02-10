@@ -1,4 +1,3 @@
-
 # 문제
 # 상근이는 퀴즈쇼의 PD이다. 이 퀴즈쇼의 참가자는 총 8개 문제를 푼다.
 # 참가자는 각 문제를 풀고, 그 문제를 풀었을 때 얻는 점수는 문제를 풀기 시작한 시간부터 경과한 시간과 난이도로 결정한다.
@@ -25,5 +24,4 @@ for i in range(1, 9):
 records = sorted(records, key=lambda x: x[1], reverse=True)[:5]
 
 print(sum([record[1] for record in records]))
-print(' '.join([str(record[0])
-                for record in sorted(records, key=lambda x: x[0])]))
+print(" ".join([str(record[0]) for record in sorted(records, key=lambda x: x[0])]))

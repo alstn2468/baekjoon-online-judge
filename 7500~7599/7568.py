@@ -1,4 +1,3 @@
-
 # 문제
 # 우리는 사람의 덩치를 키와 몸무게, 이 두 개의 값으로 표현하여 그 등수를 매겨보려고 한다.
 # 어떤 사람의 몸무게가 x kg이고 키가 y cm라면 이 사람의 덩치는 (x,y)로 표시된다.
@@ -42,11 +41,9 @@ for _ in range(N):
 for i in range(len(peoples)):
     rank = 0
     for j in range(len(peoples)):
-        if peoples[i][0] < peoples[j][0] \
-            and peoples[i][1] < peoples[j][1] \
-                and i != j:
+        if peoples[i][0] < peoples[j][0] and peoples[i][1] < peoples[j][1] and i != j:
             rank += 1
 
     ranks[i] += rank
 
-print(' '.join(list(map(str, ranks))))
+print(" ".join(list(map(str, ranks))))

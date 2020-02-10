@@ -1,4 +1,3 @@
-
 # 문제
 # 태보(TaeBo)란, 태권도와 복싱을 조합한 운동이다.
 # 복싱의 공격 기술로는 민첩하게 앞주먹을 뻗으면서 가볍게 치는 잽, 옆으로 치는 펀치인 훅이 있다.
@@ -14,4 +13,4 @@
 # 출력
 # 첫째 줄에 왼손의 잔상의 수와 오른손의 잔상의 수를 출력한다.
 
-print(' '.join(list(map(lambda x: str(x.count("@")), input().split("(^0^)")))))
+print(" ".join(list(map(lambda x: str(x.count("@")), input().split("(^0^)")))))

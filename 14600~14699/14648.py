@@ -1,4 +1,3 @@
-
 # 문제
 # 어떤 문제에 비슷한 형태의 질문이 여러 개 주어지는 문제를 쿼리 문제라고 부른다.
 # 쿼리 문제는 쿼리가 주어진 순서대로 실행해서 해결할 수도 있지만,
@@ -29,5 +28,7 @@ for _ in range(q):
         seq[query[1] - 1], seq[query[2] - 1] = seq[query[2] - 1], seq[query[1] - 1]
 
     else:
-        print(sum([seq[i] for i in range(query[1] - 1, query[2])])
-              - sum([seq[i] for i in range(query[3] - 1, query[4])]))
+        print(
+            sum([seq[i] for i in range(query[1] - 1, query[2])])
+            - sum([seq[i] for i in range(query[3] - 1, query[4])])
+        )

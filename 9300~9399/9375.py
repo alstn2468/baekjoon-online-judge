@@ -1,4 +1,3 @@
-
 # 문제
 # 해빈이는 패션에 매우 민감해서 한번 입었던 옷들의 조합을 절대 다시 입지 않는다.
 # 예를 들어 오늘 해빈이가 안경, 코트, 상의, 신발을 입었다면,
@@ -17,22 +16,22 @@
 
 test_case = int(input())
 
-for i in range(test_case) :
-	items_num = int(input())
-	items = {}
+for i in range(test_case):
+    items_num = int(input())
+    items = {}
 
-	for i in range(items_num) :
-		item, type = input().split()
+    for i in range(items_num):
+        item, type = input().split()
 
-		if not type in items :
-			items[type] = []
+        if not type in items:
+            items[type] = []
 
-		items[type].append(item)
+        items[type].append(item)
 
-	sum = 1
+    sum = 1
 
-	for i in items :
-		sum *= len(items[i]) + 1
+    for i in items:
+        sum *= len(items[i]) + 1
 
-	sum -= 1
-	print(sum)
+    sum -= 1
+    print(sum)

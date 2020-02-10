@@ -1,4 +1,3 @@
-
 # 문제
 # 세준이는 컵 3개를 탁자위에 일렬로 놓았다.
 # 컵의 번호는 가장 왼쪽 컵부터 순서대로 1번, 2번 3번이고,
@@ -26,17 +25,17 @@ result = 1
 
 M = int(input())
 
-for _ in range(M) :
+for _ in range(M):
     cup = list(map(int, input().split()))
 
-    if result in cup :
-        if result == cup[0] :
+    if result in cup:
+        if result == cup[0]:
             result = cup[1]
-            
-        else :
+
+        else:
             result = cup[0]
 
-    else :
+    else:
         continue
 
 print(result)

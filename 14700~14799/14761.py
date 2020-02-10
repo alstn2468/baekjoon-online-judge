@@ -1,4 +1,3 @@
-
 # 문제
 # According to Wikipedia, FizzBuzz is a group word game for children to teach them about division.
 # This may or may not be true, but this question is generally used to torture screen
@@ -34,4 +33,4 @@ def solution(X, Y, M):
 
 if __name__ == "__main__":
     X, Y, M = map(int, input().split())
-    print('\n'.join([str(solution(X, Y, i)) for i in range(1, M + 1)]))
+    print("\n".join([str(solution(X, Y, i)) for i in range(1, M + 1)]))

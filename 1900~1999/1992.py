@@ -1,4 +1,3 @@
-
 # 문제
 # 흑백 영상을 압축하여 표현하는 데이터 구조로 쿼드 트리(Quad Tree)라는 방법이 있다.
 # 흰 점을 나타내는 0과 검은 점을 나타내는 1로만 이루어진 영상(2차원 배열)에서
@@ -24,8 +23,9 @@
 N = int(input())
 image = [input() for _ in range(N)]
 
-def quad_tree(x, y, n) :
-    if n == 1 :
+
+def quad_tree(x, y, n):
+    if n == 1:
         return image[y][x]
 
     new_size = n // 2
@@ -35,9 +35,10 @@ def quad_tree(x, y, n) :
     quad_3 = quad_tree(x, y + new_size, new_size)
     quad_4 = quad_tree(x + new_size, y + new_size, new_size)
 
-    if quad_1 == quad_2 == quad_3 == quad_4 and len(quad_1) == 1 :
+    if quad_1 == quad_2 == quad_3 == quad_4 and len(quad_1) == 1:
         return quad_1
 
     return "(" + quad_1 + quad_2 + quad_3 + quad_4 + ")"
+
 
 print(quad_tree(0, 0, N))

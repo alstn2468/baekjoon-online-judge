@@ -1,4 +1,3 @@
-
 # 문제
 # 가이우스 율리우스 카이사르(Gaius Julius Caesar)는 고대 로마 군인이자 정치가였습니다.
 # 카이사르는 비밀스럽게 편지를 쓸 때, 'A'를 'D로', 'B'를 'E'로, 'C'를 'F'로... 이런 식으로
@@ -22,10 +21,10 @@
 def caesar(ch, n):
     rotated = ord(ch) - n
 
-    if rotated < ord('A'):
+    if rotated < ord("A"):
         rotated += 26
 
     return chr(rotated)
 
 
-print(''.join(caesar(c, 3) for c in input()))
+print("".join(caesar(c, 3) for c in input()))

@@ -1,4 +1,3 @@
-
 # 문제
 # 수 N개 A1, A2, ..., AN이 주어진다.
 # A를 오름차순 정렬했을 때,
@@ -16,7 +15,7 @@ import sys
 N, K = map(int, sys.stdin.readline().split())
 A = sys.stdin.readline().split()
 
-for i in range(len(A)) :
+for i in range(len(A)):
     A[i] = int(A[i])
 
 A.sort()

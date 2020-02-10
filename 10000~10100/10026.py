@@ -1,4 +1,3 @@
-
 # 문제
 # 적록색약은 빨간색과 초록색의 차이를 거의 느끼지 못한다.
 # 따라서, 적록색약인 사람이 보는 그림은 아닌 사람이 보는 그림과는 좀 다를 수 있다.
@@ -34,10 +33,10 @@ def can(blind, u, v):
         return True
 
     if blind:
-        if u == 'R' and v == 'G':
+        if u == "R" and v == "G":
             return True
 
-        if u == 'G' and v == 'R':
+        if u == "G" and v == "R":
             return True
 
     return False
@@ -76,4 +75,4 @@ def go(a, blind):
 
 n = int(input())
 a = [input() for _ in range(n)]
-print(str(go(a, False)) + ' ' + str(go(a, True)))
+print(str(go(a, False)) + " " + str(go(a, True)))

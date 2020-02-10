@@ -1,4 +1,3 @@
-
 # 문제
 # 도현이는 Counter Terror Unit (CTU)에서 일하는 특수요원이다.
 # 도현이는 모든 사건을 정확하게 24시간이 되는 순간 해결하는 것으로 유명하다.
@@ -27,4 +26,4 @@ start = datetime.strptime(input(), "%H:%M:%S")
 
 result = str(start - now).split(", ")
 
-print(':'.join(map(lambda x: x.zfill(2), result[len(result) - 1].split(":"))))
+print(":".join(map(lambda x: x.zfill(2), result[len(result) - 1].split(":"))))

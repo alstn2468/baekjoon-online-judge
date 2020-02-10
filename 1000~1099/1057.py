@@ -1,4 +1,3 @@
-
 # 문제
 # 김지민은 N명이 참가하는 스타 토너먼트에 진출했다.
 # 토너먼트는 다음과 같이 진행된다.
@@ -29,7 +28,7 @@
 N, Kim, Lim = map(int, input().split())
 round = 0
 
-while Kim != Lim :
+while Kim != Lim:
     round += 1
     f = lambda x: (x - (x // 2))
     Kim, Lim = f(Kim), f(Lim)

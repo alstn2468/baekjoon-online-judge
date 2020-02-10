@@ -1,4 +1,3 @@
-
 # 문제
 # 지민이는 자신의 저택에서 MN개의 단위 정사각형으로 나누어져 있는 M*N크기의 보드를 찾았다.
 # 어떤 정사각형은 검정색으로 칠해져있고, 나머지는 흰색으로 칠해져 있다.
@@ -19,6 +18,7 @@
 #
 # 출력
 # 첫째 줄에 지민이가 8*8크기로 자른 뒤에 다시 칠해야하는 정사각형 개수의 최솟값을 출력한다.
+
 
 def check_board(x, y, chess_board):
     white, black = 0, 0
@@ -50,24 +50,24 @@ N, M = map(int, input().split())
 
 chess_board = []
 WHITE = [
-    'WBWBWBWB',
-    'BWBWBWBW',
-    'WBWBWBWB',
-    'BWBWBWBW',
-    'WBWBWBWB',
-    'BWBWBWBW',
-    'WBWBWBWB',
-    'BWBWBWBW'
+    "WBWBWBWB",
+    "BWBWBWBW",
+    "WBWBWBWB",
+    "BWBWBWBW",
+    "WBWBWBWB",
+    "BWBWBWBW",
+    "WBWBWBWB",
+    "BWBWBWBW",
 ]
 BLACK = [
-    'BWBWBWBW',
-    'WBWBWBWB',
-    'BWBWBWBW',
-    'WBWBWBWB',
-    'BWBWBWBW',
-    'WBWBWBWB',
-    'BWBWBWBW',
-    'WBWBWBWB'
+    "BWBWBWBW",
+    "WBWBWBWB",
+    "BWBWBWBW",
+    "WBWBWBWB",
+    "BWBWBWBW",
+    "WBWBWBWB",
+    "BWBWBWBW",
+    "WBWBWBWB",
 ]
 
 for _ in range(N):

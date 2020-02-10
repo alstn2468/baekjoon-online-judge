@@ -1,4 +1,3 @@
-
 # 문제
 # 크기가 N인 배열 A가 있다. 배열에 있는 모든 수는 서로 다르다.
 # 이 배열을 소트할 때, 연속된 두 개의 원소만 교환할 수 있다.
@@ -23,9 +22,9 @@ while S:
     if idx == N:
         break
 
-    i = arr.index(max(arr[idx: idx + S + 1]))
+    i = arr.index(max(arr[idx : idx + S + 1]))
     arr.insert(idx, arr.pop(i))
-    S -= (i - idx)
+    S -= i - idx
     idx += 1
 
-print(' '.join(map(str, arr)))
+print(" ".join(map(str, arr)))

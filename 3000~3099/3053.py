@@ -1,4 +1,3 @@
-
 # 문제
 # 19세기 독일 수학자 헤르만 민코프스키는 비유클리드 기하학 중 택시 기하학을 고안했다.
 # 택시 기하학에서 두 점 T1(x1, y1), T2(x2,y 2) 사이의 거리는 다음과 같이 구할 수 있다.
@@ -21,5 +20,5 @@ import math
 
 r = int(input())
 
-print('{0:.6f}'.format(r * r * math.pi))
-print('{0:.6f}'.format(r * r * 2))
+print("{0:.6f}".format(r * r * math.pi))
+print("{0:.6f}".format(r * r * 2))

@@ -1,4 +1,3 @@
-
 # 문제
 # 체조나 다이빙 등의 경기에서 일부 심판이 자기가 좋아하는 선수에게 높은 점수를,
 # 싫어하는 선수에게 낮은 점수를 주는 경우가 종종 있었다.
@@ -30,9 +29,8 @@
 
 N, K = map(int, input().split())
 scores = [float(input()) * 10 for _ in range(N)]
-scores = sorted(scores)[K:N - K]
+scores = sorted(scores)[K : N - K]
 trimmed_mean = sum(scores) / (N - 2 * K) / 10
 correction_mean = (sum(scores) + scores[0] * K + scores[-1] * K) / (N * 10)
 
-print("{:.2f}\n{:.2f}".format(
-    trimmed_mean + 0.00000001, correction_mean + 0.00000001))
+print("{:.2f}\n{:.2f}".format(trimmed_mean + 0.00000001, correction_mean + 0.00000001))

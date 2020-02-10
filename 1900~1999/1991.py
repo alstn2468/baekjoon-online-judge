@@ -1,4 +1,3 @@
-
 # 문제
 # 이진 트리를 입력받아 전위 순회(preorder traversal),
 # 중위 순회(inorder traversal), 후위 순회(postorder traversal)한
@@ -24,7 +23,6 @@ import sys
 
 
 class Node:
-
     def __init__(self, data):
         self.right = 0
         self.left = 0
@@ -32,7 +30,6 @@ class Node:
 
 
 class BinaryTree:
-
     def __init__(self):
         self.root = Node(0)
 
@@ -59,27 +56,24 @@ def find(curr, data):
 
 
 def preorder(node):
-    if (type(node) is not int) \
-        and node.data != 0 and node.data != '.':
-        print(node.data, end='')
+    if (type(node) is not int) and node.data != 0 and node.data != ".":
+        print(node.data, end="")
         preorder(node.left)
         preorder(node.right)
 
 
 def inorder(node):
-    if (type(node) is not int) \
-        and node.data != 0 and node.data != '.':
+    if (type(node) is not int) and node.data != 0 and node.data != ".":
         inorder(node.left)
-        print(node.data, end='')
+        print(node.data, end="")
         inorder(node.right)
 
 
 def postoreder(node):
-    if (type(node) is not int) \
-        and node.data != 0 and node.data != '.':
+    if (type(node) is not int) and node.data != 0 and node.data != ".":
         postoreder(node.left)
         postoreder(node.right)
-        print(node.data, end='')
+        print(node.data, end="")
 
 
 bt = BinaryTree()

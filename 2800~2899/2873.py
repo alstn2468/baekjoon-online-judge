@@ -1,4 +1,3 @@
-
 # 문제
 # 상근이는 우리나라에서 가장 유명한 놀이 공원을 운영하고 있다.
 # 이 놀이 공원은 야외에 있고, 다양한 롤러코스터가 많이 있다.
@@ -27,14 +26,14 @@ pos = [list(map(int, input().split())) for _ in range(r)]
 
 if r % 2 == 1:
     for _ in range(r // 2):
-        print('R' * (c - 1) + 'D' + 'L' * (c - 1) + 'D', end='')
-    print('R' * (c - 1))
+        print("R" * (c - 1) + "D" + "L" * (c - 1) + "D", end="")
+    print("R" * (c - 1))
 
 
 elif c % 2 == 1:
     for _ in range(c // 2):
-        print('D' * (r - 1) + 'R' + 'U' * (r - 1) + 'R', end='')
-    print('D' * (r - 1))
+        print("D" * (r - 1) + "R" + "U" * (r - 1) + "R", end="")
+    print("D" * (r - 1))
 
 else:
     min_value = 10000
@@ -46,28 +45,28 @@ else:
                 x, y = i, j
 
     x1, y1, x2, y2 = 0, 0, r - 1, c - 1
-    result1, result2 = '', ''
+    result1, result2 = "", ""
 
-    while(x1 + 2 <= x):
+    while x1 + 2 <= x:
         x1 += 2
-        result1 += 'R' * (c - 1) + 'D' + 'L' * (c - 1) + 'D'
+        result1 += "R" * (c - 1) + "D" + "L" * (c - 1) + "D"
 
-    while(x2 - 2 >= x):
+    while x2 - 2 >= x:
         x2 -= 2
-        result2 += 'D' + 'L' * (c - 1) + 'D' + 'R' * (c - 1)
+        result2 += "D" + "L" * (c - 1) + "D" + "R" * (c - 1)
 
-    while(y1 + 2 <= y):
+    while y1 + 2 <= y:
         y1 += 2
-        result1 += 'DRUR'
+        result1 += "DRUR"
 
-    while(y2 - 2 >= y):
+    while y2 - 2 >= y:
         y2 -= 2
-        result2 = 'RURD' + result2
+        result2 = "RURD" + result2
 
     if x1 + 1 == x:
-        result1 += 'RD'
+        result1 += "RD"
 
     elif y1 + 1 == y:
-        result1 += 'DR'
+        result1 += "DR"
 
     print(result1 + result2)

@@ -1,4 +1,3 @@
-
 # 문제
 # 두 정수 N과 F가 주어진다.
 # 지민이는 정수 N의 가장 뒤 두 자리를 적절히 바꿔서 N을 F로 나누어 떨어지게 만들려고 한다.
@@ -21,7 +20,7 @@ F = int(input())
 result, back = 100, None
 
 for i in range(100):
-    front = N[:len(N) - 2]
+    front = N[: len(N) - 2]
 
     if i < 10:
         back = str(i).zfill(2)

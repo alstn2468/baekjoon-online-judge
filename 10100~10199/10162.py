@@ -1,4 +1,3 @@
-
 # 문제
 # 3개의 시간조절용 버튼 A B C가 달린 전자레인지가 있다.
 # 각 버튼마다 일정한 시간이 지정되어 있어 해당 버튼을 한번 누를 때마다 그 시간이 동작시간에 더해진다.
@@ -27,9 +26,9 @@ if T % 10 == 0:
     for key in times.keys():
         if T >= key:
             times[key] = T // key
-            T -= (times[key] * key)
+            T -= times[key] * key
 
-    print(' '.join(list(map(str, times.values()))))
+    print(" ".join(list(map(str, times.values()))))
 
 else:
     print(-1)

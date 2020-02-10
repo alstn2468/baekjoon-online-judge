@@ -1,4 +1,3 @@
-
 # 문제
 # 서기 2012년!드디어 2년간 수많은 국민들을 기다리게 한 게임
 # ACM Craft (Association of Construction Manager Craft)가 발매되었다.
@@ -39,17 +38,18 @@ preBuilt = dict()
 N, D, K = -1, -1, -1
 cache = dict()
 
-def Sol(W) :
 
-    if W in cache :
+def Sol(W):
+
+    if W in cache:
         return cache[W]
 
-    if W not in preBuilt :
+    if W not in preBuilt:
         return D[W - 1]
 
     ret = 0
 
-    for preW in preBuilt[W] :
+    for preW in preBuilt[W]:
 
         ret = max(ret, Sol(preW))
 
@@ -58,21 +58,22 @@ def Sol(W) :
 
     return ret
 
-line = lambda : sys.stdin.readline()
+
+line = lambda: sys.stdin.readline()
 
 T = int(line())
 
-for i in range(T) :
+for i in range(T):
 
-    N, K = (int(x) for x in line().split(' '))
-    D = [int(x) for x in line().split(' ')]
+    N, K = (int(x) for x in line().split(" "))
+    D = [int(x) for x in line().split(" ")]
 
     preBuilt = dict()
     cache = dict()
 
-    for j in range(K) :
+    for j in range(K):
 
-        X, Y = (int(x) for x in line().split(' '))
+        X, Y = (int(x) for x in line().split(" "))
         preBuilt.setdefault(Y, []).append(X)
 
     W = int(line())

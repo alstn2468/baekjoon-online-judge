@@ -1,4 +1,3 @@
-
 # 문제
 # 정수 X에 사용할 수 있는 연산은 다음과 같이 세 가지 이다.
 # X가 3으로 나누어 떨어지면, 3으로 나눈다.
@@ -36,4 +35,4 @@ for i in range(2, N + 1):
 print(result[N][0])
 
 for i in result[N][1][::-1]:
-    print(i, end=' ')
+    print(i, end=" ")

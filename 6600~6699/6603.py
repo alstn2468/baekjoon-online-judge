@@ -1,4 +1,3 @@
-
 # 문제
 # 독일 로또는 {1, 2, ..., 49}에서 수 6개를 고른다.
 # 로또 번호를 선택하는데 사용되는 가장 유명한 전략은 49가지 수 중 k(k>6)개의 수를 골라
@@ -23,7 +22,7 @@ from itertools import combinations
 while True:
     nums = input().split()
 
-    if nums[0] is '0':
+    if nums[0] is "0":
         break
 
     nums = nums[1:]
@@ -31,5 +30,5 @@ while True:
     combs = combinations(nums, 6)
 
     for comb in combs:
-        print(' '.join(comb))
+        print(" ".join(comb))
     print()

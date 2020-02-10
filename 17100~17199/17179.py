@@ -1,4 +1,3 @@
-
 # 문제
 # 생일을 맞이한 주성이가 생일 파티를 준비하려고 한다.
 # 주성이는 일반 케이크 대신 평소 좋아하던 롤 케이크를 준비했다.
@@ -21,7 +20,7 @@
 # 출력
 # N개 줄에 걸쳐 각 목록에 있는 횟수대로 롤 케이크를 잘랐을 때 가장 작은 조각의 길이의 최댓값을 출력한다.
 
-input = __import__('sys').stdin.readline
+input = __import__("sys").stdin.readline
 
 N, M, L = map(int, input().split())
 S = []

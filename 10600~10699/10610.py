@@ -1,4 +1,3 @@
-
 # 문제
 # 어느 날, 미르코는 우연히 길거리에서 양수 N을 보았다.
 # 미르코는 30이란 수를 존경하기 때문에,
@@ -16,8 +15,8 @@
 N = input()
 
 if sum(list(map(int, N))) % 3 == 0:
-    if '0' in N:
-        N = ''.join(sorted(list(N), reverse=True))
+    if "0" in N:
+        N = "".join(sorted(list(N), reverse=True))
         print(N)
 
     else:

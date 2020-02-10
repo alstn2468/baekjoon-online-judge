@@ -1,4 +1,3 @@
-
 # 문제
 # 김진영이 듣도 못한 사람의 명단과, 보도 못한 사람의 명단이 주어질 때, 듣도 보도 못한 사람의 명단을 구하는 프로그램을 작성하시오.
 #
@@ -18,4 +17,4 @@ see = set([input() for _ in range(M)])
 
 listen_see = sorted(list(listen & see))
 
-print(len(listen_see), *listen_see, sep='\n')
+print(len(listen_see), *listen_see, sep="\n")

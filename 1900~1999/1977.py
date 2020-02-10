@@ -1,4 +1,3 @@
-
 # 문제
 # M과 N이 주어질 때 M이상 N이하의 자연수 중 완전제곱수인 것을 모두 골라
 # 그 합을 구하고 그 중 최솟값을 찾는 프로그램을 작성하시오.
@@ -16,8 +15,13 @@
 
 from math import sqrt
 
-perf_squ_num = list(filter(lambda x: sqrt(x).is_integer(),
-                           [i for i in range(int(input()), int(input()) + 1)]))
+perf_squ_num = list(
+    filter(
+        lambda x: sqrt(x).is_integer(),
+        [i for i in range(int(input()), int(input()) + 1)],
+    )
+)
 
-print(-1) if len(perf_squ_num) == 0 else print(str(sum(perf_squ_num)) \
-                                               + "\n" + str(min(perf_squ_num)))
+print(-1) if len(perf_squ_num) == 0 else print(
+    str(sum(perf_squ_num)) + "\n" + str(min(perf_squ_num))
+)
