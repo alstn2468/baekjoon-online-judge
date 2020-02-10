@@ -40,7 +40,7 @@ for directory in directories:
             try:
                 print(f"============ {file} FORMATTING IN PROGRESS  ============")
                 os.system(f"black {file}")
-            except:
+            except Exception:
                 print(f"============ {file} FORMATTING FAIL  ============")
 
         print("#")
