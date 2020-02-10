@@ -22,3 +22,42 @@
 # 모든 연산을 처리한 후 Q에 남아 있는 값 중 최댓값과 최솟값을 출력하라.
 # 두 값은 한 줄에 출력하되 하나의 공백으로 구분하라.
 # 만약 Q가 비어있다면 ‘EMPTY’를 출력하라.
+
+import sys
+import heapq
+
+input = sys.stdin.readline
+
+for _ in range(int(input())):
+    max_heap, min_heap = [], []
+    del_max_heap, del_min_heap = [], []
+
+    for _ in range(int(input())):
+        c, n = input().split()
+        n = int(n)
+
+        if c == "I":
+            heapq.heappush(min_heap, n)
+            heapq.heappush(max_heap, -n)
+
+        else:
+            if n == 1:
+                if max_heap:
+                    heapq.heappush(del_max_heap, -heapq.heappop(max_heap))
+            else:
+                if min_heap:
+                    heapq.heappush(del_min_heap, -heapq.heappop(min_heap))
+
+        while max_heap and del_min_heap and max_heap[0] == del_min_heap[0]:
+            heapq.heappop(max_heap)
+            heapq.heappop(del_min_heap)
+
+        while min_heap and del_max_heap and min_heap[0] == del_max_heap[0]:
+            heapq.heappop(min_heap)
+            heapq.heappop(del_max_heap)
+
+    if not max_heap:
+        print("EMPTY")
+
+    else:
+        print(-max_heap[0], min_heap[0])
