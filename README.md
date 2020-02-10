@@ -99,6 +99,7 @@ Department of Computer Software Engineering
 > 1874 스택 수열<br/>
 > 1904 01타일<br/>
 > 1912 연속합<br/>
+> 1918 후위 표기식<br/>
 > 1920 수 찾기<br/>
 > 1924 2007년<br/>
 > 1927 최소 힙<br/>
