@@ -34,6 +34,7 @@ for _ in range(M):
 for i in range(N):
     graph[i][i] = 0
 
+for i in range(N):
     for j in range(N):
         for k in range(N):
             graph[j][k] = min(graph[j][k], graph[j][i] + graph[i][k])
