@@ -29,11 +29,7 @@ graph = [[INF for _ in range(N)] for _ in range(N)]
 for _ in range(M):
     a, b, c = map(int, input().split())
 
-    if graph[a - 1][b - 1] == INF:
-        graph[a - 1][b - 1] = c
-
-    else:
-        graph[a - 1][b - 1] = min(c, graph[a - 1][b - 1])
+    graph[a - 1][b - 1] = min(c, graph[a - 1][b - 1])
 
 for i in range(N):
     graph[i][i] = 0
