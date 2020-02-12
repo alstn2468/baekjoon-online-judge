@@ -100,6 +100,7 @@ Department of Computer Software Engineering
 > 1874 스택 수열<br/>
 > 1904 01타일<br/>
 > 1912 연속합<br/>
+> 1916 최소비용 구하기<br/>
 > 1918 후위 표기식<br/>
 > 1920 수 찾기<br/>
 > 1924 2007년<br/>
