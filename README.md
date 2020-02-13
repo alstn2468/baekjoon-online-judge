@@ -390,6 +390,7 @@ Department of Computer Software Engineering
 > 11720 숫자의 합<br/>
 > 11721 열 개씩 끊어 출력하기<br/>
 > 11722 가장 긴 감소하는 부분 수열<br>
+> 11723 집합<br/>
 > 11724 연결 요소의 개수<br/>
 > 11725 트리의 부모 찾기<br/>
 > 11726 2xn 타일링<br/>
