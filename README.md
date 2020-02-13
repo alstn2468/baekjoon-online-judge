@@ -85,6 +85,7 @@ Department of Computer Software Engineering
 > 1620 나는야 포켓몬 마스터 이다솜<br/>
 > 1629 곱셈<br/>
 > 1676 팩토리얼 0의 개수<br/>
+> 1697 숨바꼭질<br/>
 > 1699 제곱수의 합<br/>
 > 1707 이분 그래프<br/>
 > 1712 손익분기점<br/>
