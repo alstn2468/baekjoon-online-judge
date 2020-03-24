@@ -247,6 +247,7 @@ Department of Computer Software Engineering
 > 5339 콜센터<br/>
 > 5430 AC<br/>
 > 5524 입실 관리<br/>
+> 5525 IOIOI<br/>
 > 5532 방학 숙제<br/>
 > 5554 심부름 가는 길<br/>
 > 5565 영수증<br/>
