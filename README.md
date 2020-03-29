@@ -69,6 +69,7 @@ Department of Computer Software Engineering
 > 1351 무한 수열<br/>
 > 1357 뒤집힌 덧셈<br/>
 > 1373 2진수 8진수<br/>
+> 1389 케빈 베이컨의 6단계 법칙<br/>
 > 1406 에디터<br/>
 > 1408 24<br/>
 > 1427 소트인사이드<br/>
