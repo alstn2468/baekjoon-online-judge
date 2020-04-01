@@ -222,6 +222,7 @@ Department of Computer Software Engineering
 > 2935 소음<br/>
 > 2941 크로아티아 알파벳<br/>
 > 2953 나는 요리사다<br/>
+> 2960 에라토스테네스의 체<br/>
 > 2965 캥거루 세마리<br/>
 > 2979 트럭 주차<br/>
 > 2981 검문<br/>
