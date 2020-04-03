@@ -239,6 +239,7 @@ Department of Computer Software Engineering
 > 4153 직각삼각형<br>
 > 4344 평균은 넘겠지<br/>
 > 4592 중복을 없애자<br/>
+> 4641 Doubles<br/>
 > 4673 셀프 넘버<br/>
 > 4948 베르트랑 공준<br/>
 > 4949 균형잡힌 세상<br/>
