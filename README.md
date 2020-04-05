@@ -356,6 +356,7 @@ Department of Computer Software Engineering
 > 10953 A+B - 6<br/>
 > 10973 이전 순열<br/>
 > 10974 모든 순열<br/>
+> 10984 내 학점을 구해줘<br/>
 > 10987 모음의 개수<br/>
 > 10988 팰린드롬인지 확인하기<br/>
 > 10990 별 찍기 - 15<br/>
