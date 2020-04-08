@@ -18,7 +18,7 @@
 
 def dfs(selected, i, arr, M):
     if i == M:
-        print(" ".join(selected))
+        print(" ".join(list(map(str, selected))))
 
     else:
         for n in arr:
@@ -26,6 +26,6 @@ def dfs(selected, i, arr, M):
 
 
 N, M = map(int, input().split())
-arr = sorted(input().split())
+arr = sorted(list(map(int, input().split())))
 
 dfs([], 0, arr, M)
