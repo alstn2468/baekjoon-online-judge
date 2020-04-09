@@ -130,6 +130,7 @@ Department of Computer Software Engineering
 > 2163 초콜릿 자르기<br/>
 > 2164 카드2<br/>
 > 2167 2차원 배열의 합<br/>
+> 2178 미로 탐색<br/>
 > 2193 이친수<br>
 > 2217 로프<br/>
 > 2225 합분해<br/>
