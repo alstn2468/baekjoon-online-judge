@@ -443,6 +443,7 @@ Department of Computer Software Engineering
 > 15651 N과 M (3)<br/>
 > 15652 N과 M (4)<br/>
 > 15654 N과 M (5)<br/>
+> 15655 N과 M (6)<br/>
 > 15656 N과 M (7)<br/>
 > 15657 N과 M (8)<br/>
 > 15680 연세대학교<br/>
