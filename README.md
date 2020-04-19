@@ -231,6 +231,7 @@ Department of Computer Software Engineering
 > 3003 킹, 퀸, 룩, 비숍, 나이트, 폰<br/>
 > 3009 네 번째 점<br>
 > 3036 링<br/>
+> 3040 백설 공주와 일곱 난쟁이<br/>
 > 3046 R2<br/>
 > 3047 ABC<br/>
 > 3052 나머지<br/>
