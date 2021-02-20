@@ -229,6 +229,7 @@ Department of Computer Software Engineering
 > 2979 트럭 주차<br/>
 > 2981 검문<br/>
 > 3003 킹, 퀸, 룩, 비숍, 나이트, 폰<br/>
+> 3004 체스판 조각<br/>
 > 3009 네 번째 점<br>
 > 3036 링<br/>
 > 3040 백설 공주와 일곱 난쟁이<br/>
