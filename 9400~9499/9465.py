@@ -27,15 +27,15 @@ for _ in range(T):
     stickers = []
     n = int(input())
 
-    dp = [[0 for _ in range(n)] for _ in range(2)]
-
     stickers.append(list(map(int, input().split())))
     stickers.append(list(map(int, input().split())))
-
-    dp[0][0], dp[1][0] = stickers[0][0], stickers[1][0]
 
     for i in range(1, n):
-        dp[0][i] = max(dp[1][i - 1], dp[1][i - 2]) + stickers[0][i]
-        dp[1][i] = max(dp[0][i - 1], dp[0][i - 2]) + stickers[1][i]
+        if i == 1:
+            stickers[0][i] += stickers[1][i - 1]
+            stickers[1][i] += stickers[0][i - 1]
+        else:
+            stickers[0][i] += max(stickers[1][i - 1], stickers[1][i - 2])
+            stickers[1][i] += max(stickers[0][i - 1], stickers[0][i - 2])
 
-    print(max(dp[0][n - 1], dp[1][n - 1]))
+    print(max(stickers[0][n - 1], stickers[1][n - 1]))
