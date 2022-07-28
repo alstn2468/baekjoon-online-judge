@@ -36,7 +36,7 @@ class BinaryTree:
     def insert(self, data):
         self.curr = self.root
 
-        if self.curr.data is 0:
+        if self.curr.data == 0:
             self.curr.data = data[0]
             self.curr.left = Node(data[1])
             self.curr.right = Node(data[2])
